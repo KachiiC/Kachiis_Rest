@@ -7,4 +7,8 @@ def create_new_music_chart(data_location):
         data = json.load(json_file)
 
     for song in data:
-        print(song["artist"])
+        Song(
+            chart_number=int(song),
+            artist=data[song]["artist"],
+            song_title=data[song]["title"]
+        ).save()

@@ -8,12 +8,8 @@ from kach_api_endpoints.api_list.music_chart_api.music_chart_serializer import S
 class MusicChartTest(APITestCase):
     chart_endpoint = reverse('music_chart')
 
-    songs = {
-
-    }
-
     song_1 = Song(
         chart_position=1,
         artist="Ariana Grande",
         song_title="Positions"
-    ).save()
+    )
