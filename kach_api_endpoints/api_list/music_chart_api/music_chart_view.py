@@ -5,19 +5,22 @@ from .music_chart_model import Song
 from .music_chart_serializer import SongSerializer
 
 
-@api_view(['GET', 'POST'])
+@api_view(['GET'])
 def chart_list(request):
-    if request.method == 'GET':
-        data = Song.objects.all()
+    data = Song.objects.all()
 
-        serializer = SongSerializer(data, context={'request': request}, many=True)
+    serializer = SongSerializer(data, context={'request': request}, many=True)
 
-        return Response(serializer.data)
+    return Response(serializer.data)
 
-    elif request.method == 'POST':
-        serializer = SongSerializer(data=request.data, many=True)
-        if serializer.is_valid():
-            serializer.save()
-            return Response(status=status.HTTP_201_CREATED)
 
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+@api_view(['GET'])
+def chart_position(request, chart_number):
+    try:
+        chart_song = Song.objects.get(chart_number=chart_number)
+    except Song.DoesNotExist:
+        return Response(status=status.HTTP_404_NOT_FOUND)
+
+    serializer = SongSerializer(chart_song, context={'request': request})
+
+    return Response(serializer.data)

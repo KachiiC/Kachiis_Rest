@@ -5,7 +5,7 @@ from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, 
 from kach_api_endpoints.api_list.youtube_api.youtube_serializer import YoutubeVideoSerializer, YoutubePlaylistSerializer
 
 
-class MMAVideosTest(APITestCase):
+class YoutubeVideosTest(APITestCase):
     videos_endpoint = reverse('youtube_videos')
     playlist_endpoint = reverse('youtube_playlists')
 
@@ -49,7 +49,9 @@ class MMAVideosTest(APITestCase):
         playlist_id="PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5"
     )
 
+    expected_videos = [youtube_video_1, youtube_video_2, youtube_video_3]
 
+    expected_playlists = [youtube_playlist_1, youtube_playlist_2]
 
     def setUp(self):
         """Saving videos and playlists"""
@@ -58,7 +60,6 @@ class MMAVideosTest(APITestCase):
 
         for obj in self.expected_playlists:
             obj.save()
-
 
     def test_retrieve_all_videos(self):
         """"Retrieve all videos"""
