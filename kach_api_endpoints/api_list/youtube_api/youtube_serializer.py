@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from kach_api_endpoints.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
+from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
 
 
 class YoutubeVideoSerializer(serializers.ModelSerializer):

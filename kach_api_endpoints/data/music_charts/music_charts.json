@@ -1,0 +1,402 @@
+{
+    "1": {
+        "artist": "Ariana Grande",
+        "title": "Positions"
+    },
+    "2": {
+        "artist": "Luke Combs",
+        "title": "Forever After All"
+    },
+    "3": {
+        "artist": "24kGoldn Featuring iann dior",
+        "title": "Mood"
+    },
+    "4": {
+        "artist": "Drake Featuring Lil Durk",
+        "title": "Laugh Now Cry Later"
+    },
+    "5": {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights"
+    },
+    "6": {
+        "artist": "Gabby Barrett Featuring Charlie Puth",
+        "title": "I Hope"
+    },
+    "7": {
+        "artist": "Cardi B Featuring Megan Thee Stallion",
+        "title": "WAP"
+    },
+    "8": {
+        "artist": "Jawsh 685 x Jason Derulo",
+        "title": "Savage Love (Laxed - Siren Beat)"
+    },
+    "9": {
+        "artist": "Internet Money & Gunna Featuring Don Toliver & NAV",
+        "title": "Lemonade"
+    },
+    "10": {
+        "artist": "Justin Bieber Featuring Chance The Rapper",
+        "title": "Holy"
+    },
+    "11": {
+        "artist": "DaBaby Featuring Roddy Ricch",
+        "title": "Rockstar"
+    },
+    "12": {
+        "artist": "BTS",
+        "title": "Dynamite"
+    },
+    "13": {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go"
+    },
+    "14": {
+        "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+        "title": "For The Night"
+    },
+    "15": {
+        "artist": "Harry Styles",
+        "title": "Watermelon Sugar"
+    },
+    "16": {
+        "artist": "Chris Brown & Young Thug",
+        "title": "Go Crazy"
+    },
+    "17": {
+        "artist": "Moneybagg Yo",
+        "title": "Said Sum"
+    },
+    "18": {
+        "artist": "Post Malone",
+        "title": "Circles"
+    },
+    "19": {
+        "artist": "Kane Brown With Swae Lee & Khalid",
+        "title": "Be Like That"
+    },
+    "20": {
+        "artist": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+        "title": "Whats Poppin"
+    },
+    "21": {
+        "artist": "Jason Aldean",
+        "title": "Got What I Got"
+    },
+    "22": {
+        "artist": "Ava Max",
+        "title": "Kings & Queens"
+    },
+    "23": {
+        "artist": "Morgan Wallen",
+        "title": "More Than My Hometown"
+    },
+    "24": {
+        "artist": "Juice WRLD x Marshmello",
+        "title": "Come & Go"
+    },
+    "25": {
+        "artist": "surf mesa Featuring Emilee",
+        "title": "ily"
+    },
+    "26": {
+        "artist": "Lee Brice",
+        "title": "One Of Them Girls"
+    },
+    "27": {
+        "artist": "Justin Bieber & benny blanco",
+        "title": "Lonely"
+    },
+    "28": {
+        "artist": "AJR",
+        "title": "Bang!"
+    },
+    "29": {
+        "artist": "Pop Smoke",
+        "title": "What You Know Bout Love"
+    },
+    "30": {
+        "artist": "Luke Combs",
+        "title": "Better Together"
+    },
+    "31": {
+        "artist": "Harry Styles",
+        "title": "Adore You"
+    },
+    "32": {
+        "artist": "Shawn Mendes",
+        "title": "Wonder"
+    },
+    "33": {
+        "artist": "Fleetwood Mac",
+        "title": "Dreams"
+    },
+    "34": {
+        "artist": "Jack Harlow",
+        "title": "Tyler Herro"
+    },
+    "35": {
+        "artist": "Pop Smoke Featuring 50 Cent & Roddy Ricch",
+        "title": "The Woo"
+    },
+    "36": {
+        "artist": "HARDY Featuring Lauren Alaina & Devin Dawson",
+        "title": "One Beer"
+    },
+    "37": {
+        "artist": "Russell Dickerson",
+        "title": "Love You Like I Used To"
+    },
+    "38": {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now"
+    },
+    "39": {
+        "artist": "SAINt JHN",
+        "title": "Roses"
+    },
+    "40": {
+        "artist": "Rod Wave Featuring ATR Son Son",
+        "title": "Rags2Riches"
+    },
+    "41": {
+        "artist": "Luke Combs",
+        "title": "Lovin' On You"
+    },
+    "42": {
+        "artist": "Dua Lipa Featuring DaBaby",
+        "title": "Levitating"
+    },
+    "43": {
+        "artist": "Parker McCollum",
+        "title": "Pretty Heart"
+    },
+    "44": {
+        "artist": "Dua Lipa",
+        "title": "Break My Heart"
+    },
+    "45": {
+        "artist": "Jameson Rodgers",
+        "title": "Some Girls"
+    },
+    "46": {
+        "artist": "Blake Shelton Featuring Gwen Stefani",
+        "title": "Happy Anywhere"
+    },
+    "47": {
+        "artist": "Pop Smoke Featuring Lil Tjay",
+        "title": "Mood Swings"
+    },
+    "48": {
+        "artist": "Matt Stell",
+        "title": "Everywhere But On"
+    },
+    "49": {
+        "artist": "21 Savage & Metro Boomin Featuring Drake",
+        "title": "Mr. Right Now"
+    },
+    "50": {
+        "artist": "Dan + Shay",
+        "title": "I Should Probably Go To Bed"
+    },
+    "51": {
+        "artist": "Travis Scott Featuring Young Thug & M.I.A.",
+        "title": "Franchise"
+    },
+    "52": {
+        "artist": "Money Man Featuring Lil Baby",
+        "title": "24"
+    },
+    "53": {
+        "artist": "Ty Dolla $ign Featuring Post Malone",
+        "title": "Spicy"
+    },
+    "54": {
+        "artist": "DJ Khaled Featuring Drake",
+        "title": "Popstar"
+    },
+    "55": {
+        "artist": "Tate McRae",
+        "title": "You Broke Me First."
+    },
+    "56": {
+        "artist": "Miley Cyrus",
+        "title": "Midnight Sky"
+    },
+    "57": {
+        "artist": "Machine Gun Kelly X blackbear",
+        "title": "My Ex's Best Friend"
+    },
+    "58": {
+        "artist": "Sam Smith",
+        "title": "Diamonds"
+    },
+    "59": {
+        "artist": "Saweetie",
+        "title": "Tap In"
+    },
+    "60": {
+        "artist": "Morgan Wallen",
+        "title": "7 Summers"
+    },
+    "61": {
+        "artist": "21 Savage & Metro Boomin",
+        "title": "Runnin"
+    },
+    "62": {
+        "artist": "Juice WRLD",
+        "title": "Wishing Well"
+    },
+    "63": {
+        "artist": "Chris Stapleton",
+        "title": "Starting Over"
+    },
+    "64": {
+        "artist": "Maluma",
+        "title": "Hawai"
+    },
+    "65": {
+        "artist": "Jon Pardi",
+        "title": "Ain't Always The Cowboy"
+    },
+    "66": {
+        "artist": "Ne-Yo & Jeremih",
+        "title": "U 2 Luv"
+    },
+    "67": {
+        "artist": "Chris Lane",
+        "title": "Big, Big Plans"
+    },
+    "68": {
+        "artist": "SZA Featuring Ty Dolla $ign",
+        "title": "Hit Different"
+    },
+    "69": {
+        "artist": "Luke Combs",
+        "title": "The Other Guy"
+    },
+    "70": {
+        "artist": "H.E.R.",
+        "title": "Damage"
+    },
+    "71": {
+        "artist": "Conan Gray",
+        "title": "Heather"
+    },
+    "72": {
+        "artist": "Megan Thee Stallion Featuring Young Thug",
+        "title": "Don't Stop"
+    },
+    "73": {
+        "artist": "Polo G",
+        "title": "Martin & Gina"
+    },
+    "74": {
+        "artist": "Harry Styles",
+        "title": "Golden"
+    },
+    "75": {
+        "artist": "Jhene Aiko Featuring H.E.R.",
+        "title": "B.S."
+    },
+    "76": {
+        "artist": "Saweetie Featuring Jhene Aiko",
+        "title": "Back To The Streets"
+    },
+    "77": {
+        "artist": "The Kid LAROI",
+        "title": "So Done"
+    },
+    "78": {
+        "artist": "Luke Combs Featuring Amanda Shires",
+        "title": "Without You"
+    },
+    "79": {
+        "artist": "Sech, Daddy Yankee & J Balvin Featuring ROSALIA & Farruko",
+        "title": "Relacion"
+    },
+    "80": {
+        "artist": "Ritt Momney",
+        "title": "Put Your Records On"
+    },
+    "81": {
+        "artist": "Niko Moon",
+        "title": "Good Time"
+    },
+    "82": {
+        "artist": "Lil Baby",
+        "title": "The Bigger Picture"
+    },
+    "83": {
+        "artist": "DaBaby Featuring Young Thug",
+        "title": "Blind"
+    },
+    "84": {
+        "artist": "Luke Combs",
+        "title": "Cold As You"
+    },
+    "85": {
+        "artist": "YoungBoy Never Broke Again",
+        "title": "Kacey Talk"
+    },
+    "86": {
+        "artist": "DaBaby",
+        "title": "Practice"
+    },
+    "87": {
+        "artist": "Kelsea Ballerini",
+        "title": "Hole In The Bottle"
+    },
+    "88": {
+        "artist": "Sada Baby Featuring Nicki Minaj",
+        "title": "Whole Lotta Choppas"
+    },
+    "89": {
+        "artist": "Yung Bleu Featuring Drake",
+        "title": "You're Mines Still"
+    },
+    "90": {
+        "artist": "Lady A",
+        "title": "Champagne Night"
+    },
+    "91": {
+        "artist": "DJ Khaled Featuring Drake",
+        "title": "Greece"
+    },
+    "92": {
+        "artist": "Kenny Chesney",
+        "title": "Happy Does"
+    },
+    "93": {
+        "artist": "BRS Kash",
+        "title": "Throat Baby (Go Baby)"
+    },
+    "94": {
+        "artist": "J Balvin, Dua Lipa, Bad Bunny & Tainy",
+        "title": "Un Dia (One Day)"
+    },
+    "95": {
+        "artist": "Chloe X Halle",
+        "title": "Do It"
+    },
+    "96": {
+        "artist": "Taylor Swift",
+        "title": "Cardigan"
+    },
+    "97": {
+        "artist": "Machine Gun Kelly & Halsey",
+        "title": "Forget Me Too"
+    },
+    "98": {
+        "artist": "Farruko",
+        "title": "La Toxica"
+    },
+    "99": {
+        "artist": "Joel Corry X MNEK",
+        "title": "Head & Heart"
+    },
+    "100": {
+        "artist": "Little Big Town",
+        "title": "Wine, Beer, Whiskey"
+    }
+}

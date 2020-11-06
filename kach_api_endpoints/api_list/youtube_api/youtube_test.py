@@ -1,8 +1,8 @@
 from django.urls import reverse
 from rest_framework.test import APITestCase
 from rest_framework import status
-from kach_api_endpoints.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
-from kach_api_endpoints.youtube_api.youtube_serializer import YoutubeVideoSerializer, YoutubePlaylistSerializer
+from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
+from kach_api_endpoints.api_list.youtube_api.youtube_serializer import YoutubeVideoSerializer, YoutubePlaylistSerializer
 
 
 class MMAVideosTest(APITestCase):
@@ -49,9 +49,7 @@ class MMAVideosTest(APITestCase):
         playlist_id="PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5"
     )
 
-    expected_videos = [youtube_video_1, youtube_video_2, youtube_video_3]
 
-    expected_playlists = [youtube_playlist_1, youtube_playlist_2]
 
     def setUp(self):
         """Saving videos and playlists"""
@@ -60,6 +58,7 @@ class MMAVideosTest(APITestCase):
 
         for obj in self.expected_playlists:
             obj.save()
+
 
     def test_retrieve_all_videos(self):
         """"Retrieve all videos"""

@@ -1,8 +1,8 @@
 from django.core.management.base import BaseCommand
 import os
 # Models
-from kach_api_endpoints.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
-from kach_api_endpoints.management.repoppers.youtube_video import create_new_youtube_videos
+from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
+from kach_api_endpoints.management.repoppers.youtube_video_repoppers import create_new_youtube_videos
 
 YOUTUBE_DATA_DIR = os.getcwd() + "/kach_api_endpoints/data/youtube/"
 

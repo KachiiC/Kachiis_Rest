@@ -1,5 +1,5 @@
 import json
-from kach_api_endpoints.youtube_api.youtube_model import YoutubeVideo
+from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo
 
 
 def create_new_youtube_videos(data_location):
@@ -15,4 +15,3 @@ def create_new_youtube_videos(data_location):
                 playlist_id=item["snippet"]["playlistId"],
                 channel_id=item["snippet"]["channelId"]
             ).save()
-
