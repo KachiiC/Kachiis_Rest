@@ -1,0 +1,375 @@
+[
+    {
+        "current": [
+            {
+                "event": 1,
+                "points": 74,
+                "total_points": 74,
+                "rank": 577892,
+                "rank_sort": 578669,
+                "overall_rank": 577892,
+                "bank": 0,
+                "value": 1000,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 2,
+                "points": 67,
+                "total_points": 141,
+                "rank": 2015967,
+                "rank_sort": 2016215,
+                "overall_rank": 510119,
+                "bank": 5,
+                "value": 999,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 5
+            },
+            {
+                "event": 3,
+                "points": 41,
+                "total_points": 182,
+                "rank": 3738291,
+                "rank_sort": 3738760,
+                "overall_rank": 673046,
+                "bank": 0,
+                "value": 1005,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 4,
+                "points": 54,
+                "total_points": 236,
+                "rank": 2524043,
+                "rank_sort": 2524307,
+                "overall_rank": 779381,
+                "bank": 0,
+                "value": 1011,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 5,
+                "points": 94,
+                "total_points": 330,
+                "rank": 97036,
+                "rank_sort": 97080,
+                "overall_rank": 198081,
+                "bank": 12,
+                "value": 1013,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 6,
+                "points": 53,
+                "total_points": 383,
+                "rank": 2536299,
+                "rank_sort": 2536658,
+                "overall_rank": 195484,
+                "bank": 7,
+                "value": 1020,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 7
+            },
+            {
+                "event": 7,
+                "points": 51,
+                "total_points": 434,
+                "rank": 4076377,
+                "rank_sort": 4076771,
+                "overall_rank": 258911,
+                "bank": 7,
+                "value": 1024,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 8,
+                "points": 0,
+                "total_points": 434,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 258911,
+                "bank": 0,
+                "value": 1024,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            }
+        ],
+        "past": [
+            {
+                "season_name": "2012/13",
+                "total_points": 1602,
+                "rank": 1799149
+            },
+            {
+                "season_name": "2013/14",
+                "total_points": 1714,
+                "rank": 1980200
+            },
+            {
+                "season_name": "2014/15",
+                "total_points": 1466,
+                "rank": 2690246
+            },
+            {
+                "season_name": "2015/16",
+                "total_points": 2097,
+                "rank": 231569
+            },
+            {
+                "season_name": "2016/17",
+                "total_points": 1994,
+                "rank": 632463
+            },
+            {
+                "season_name": "2017/18",
+                "total_points": 2111,
+                "rank": 433515
+            },
+            {
+                "season_name": "2018/19",
+                "total_points": 2300,
+                "rank": 58788
+            },
+            {
+                "season_name": "2019/20",
+                "total_points": 2341,
+                "rank": 17255
+            }
+        ],
+        "chips": [
+            {
+                "name": "wildcard",
+                "time": "2020-09-25T21:58:14.774627Z",
+                "event": 3
+            }
+        ]
+    },
+    {
+        "id": 34170,
+        "joined_time": "2020-08-15T10:43:34.531729Z",
+        "started_event": 1,
+        "favourite_team": 1,
+        "player_first_name": "Farhan",
+        "player_last_name": "Ahmed",
+        "player_region_id": 241,
+        "player_region_name": "England",
+        "player_region_iso_code_short": "EN",
+        "player_region_iso_code_long": "ENG",
+        "summary_overall_points": 434,
+        "summary_overall_rank": 258911,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 8,
+        "leagues": {
+            "classic": [
+                {
+                    "id": 1,
+                    "name": "Arsenal",
+                    "short_name": "team-1",
+                    "created": "2020-08-15T09:00:46.854465Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 15226,
+                    "entry_last_rank": 15226,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 261,
+                    "name": "England",
+                    "short_name": "region-241",
+                    "created": "2020-08-15T09:00:51.512249Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 80704,
+                    "entry_last_rank": 80704,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 276,
+                    "name": "Gameweek 1",
+                    "short_name": "event-1",
+                    "created": "2020-08-15T09:00:52.298412Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 257791,
+                    "entry_last_rank": 257791,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 314,
+                    "name": "Overall",
+                    "short_name": "overall",
+                    "created": "2020-08-15T09:00:54.021038Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 258911,
+                    "entry_last_rank": 258911,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 31906,
+                    "name": "MEEKINGSLIGA",
+                    "short_name": null,
+                    "created": "2020-08-15T13:44:55.853563Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 157944,
+                    "start_event": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 113568,
+                    "name": "The Delian League",
+                    "short_name": null,
+                    "created": "2020-08-16T20:52:23.252529Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 839338,
+                    "start_event": 1,
+                    "entry_rank": 8,
+                    "entry_last_rank": 8,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": true
+                },
+                {
+                    "id": 357383,
+                    "name": "London Mandem",
+                    "short_name": null,
+                    "created": "2020-08-25T22:41:55.449080Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 684633,
+                    "start_event": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 680706,
+                    "name": "Ruskin Sq Premier League",
+                    "short_name": null,
+                    "created": "2020-09-06T23:56:54.006339Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 3055147,
+                    "start_event": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 781283,
+                    "name": "Trollination",
+                    "short_name": null,
+                    "created": "2020-09-08T15:53:43.158573Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 3452744,
+                    "start_event": 1,
+                    "entry_rank": 3,
+                    "entry_last_rank": 3,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 1121306,
+                    "name": "QM Badmans",
+                    "short_name": null,
+                    "created": "2020-09-11T18:08:57.905304Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 2093246,
+                    "start_event": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                }
+            ],
+            "h2h": [],
+            "cup": {
+                "matches": [],
+                "status": {
+                    "qualification_event": 16,
+                    "qualification_numbers": 4194304,
+                    "qualification_rank": null,
+                    "qualification_state": "NOT_STARTED"
+                }
+            }
+        },
+        "name": "Aouar ya?",
+        "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
+        "last_deadline_bank": 0,
+        "last_deadline_value": 1024,
+        "last_deadline_total_transfers": 5
+    }
+]

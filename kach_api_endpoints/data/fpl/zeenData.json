@@ -1,0 +1,257 @@
+[
+    {
+        "current": [
+            {
+                "event": 1,
+                "points": 49,
+                "total_points": 49,
+                "rank": 2754001,
+                "rank_sort": 2771712,
+                "overall_rank": 2754001,
+                "bank": 40,
+                "value": 1000,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 2,
+                "points": 94,
+                "total_points": 143,
+                "rank": 240286,
+                "rank_sort": 241714,
+                "overall_rank": 436708,
+                "bank": 10,
+                "value": 1000,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 16
+            },
+            {
+                "event": 3,
+                "points": 34,
+                "total_points": 177,
+                "rank": 5454954,
+                "rank_sort": 5461326,
+                "overall_rank": 922164,
+                "bank": 30,
+                "value": 1001,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
+            },
+            {
+                "event": 4,
+                "points": 38,
+                "total_points": 215,
+                "rank": 5014264,
+                "rank_sort": 5020614,
+                "overall_rank": 1773006,
+                "bank": 14,
+                "value": 1005,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
+            },
+            {
+                "event": 5,
+                "points": 42,
+                "total_points": 257,
+                "rank": 6069763,
+                "rank_sort": 6074093,
+                "overall_rank": 2810484,
+                "bank": 14,
+                "value": 1002,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 6
+            },
+            {
+                "event": 6,
+                "points": 52,
+                "total_points": 309,
+                "rank": 2647901,
+                "rank_sort": 2657363,
+                "overall_rank": 2643797,
+                "bank": 22,
+                "value": 1001,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 12
+            },
+            {
+                "event": 7,
+                "points": 73,
+                "total_points": 382,
+                "rank": 426826,
+                "rank_sort": 429740,
+                "overall_rank": 1748536,
+                "bank": 22,
+                "value": 1003,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 19
+            },
+            {
+                "event": 8,
+                "points": 7,
+                "total_points": 382,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 1748536,
+                "bank": 28,
+                "value": 1006,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            }
+        ],
+        "past": [
+            {
+                "season_name": "2015/16",
+                "total_points": 1755,
+                "rank": 1995767
+            },
+            {
+                "season_name": "2016/17",
+                "total_points": 1544,
+                "rank": 3339617
+            },
+            {
+                "season_name": "2017/18",
+                "total_points": 1557,
+                "rank": 4483896
+            },
+            {
+                "season_name": "2018/19",
+                "total_points": 1984,
+                "rank": 2074620
+            },
+            {
+                "season_name": "2019/20",
+                "total_points": 2048,
+                "rank": 1383817
+            }
+        ],
+        "chips": [
+            {
+                "name": "freehit",
+                "time": "2020-10-16T22:39:44.881234Z",
+                "event": 5
+            },
+            {
+                "name": "wildcard",
+                "time": "2020-10-18T21:06:54.475605Z",
+                "event": 6
+            }
+        ]
+    },
+    {
+        "id": 1029246,
+        "joined_time": "2020-08-20T10:53:39.696492Z",
+        "started_event": 1,
+        "favourite_team": null,
+        "player_first_name": "Zeen",
+        "player_last_name": "Lam",
+        "player_region_id": 241,
+        "player_region_name": "England",
+        "player_region_iso_code_short": "EN",
+        "player_region_iso_code_long": "ENG",
+        "summary_overall_points": 382,
+        "summary_overall_rank": 1748536,
+        "summary_event_points": 7,
+        "summary_event_rank": null,
+        "current_event": 8,
+        "leagues": {
+            "classic": [
+                {
+                    "id": 261,
+                    "name": "England",
+                    "short_name": "region-241",
+                    "created": "2020-08-15T09:00:51.512249Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 544401,
+                    "entry_last_rank": 544401,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 276,
+                    "name": "Gameweek 1",
+                    "short_name": "event-1",
+                    "created": "2020-08-15T09:00:52.298412Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 1727117,
+                    "entry_last_rank": 1727117,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 314,
+                    "name": "Overall",
+                    "short_name": "overall",
+                    "created": "2020-08-15T09:00:54.021038Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 1748536,
+                    "entry_last_rank": 1748536,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 357383,
+                    "name": "London Mandem",
+                    "short_name": null,
+                    "created": "2020-08-25T22:41:55.449080Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 684633,
+                    "start_event": 1,
+                    "entry_rank": 6,
+                    "entry_last_rank": 6,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                }
+            ],
+            "h2h": [],
+            "cup": {
+                "matches": [],
+                "status": {
+                    "qualification_event": 16,
+                    "qualification_numbers": 4194304,
+                    "qualification_rank": null,
+                    "qualification_state": "NOT_STARTED"
+                }
+            }
+        },
+        "name": "We Are Coders",
+        "kit": null,
+        "last_deadline_bank": 28,
+        "last_deadline_value": 1006,
+        "last_deadline_total_transfers": 5
+    }
+]

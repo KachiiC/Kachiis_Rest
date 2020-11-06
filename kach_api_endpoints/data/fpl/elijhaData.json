@@ -1,0 +1,381 @@
+[
+    {
+        "current": [
+            {
+                "event": 1,
+                "points": 47,
+                "total_points": 47,
+                "rank": 2979339,
+                "rank_sort": 2982815,
+                "overall_rank": 2979339,
+                "bank": 0,
+                "value": 1000,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 6
+            },
+            {
+                "event": 2,
+                "points": 59,
+                "total_points": 106,
+                "rank": 3005547,
+                "rank_sort": 3007675,
+                "overall_rank": 2968211,
+                "bank": 0,
+                "value": 1000,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 8
+            },
+            {
+                "event": 3,
+                "points": 30,
+                "total_points": 128,
+                "rank": 6153444,
+                "rank_sort": 6153703,
+                "overall_rank": 4523109,
+                "bank": 6,
+                "value": 1004,
+                "event_transfers": 3,
+                "event_transfers_cost": 8,
+                "points_on_bench": 1
+            },
+            {
+                "event": 4,
+                "points": 61,
+                "total_points": 189,
+                "rank": 1658458,
+                "rank_sort": 1660076,
+                "overall_rank": 3377748,
+                "bank": 25,
+                "value": 1004,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 10
+            },
+            {
+                "event": 5,
+                "points": 70,
+                "total_points": 259,
+                "rank": 2065909,
+                "rank_sort": 2067429,
+                "overall_rank": 2724255,
+                "bank": 54,
+                "value": 1004,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 1
+            },
+            {
+                "event": 6,
+                "points": 45,
+                "total_points": 296,
+                "rank": 4375937,
+                "rank_sort": 4376408,
+                "overall_rank": 3307694,
+                "bank": 32,
+                "value": 1010,
+                "event_transfers": 3,
+                "event_transfers_cost": 8,
+                "points_on_bench": 9
+            },
+            {
+                "event": 7,
+                "points": 62,
+                "total_points": 358,
+                "rank": 1786573,
+                "rank_sort": 1788905,
+                "overall_rank": 2887879,
+                "bank": 35,
+                "value": 1013,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 8,
+                "points": 9,
+                "total_points": 358,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 2887879,
+                "bank": 35,
+                "value": 1017,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
+            }
+        ],
+        "past": [
+            {
+                "season_name": "2011/12",
+                "total_points": 1930,
+                "rank": 335425
+            },
+            {
+                "season_name": "2012/13",
+                "total_points": 2065,
+                "rank": 105340
+            },
+            {
+                "season_name": "2013/14",
+                "total_points": 2230,
+                "rank": 212677
+            },
+            {
+                "season_name": "2014/15",
+                "total_points": 2152,
+                "rank": 22921
+            },
+            {
+                "season_name": "2015/16",
+                "total_points": 2068,
+                "rank": 332027
+            },
+            {
+                "season_name": "2016/17",
+                "total_points": 2190,
+                "rank": 78396
+            },
+            {
+                "season_name": "2017/18",
+                "total_points": 2111,
+                "rank": 434875
+            },
+            {
+                "season_name": "2018/19",
+                "total_points": 2260,
+                "rank": 114297
+            },
+            {
+                "season_name": "2019/20",
+                "total_points": 2133,
+                "rank": 665016
+            }
+        ],
+        "chips": [
+            {
+                "name": "wildcard",
+                "time": "2020-09-15T20:09:01.324071Z",
+                "event": 2
+            }
+        ]
+    },
+    {
+        "id": 213553,
+        "joined_time": "2020-08-15T15:31:04.136770Z",
+        "started_event": 1,
+        "favourite_team": null,
+        "player_first_name": "Elijha",
+        "player_last_name": "Wong",
+        "player_region_id": 96,
+        "player_region_name": "Hong Kong",
+        "player_region_iso_code_short": "HK",
+        "player_region_iso_code_long": "HKG",
+        "summary_overall_points": 358,
+        "summary_overall_rank": 2887879,
+        "summary_event_points": 9,
+        "summary_event_rank": null,
+        "current_event": 8,
+        "leagues": {
+            "classic": [
+                {
+                    "id": 116,
+                    "name": "Hong Kong",
+                    "short_name": "region-96",
+                    "created": "2020-08-15T09:00:48.673842Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 14384,
+                    "entry_last_rank": 14384,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 276,
+                    "name": "Gameweek 1",
+                    "short_name": "event-1",
+                    "created": "2020-08-15T09:00:52.298412Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 2822020,
+                    "entry_last_rank": 2822020,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 314,
+                    "name": "Overall",
+                    "short_name": "overall",
+                    "created": "2020-08-15T09:00:54.021038Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_rank": 2887879,
+                    "entry_last_rank": 2887879,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 341527,
+                    "name": "Alex Lipton Champion 2021",
+                    "short_name": null,
+                    "created": "2020-08-25T09:44:02.938488Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 1573529,
+                    "start_event": 1,
+                    "entry_rank": 6,
+                    "entry_last_rank": 6,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 357383,
+                    "name": "London Mandem",
+                    "short_name": null,
+                    "created": "2020-08-25T22:41:55.449080Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 684633,
+                    "start_event": 1,
+                    "entry_rank": 9,
+                    "entry_last_rank": 9,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 385421,
+                    "name": "CMS",
+                    "short_name": null,
+                    "created": "2020-08-27T10:41:27.952045Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 1760209,
+                    "start_event": 1,
+                    "entry_rank": 80,
+                    "entry_last_rank": 80,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 500241,
+                    "name": "Find Tristan A Wifey ",
+                    "short_name": null,
+                    "created": "2020-09-01T12:41:17.526993Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 158159,
+                    "start_event": 1,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 779381,
+                    "name": "McWongWood",
+                    "short_name": null,
+                    "created": "2020-09-08T15:25:51.479341Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 3406376,
+                    "start_event": 1,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                },
+                {
+                    "id": 1185557,
+                    "name": "London Lad Pad",
+                    "short_name": null,
+                    "created": "2020-09-11T23:48:22.347577Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "c",
+                    "admin_entry": 5217021,
+                    "start_event": 1,
+                    "entry_rank": 4,
+                    "entry_last_rank": 4,
+                    "entry_can_leave": true,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                }
+            ],
+            "h2h": [
+                {
+                    "id": 1016912,
+                    "name": "Big Boys League",
+                    "short_name": null,
+                    "created": "2020-09-11T08:32:02.948073Z",
+                    "closed": true,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "x",
+                    "scoring": "h",
+                    "admin_entry": 1403103,
+                    "start_event": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false
+                }
+            ],
+            "cup": {
+                "matches": [],
+                "status": {
+                    "qualification_event": 16,
+                    "qualification_numbers": 4194304,
+                    "qualification_rank": null,
+                    "qualification_state": "NOT_STARTED"
+                }
+            }
+        },
+        "name": "Alli or Nussing",
+        "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
+        "last_deadline_bank": 35,
+        "last_deadline_value": 1017,
+        "last_deadline_total_transfers": 9
+    }
+]

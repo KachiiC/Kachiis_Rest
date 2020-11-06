@@ -1,8 +1,12 @@
 from django.urls import path
-from kach_api_endpoints.api_list.youtube_api import youtube_views
+from kach_api_endpoints.api_list.fpl_api import fpl_views
 from kach_api_endpoints.api_list.music_chart_api import music_chart_view
+from kach_api_endpoints.api_list.youtube_api import youtube_views
 
 urlpatterns = [
+    # FPL API
+    path("fpl_players/", fpl_views.players_list, name="music_chart"),
+    path("fpl_players/<str:player_name>/", fpl_views.player_stats, name="player_stats"),
     # Music Chart API
     path("music_charts/", music_chart_view.chart_list, name="music_chart"),
     path("music_charts/<int:chart_number>/", music_chart_view.chart_position, name="chart_position"),
