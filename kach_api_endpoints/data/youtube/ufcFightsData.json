@@ -1,0 +1,775 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "L7iucbzyN5tATOBkXuRPdXdVjxY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4z8WsE1hXnJMY-qzzksYIBz8mQQ",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-06-27T16:15:14Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Jon Jones vs Alexander Gustafsson 1 | UFC 165,  2013",
+                "description": "Relive one of the most entertaining bouts in Jon Jones career so far as he took on Alexander Gustafsson for the first time in a razor-close matchup back in 2013 at UFC 165. \n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/en4hR34Bl8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/en4hR34Bl8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/en4hR34Bl8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/en4hR34Bl8w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/en4hR34Bl8w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "en4hR34Bl8w"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o5b1jMXNHvJmIlWhhG3VgsS62O0",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-27T16:11:24Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Eddie Alvarez vs Conor McGregor | Official Fight Highlights | #UFC246",
+                "description": "Conor McGregor becomes the double champ with a huge win at UFC 205 in New York.\n\nWatch UFC 246: McGregor vs Cowboy live on BT Sport Box Office.\nFor more information on how to purchase UFC 246, visit bt.com/sport/box-office.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Htf8Jt-elxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Htf8Jt-elxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Htf8Jt-elxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Htf8Jt-elxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Htf8Jt-elxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Htf8Jt-elxo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LyqiKJ8rc8JyYlcA7ByRDCFb7L0",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-06-27T16:19:23Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Dustin Poirier vs Justin Gaethje (full fight) | 2018, UFC Glendale",
+                "description": "The Diamond finished Gaethje in the fourth, but his opponent wasn't impressed with the decision of Herb Deen. \n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9nS9s5VrHoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9nS9s5VrHoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9nS9s5VrHoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9nS9s5VrHoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9nS9s5VrHoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9nS9s5VrHoo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rsEdHGk4ADj8cnT-zQ5NtFs46Cw",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-06-27T16:24:07Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Jose Aldo vs Chad Mendes 2 | UFC 179, 2014",
+                "description": "Jose Aldo successfully defended his UFC featherweight title when he faced Chad Mendes for the second time at UFC 179 in an entertaining Fight of the Night contest.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pEDW8_mHfpo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pEDW8_mHfpo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pEDW8_mHfpo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pEDW8_mHfpo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pEDW8_mHfpo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pEDW8_mHfpo"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JIMJ0GmcIKbnvLu93HO-i-N2HLo",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-07-17T10:53:59Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Jorge Masvidal v Nate Diaz full fight replay",
+                "description": "Jorge Masvidal's last fight was against Nate Diaz for the BMF belt at Madison Square Garden, New York.\n\nWatch #UFC251: Usman v Masvidal, Volkanovski v Holloway, Yan v Aldo live on BT Sport 1 HD on July 11th.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ozgJZ7wmQc8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ozgJZ7wmQc8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ozgJZ7wmQc8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ozgJZ7wmQc8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ozgJZ7wmQc8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ozgJZ7wmQc8"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u_woKeGtDXt1nhM9hx5VYMteEXQ",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-07-17T10:54:18Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Tyron Woodley v Kamaru Usman full fight replay |",
+                "description": "The changing of the guard. Kamaru Usman may well become one of the most dominant champions in UFC history and it all started with a brilliant performance against Tyron Woodley.\n\nWatch #UFC251: Usman v Burns, Volkanovski v Holloway, Yan v Aldo live on BT Sport 1 HD on July 11th.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lX5YcnFcX-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lX5YcnFcX-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lX5YcnFcX-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lX5YcnFcX-I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lX5YcnFcX-I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lX5YcnFcX-I"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "atDRXF4JHHrAQBPY3XxNjSgqswQ",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-07-17T10:54:26Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Jose Aldo v Marlos Moraes full fight replay | Watch UFC Fight Island on BT Sport 1 HD",
+                "description": "How did you score this fight between Jose Aldo and Marlon Moraes? The judges scorecards proved to be quite controversial and despite losing, the former featherweight champion got himself a shot at the vacant bantamweight title.\n\nWatch UFC 251 and three other cards from #UFCFightIsland, live on BT Sport 1 HD from July 11th.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EJ5h4ywYZMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EJ5h4ywYZMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EJ5h4ywYZMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EJ5h4ywYZMQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EJ5h4ywYZMQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EJ5h4ywYZMQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GS_bkXhxdJezHsyYs6pUvrXPMlk",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:01:01Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Michael Bisping vs Anderson Silva | 2016",
+                "description": "Michael Bisping, winner of TUF season three, won a razor-close contest with Anderson Silva at the O2 arena in London back in 2016.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/swcgEARqmmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/swcgEARqmmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/swcgEARqmmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/swcgEARqmmU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/swcgEARqmmU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "swcgEARqmmU"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vvw_vfjiLQOwpT_9M55lH8XInO8",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:01:18Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Ronda Rousey vs Miesha Tate 2 | UFC 168, 2013",
+                "description": "Season 17 of The Ultimate Fighter culminated at UFC 168 when Ronda Rousey faced Miesha Tate for the second time for the UFC bantamweight championship.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yoUbQxvDVss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yoUbQxvDVss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yoUbQxvDVss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yoUbQxvDVss/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yoUbQxvDVss/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yoUbQxvDVss"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-Da6pIeJUsGo7-Ie0wyQ1d0L-T0",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:01:25Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Dominick Cruz v Cody Garbrandt full fight | One of the greatest title fight performances ever!",
+                "description": "Ahead of his return at #UFC250, take a look back at Cody Garbrandt's masterclass against Dominick Cruz at UFC 207.\n\nWatch UFC 250 live on BT Sport 1 HD on Saturday, June 6th at midnight.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GyM9gK52MaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GyM9gK52MaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GyM9gK52MaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GyM9gK52MaQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GyM9gK52MaQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GyM9gK52MaQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V_l38mIo0cLT7_zVC8TVehRzSyI",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:01:42Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Chris Weidman vs Lyoto Machida | UFC 175, 2014",
+                "description": "After stunning a lot of people with back-to-back wins over Anderson Silva, Chris Weidman defeated another Brazilian in Lyoto Machida for his second title defense at UFC 175 in 2014.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tQgA4UJt9jA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tQgA4UJt9jA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tQgA4UJt9jA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tQgA4UJt9jA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tQgA4UJt9jA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tQgA4UJt9jA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7BXzZtj5mltPhkT4c1mbe3AkNY8",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:02:04Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Free Fight: Anderson Silva vs Chael Sonnen 1 | UFC 117, 2010",
+                "description": "Anderson Silva met Chael Sonnen almost 10 years ago at UFC 117 for Silva's seventh middleweight title defense. Silva and Sonnen would meet again two years later at UFC 148.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DpLaqnwFQEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DpLaqnwFQEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DpLaqnwFQEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DpLaqnwFQEY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DpLaqnwFQEY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DpLaqnwFQEY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PcdbSJOAWQmsQa_w_11wwllf4yY",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2020-08-19T21:03:27Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "UFC 247 Free Fight: Jon Jones vs Alexander Gustafsson 2",
+                "description": "UFC - Ultimate Fghiting",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7MeXwGku5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7MeXwGku5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7MeXwGku5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b7MeXwGku5E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b7MeXwGku5E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b7MeXwGku5E"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vt2x4LSJrKFBsgZnarpV-483whI",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2020-10-01T23:56:53Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Max Holloway v Alexander Volkonovski full fight replay | Watch UFC Fight Island on BT Sport 1 HD",
+                "description": "Alexander Volkonovski promised he was the man to beat Max Holloway in the featherweight division. He wasn't lying... On July 11th they run it back!\n\nWatch #UFC251: Usman v Burns, Volkanovski v Holloway, Yan v Aldo live on BT Sport 1 HD on July 11th.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oaeTtOQVfWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oaeTtOQVfWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oaeTtOQVfWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oaeTtOQVfWw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oaeTtOQVfWw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oaeTtOQVfWw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XLH1d7umFXIC_-1owatybnTZ8pM",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2020-10-01T23:57:02Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Tyron Woodley v Gilbert Burns full fight replay | Watch UFC Fight Island on BT Sport 1 HD",
+                "description": "Gilbert Burns came in to the fight with Tyron Woodley on a five-fight win streak. It was an utter domination from the number one contender...\n\nWatch UFC 251 and three other cards from #UFCFightIsland, live on BT Sport 1 HD from July 11th.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WCPBr1_MaWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WCPBr1_MaWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WCPBr1_MaWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WCPBr1_MaWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WCPBr1_MaWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WCPBr1_MaWg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7lsW7hklQ1URnxbcSqTvI5Ngomg",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2020-10-01T23:57:31Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Woodley v Wonderboy full fight replay | Controversial result, but what a fight!",
+                "description": "Tyron Woodley and Stephen \"Wonderboy\" Thompson put on a five-round classic as the co-main event at UFC 205...\n\nWatch Tyron Woodley's first fight back since losing the title this Saturday on BT Sport 1 HD.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\n\nFacebook: http://www.facebook.com/btsport\n\nInstagram:http://instagram.com/btsport\n\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Xb55612vTE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Xb55612vTE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Xb55612vTE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Xb55612vTE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Xb55612vTE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8Xb55612vTE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cT9YLXpFJxXJMQZPwga3HpzPM9c",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2020-10-27T01:23:46Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Khamzat Chimaev 17-second knockout! This kid is a serious problem 😳",
+                "description": "The Khamzat Chimaev hype train continued at #UFCVegas11 with a 17-second knockout of Gerald Meerschaert.\n\nWho do you want to see the big man fight next?\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oOdNzUdB79c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oOdNzUdB79c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oOdNzUdB79c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oOdNzUdB79c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oOdNzUdB79c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oOdNzUdB79c"
+                }
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 17,
+        "resultsPerPage": 20
+    }
+}
