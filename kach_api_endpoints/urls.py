@@ -1,9 +1,12 @@
 from django.urls import path
-from kach_api_endpoints.api_list.fpl_api import fpl_views
-from kach_api_endpoints.api_list.music_chart_api import music_chart_view
-from kach_api_endpoints.api_list.youtube_api import youtube_views
+from .api_list.fpl_api import fpl_views
+from .api_list.music_chart_api import music_chart_view
+from .api_list.youtube_api import youtube_views
+from .api_list.imdb_api import imdb_view
 
 urlpatterns = [
+    # IMDB API
+    path("imdb_lists/", imdb_view.imdb_lists, name="imdb_lists"),
     # FPL API
     path("fpl_players/", fpl_views.players_list, name="fpl_players"),
     # Music Chart API
