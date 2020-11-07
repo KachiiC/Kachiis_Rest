@@ -14,4 +14,3 @@ class ImdbListSerializer(serializers.ModelSerializer):
     class Meta:
         model = ImdbList
         fields = ("content_type", "list_title", "content", "media_type")
-

@@ -3,7 +3,7 @@ from django.core.management.base import BaseCommand
 import json
 import os
 
-OUTFILE_LOCATION = os.getcwd() + "/kach_api_endpoints/data/fpl"
+OUTFILE_LOCATION = os.getcwd() + "/kach_api_endpoints/data/imdb"
 
 url = "https://movies-tvshows-data-imdb.p.rapidapi.com/"
 
@@ -13,10 +13,10 @@ headers = {
 }
 
 ENDPOINTS = [
-    {"name": "trendingShows", "type": "get-trending-shows", "page": "1"},
-    {"name": "trendingMovies", "type": "get-trending-movies", "page": "1"},
-    {"name": "popularShows", "type": "get-popular-shows", "year": "2020", "page": "1"},
-    {"name": "popularMovies", "type": "get-popular-movies", "year": "2020", "page": "1"},
+    {"name": "trending_tv_shows", "type": "get-trending-shows", "page": "1"},
+    {"name": "trending_movies", "type": "get-trending-movies", "page": "1"},
+    {"name": "popular_tv_shows", "type": "get-popular-shows", "year": "2020", "page": "1"},
+    {"name": "popular_movies", "type": "get-popular-movies", "year": "2020", "page": "1"},
 ]
 
 
@@ -27,7 +27,7 @@ class Command(BaseCommand):
 
             with open(f"{OUTFILE_LOCATION}/{endpoint['name']}.json", 'w', encoding='utf8') as json_file:
                 json_file.write(
-                    json.dumps(response, indent=4, ensure_ascii=False)
+                    json.dumps((response, endpoint), indent=4, ensure_ascii=False)
                 )
 
             print(f"successfully prepped {endpoint['name']}.json")

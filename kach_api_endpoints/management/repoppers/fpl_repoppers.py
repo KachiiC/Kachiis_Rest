@@ -18,7 +18,7 @@ def create_fpl_data(data_location):
                 bench_points=match["points_on_bench"]
             ).save()
 
-            Player(
-                player_id=data[1]["id"],
-                player_name=data[1]["player_first_name"]
-            ).save()
+        Player(
+            player_id=data[1]["id"],
+            player_name=data[1]["player_first_name"]
+        ).save()

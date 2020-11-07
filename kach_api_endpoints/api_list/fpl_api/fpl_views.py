@@ -1,7 +1,7 @@
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from rest_framework import status
-from .fpl_model import Player
+from .fpl_model import Player, MatchDay
 from .fpl_serializers import PlayerSerializer, MatchDaySerializer
 
 
@@ -22,5 +22,14 @@ def player_stats(request, player_id):
         return Response(status=status.HTTP_404_NOT_FOUND)
 
     serializer = MatchDaySerializer(player, context={'request': request})
+
+    return Response(serializer.data)
+
+
+@api_view(['GET'])
+def match_day_list(request):
+    data = MatchDay.objects.all()
+
+    serializer = MatchDaySerializer(data, context={'request': request}, many=True)
 
     return Response(serializer.data)

@@ -1,0 +1,116 @@
+[
+    {
+        "tv_results": [
+            {
+                "title": "The Queen's Gambit",
+                "imdb_id": "tt10048342",
+                "year": "2020"
+            },
+            {
+                "title": "The Walking Dead: World Beyond",
+                "imdb_id": "tt10148174",
+                "year": "2020"
+            },
+            {
+                "title": "The Third Day",
+                "imdb_id": "tt10482370",
+                "year": "2020"
+            },
+            {
+                "title": "Dark Desire",
+                "imdb_id": "tt12540080",
+                "year": "2020"
+            },
+            {
+                "title": "Blood of Zeus",
+                "imdb_id": "tt10009170",
+                "year": "2020"
+            },
+            {
+                "title": "The Haunting of Bly Manor",
+                "imdb_id": "tt10970552",
+                "year": "2020"
+            },
+            {
+                "title": "Patria",
+                "imdb_id": "tt6625730",
+                "year": "2020"
+            },
+            {
+                "title": "Uzaki-chan wa Asobitai!",
+                "imdb_id": "tt12464182",
+                "year": "2020"
+            },
+            {
+                "title": "Raised by Wolves",
+                "imdb_id": "tt9170108",
+                "year": "2020"
+            },
+            {
+                "title": "We Are Who We Are",
+                "imdb_id": "tt9848536",
+                "year": "2020"
+            },
+            {
+                "title": "Súbete a mi Moto",
+                "imdb_id": "tt12248706",
+                "year": "2020"
+            },
+            {
+                "title": "Emily in Paris",
+                "imdb_id": "tt8962124",
+                "year": "2020"
+            },
+            {
+                "title": "The Playbook",
+                "imdb_id": "tt12930602",
+                "year": "2020"
+            },
+            {
+                "title": "Veneno",
+                "imdb_id": "tt10383046",
+                "year": "2020"
+            },
+            {
+                "title": "100 días para enamorarnos",
+                "imdb_id": "tt11243606",
+                "year": "2020"
+            },
+            {
+                "title": "Ratched",
+                "imdb_id": "tt7423538",
+                "year": "2020"
+            },
+            {
+                "title": "Kanojo, Okarishimasu",
+                "imdb_id": "tt11448214",
+                "year": "2020"
+            },
+            {
+                "title": "Utopia",
+                "imdb_id": "tt8303474",
+                "year": "2020"
+            },
+            {
+                "title": "The God of High School",
+                "imdb_id": "tt12227418",
+                "year": "2020"
+            },
+            {
+                "title": "Jurassic World: Camp Cretaceous",
+                "imdb_id": "tt10436228",
+                "year": "2020"
+            }
+        ],
+        "results": 20,
+        "Total_results": "1447",
+        "status": "OK",
+        "status_message": "Query was successful"
+    },
+    {
+        "name": "popular_tv_shows",
+        "type": "get-popular-shows",
+        "year": "2020",
+        "page": "1"
+    }
+]

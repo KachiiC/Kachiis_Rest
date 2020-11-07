@@ -25,4 +25,4 @@ class Command(BaseCommand):
                     correct_player = Player.objects.get(player_id=match.player_id)
                     correct_player.matches.add(match)
 
-        print("Matches Repops Complete")
+        print("repop successful!")

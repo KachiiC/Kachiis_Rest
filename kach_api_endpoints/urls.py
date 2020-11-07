@@ -8,6 +8,7 @@ urlpatterns = [
     # IMDB API
     path("imdb_lists/", imdb_view.imdb_lists, name="imdb_lists"),
     # FPL API
+    path("fpl_matches/", fpl_views.match_day_list, name="fpl_matches"),
     path("fpl_players/", fpl_views.players_list, name="fpl_players"),
     # Music Chart API
     path("music_charts/", music_chart_view.chart_list, name="music_chart"),
