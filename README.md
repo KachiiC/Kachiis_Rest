@@ -1,2 +1,2 @@
 # Kachiis_Rest
-An entirely backend server for all my projects.
+An backend server built with django restframework to fetch data from Rapid API. 
