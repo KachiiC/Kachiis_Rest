@@ -41,5 +41,5 @@ class Command(BaseCommand):
         for media in all_content:
             for imdb_list in all_imdb_list:
                 if media.content_type == imdb_list.content_type:
-                    correct_content_type = ImdbList.objects.get(content_type=media.content_type)
-                    correct_content_type.content.add(media)
+                    correct_list = ImdbList.objects.get(content_type=media.content_type)
+                    correct_list.content.add(media)
