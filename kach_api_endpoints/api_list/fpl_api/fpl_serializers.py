@@ -5,8 +5,8 @@ from .fpl_model import MatchDay, Player
 class MatchDaySerializer(serializers.ModelSerializer):
     class Meta:
         model = MatchDay
-        fields = ('player_id', 'game_week', 'game_week_points', 'points_total',
-                  'team_value', 'game_week_transfers', 'game_week_transfers_cost', 'bench_points')
+        fields = ('player_id', 'gameweek', 'game_week_points', 'points_total', 'team_value',
+                  'game_week_transfers', 'game_week_transfers_cost', 'bench_points')
 
 
 class PlayerSerializer(serializers.ModelSerializer):
@@ -14,4 +14,4 @@ class PlayerSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Player
-        fields = ('player_name', 'player_id', 'matches')
+        fields = ('pk', 'player_name', 'player_id', 'matches')

@@ -9,7 +9,7 @@ def create_fpl_data(data_location):
         for match in data[0]["current"]:
             MatchDay(
                 player_id=data[1]["id"],
-                game_week=match["event"],
+                gameweek=match["event"],
                 game_week_points=match["points"],
                 points_total=match["total_points"],
                 team_value=match["value"],
@@ -18,7 +18,7 @@ def create_fpl_data(data_location):
                 bench_points=match["points_on_bench"]
             ).save()
 
-        Player(
-            player_id=data[1]["id"],
-            player_name=data[1]["player_first_name"]
-        ).save()
+            Player(
+                player_id=data[1]["id"],
+                player_name=data[1]["player_first_name"]
+            ).save()

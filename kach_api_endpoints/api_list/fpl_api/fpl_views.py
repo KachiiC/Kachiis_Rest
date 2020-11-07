@@ -15,9 +15,9 @@ def players_list(request):
 
 
 @api_view(['GET'])
-def player_stats(request, player_name):
+def player_stats(request, player_id):
     try:
-        player = Player.objects.get(player_name=player_name)
+        player = Player.objects.get(player_id=player_id)
     except Player.DoesNotExist:
         return Response(status=status.HTTP_404_NOT_FOUND)
 
