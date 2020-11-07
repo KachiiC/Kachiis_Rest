@@ -2,7 +2,6 @@ from django.core.management.base import BaseCommand
 import os
 # Models
 from kach_api_endpoints.api_list.imdb_api.imdb_model import Content, ImdbList
-from kach_api_endpoints.api_list.imdb_api.imdb_serializer import ContentSerializer, ImdbListSerializer
 from kach_api_endpoints.management.repoppers.imdb_repoppers import create_tv_imdb_data, create_movie_imdb_data
 
 IMDB_DATA_DIR = os.getcwd() + "/kach_api_endpoints/data/imdb/"

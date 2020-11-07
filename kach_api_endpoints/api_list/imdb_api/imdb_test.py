@@ -75,6 +75,19 @@ class ImdbTest(APITestCase):
             obj.save()
 
     def test_get_all_lists(self):
+
+        single_list_endpoint = reverse('single_imdb_list', args=[self.imdb_list_1.content_type])
+
+        imdb_list = ImdbList.objects.get(content_type=self.imdb_list_1.content_type)
+
+        serializer = ImdbListSerializer(imdb_list)
+
+        response = self.client.get(single_list_endpoint)
+
+        assert response.status_code == status.HTTP_200_OK
+        assert response.data == serializer.data
+
+    def test_getting_single_list(self):
         serializer = ImdbListSerializer(self.expected_imdb_list, many=True)
 
         response = self.client.get(self.imdb_endpoint)
