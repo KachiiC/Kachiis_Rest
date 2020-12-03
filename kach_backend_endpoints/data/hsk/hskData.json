@@ -1,0 +1,4202 @@
+[
+  {
+    "chinese_characters": "大",
+    "pinyin": "dà",
+    "type": "adjective",
+    "definition": "big, large",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "多",
+    "pinyin": "duō",
+    "type": "adjective",
+    "definition": "many, much",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "高兴",
+    "pinyin": "gāo xìng",
+    "type": "adjective",
+    "definition": "happy",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "好",
+    "pinyin": "hǎo",
+    "type": "adjective",
+    "definition": "good, nice",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "冷",
+    "pinyin": "lěng",
+    "type": "adjective",
+    "definition": "cold",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "热",
+    "pinyin": "rè",
+    "type": "adjective",
+    "definition": "hot",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "少",
+    "pinyin": "shǎo",
+    "type": "adjective",
+    "definition": "few (not much/many)",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "小",
+    "pinyin": "xiǎo",
+    "type": "adjective",
+    "definition": "small, little",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "不",
+    "pinyin": "bù",
+    "type": "adverb",
+    "definition": "no",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "都",
+    "pinyin": "dōu",
+    "type": "adverb",
+    "definition": "both, all",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "很",
+    "pinyin": "hěn",
+    "type": "adverb",
+    "definition": "very",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "没",
+    "pinyin": "méi",
+    "type": "adverb",
+    "definition": "not",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "太",
+    "pinyin": "tài",
+    "type": "adverb",
+    "definition": "too",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "的",
+    "pinyin": "de",
+    "type": "auxiliary",
+    "definition": "a subordinating particle that can be used to indicate possession",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "吗",
+    "pinyin": "ma",
+    "type": "auxiliary",
+    "definition": "question marker",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "呢",
+    "pinyin": "ne",
+    "type": "auxiliary",
+    "definition": "particle used for suggestion",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "和",
+    "pinyin": "hé",
+    "type": "conjunction",
+    "definition": "and",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "本",
+    "pinyin": "běn",
+    "type": "measure word",
+    "definition": "volume (of books）",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "个",
+    "pinyin": "gè",
+    "type": "measure word",
+    "definition": "measure word",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "岁",
+    "pinyin": "suì",
+    "type": "measure word",
+    "definition": "years, age",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "块",
+    "pinyin": "kuài",
+    "type": "measure word",
+    "definition": "piece",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "些",
+    "pinyin": "xiē",
+    "type": "measure word",
+    "definition": "a few",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "爸爸",
+    "pinyin": "bà ba",
+    "type": "noun",
+    "definition": "father",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "杯子",
+    "pinyin": "bēi zi",
+    "type": "noun",
+    "definition": "cup",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "北京",
+    "pinyin": "běi jīng",
+    "type": "noun",
+    "definition": "Beijing",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "菜",
+    "pinyin": "cài",
+    "type": "noun",
+    "definition": "dish",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "茶",
+    "pinyin": "chá",
+    "type": "noun",
+    "definition": "tea",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "出租车",
+    "pinyin": "chū zū chē",
+    "type": "noun",
+    "definition": "taxi",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "点",
+    "pinyin": "diǎn",
+    "type": "noun",
+    "definition": "o’clock",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "电脑",
+    "pinyin": "diàn nǎo",
+    "type": "noun",
+    "definition": "computer",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "电视",
+    "pinyin": "diàn shì",
+    "type": "noun",
+    "definition": "television",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "电影",
+    "pinyin": "diàn yǐng",
+    "type": "noun",
+    "definition": "movie",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "东西",
+    "pinyin": "dōng xi",
+    "type": "noun",
+    "definition": "thing, stuff",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "儿子",
+    "pinyin": "ér zi",
+    "type": "noun",
+    "definition": "son",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "饭店",
+    "pinyin": "fàn diàn",
+    "type": "noun",
+    "definition": "restaurant",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "飞机",
+    "pinyin": "fēi jī",
+    "type": "noun",
+    "definition": "airplane",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "狗",
+    "pinyin": "gǒu",
+    "type": "noun",
+    "definition": "dog",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "汉语",
+    "pinyin": "hàn yǔ",
+    "type": "noun",
+    "definition": "Chinese language",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "后面",
+    "pinyin": "hòu mian",
+    "type": "noun",
+    "definition": "back",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "type": "noun",
+    "definition": "railway station",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "家",
+    "pinyin": "jiā",
+    "type": "noun",
+    "definition": "home",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "今天",
+    "pinyin": "jīn tiān",
+    "type": "noun",
+    "definition": "today",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "老师",
+    "pinyin": "lǎo shī",
+    "type": "noun",
+    "definition": "teacher",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "里",
+    "pinyin": "lǐ",
+    "type": "noun",
+    "definition": "inside",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "妈妈",
+    "pinyin": "mā ma",
+    "type": "noun",
+    "definition": "mother",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "猫",
+    "pinyin": "māo",
+    "type": "noun",
+    "definition": "cat",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "米饭",
+    "pinyin": "mǐ fàn",
+    "type": "noun",
+    "definition": "rice",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "名字",
+    "pinyin": "míng zi",
+    "type": "noun",
+    "definition": "name",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "明天",
+    "pinyin": "míng tiān",
+    "type": "noun",
+    "definition": "tomorrow",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "年",
+    "pinyin": "nián",
+    "type": "noun",
+    "definition": "year",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "女儿",
+    "pinyin": "nǚ ‘ ér",
+    "type": "noun",
+    "definition": "daughter",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "朋友",
+    "pinyin": "péng you",
+    "type": "noun",
+    "definition": "friend",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "苹果",
+    "pinyin": "píng guǒ",
+    "type": "noun",
+    "definition": "apple",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "钱",
+    "pinyin": "qián",
+    "type": "noun",
+    "definition": "money",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "前面",
+    "pinyin": "qián mian",
+    "type": "noun",
+    "definition": "front",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "人",
+    "pinyin": "rén",
+    "type": "noun",
+    "definition": "people",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "日",
+    "pinyin": "rì",
+    "type": "noun",
+    "definition": "day",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "商店",
+    "pinyin": "shāng diàn",
+    "type": "noun",
+    "definition": "shop",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "上",
+    "pinyin": "shàng",
+    "type": "noun",
+    "definition": "above",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "上午",
+    "pinyin": "shàng wǔ",
+    "type": "noun",
+    "definition": "morning",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "时候",
+    "pinyin": "shí hou",
+    "type": "noun",
+    "definition": "a point of time",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "书",
+    "pinyin": "shū",
+    "type": "noun",
+    "definition": "book",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "水",
+    "pinyin": "shuǐ",
+    "type": "noun",
+    "definition": "water",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "水果",
+    "pinyin": "shuǐ guǒ",
+    "type": "noun",
+    "definition": "fruit",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "天气",
+    "pinyin": "tiān qì",
+    "type": "noun",
+    "definition": "weather",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "同学",
+    "pinyin": "tóng xué",
+    "type": "noun",
+    "definition": "classmate",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "下",
+    "pinyin": "xià",
+    "type": "noun",
+    "definition": "below",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "下午",
+    "pinyin": "xià wǔ",
+    "type": "noun",
+    "definition": "afternoon",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "先生",
+    "pinyin": "xiān sheng",
+    "type": "noun",
+    "definition": "mister",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "现在",
+    "pinyin": "xiàn zài",
+    "type": "noun",
+    "definition": "now",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "小姐",
+    "pinyin": "xiǎo jie",
+    "type": "noun",
+    "definition": "miss",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "星期",
+    "pinyin": "xīng qī",
+    "type": "noun",
+    "definition": "week",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "学生",
+    "pinyin": "xué sheng",
+    "type": "noun",
+    "definition": "student",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "学校",
+    "pinyin": "xué xiào",
+    "type": "noun",
+    "definition": "school",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "衣服",
+    "pinyin": "yī fu",
+    "type": "noun",
+    "definition": "clothing",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "医生",
+    "pinyin": "yī shēng",
+    "type": "noun",
+    "definition": "doctor",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "医院",
+    "pinyin": "yī yuàn",
+    "type": "noun",
+    "definition": "hospital",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "椅子",
+    "pinyin": "yǐ zi",
+    "type": "noun",
+    "definition": "chair",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "月",
+    "pinyin": "yuè",
+    "type": "noun",
+    "definition": "month",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "中国",
+    "pinyin": "zhōng guó",
+    "type": "noun",
+    "definition": "China",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "中午",
+    "pinyin": "zhōng wǔ",
+    "type": "noun",
+    "definition": "noon",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "桌子",
+    "pinyin": "zhuō zi",
+    "type": "noun",
+    "definition": "table",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "字",
+    "pinyin": "zì",
+    "type": "noun",
+    "definition": "Chinese character",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "昨天",
+    "pinyin": "zuó tiān",
+    "type": "noun",
+    "definition": "yesterday",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "一",
+    "pinyin": "yī",
+    "type": "numeral",
+    "definition": "one",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "二",
+    "pinyin": "èr",
+    "type": "numeral",
+    "definition": "two",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "三",
+    "pinyin": "sān",
+    "type": "numeral",
+    "definition": "three",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "四",
+    "pinyin": "sì",
+    "type": "numeral",
+    "definition": "four",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "五",
+    "pinyin": "wǔ",
+    "type": "numeral",
+    "definition": "five",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "六",
+    "pinyin": "liù",
+    "type": "numeral",
+    "definition": "six",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "七",
+    "pinyin": "qī",
+    "type": "numeral",
+    "definition": "seven",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "八",
+    "pinyin": "bā",
+    "type": "numeral",
+    "definition": "eight",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "九",
+    "pinyin": "jiǔ",
+    "type": "numeral",
+    "definition": "nine",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "十",
+    "pinyin": "shí",
+    "type": "numeral",
+    "definition": "ten",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "零",
+    "pinyin": "líng",
+    "type": "numeral",
+    "definition": "zero",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "在",
+    "pinyin": "zài",
+    "type": "preposition",
+    "definition": "at",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "多少",
+    "pinyin": "duō shao",
+    "type": "pronoun",
+    "definition": "how many, how much",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "几",
+    "pinyin": "jǐ",
+    "type": "pronoun",
+    "definition": "how many",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "哪儿",
+    "pinyin": "nǎ’er",
+    "type": "pronoun",
+    "definition": "where",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "那",
+    "pinyin": "nà",
+    "type": "pronoun",
+    "definition": "that",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "你",
+    "pinyin": "nǐ",
+    "type": "pronoun",
+    "definition": "you (singular)",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "你们",
+    "pinyin": "nǐ men",
+    "type": "pronoun",
+    "definition": "you (plural)",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "什么",
+    "pinyin": "shén me",
+    "type": "pronoun",
+    "definition": "what",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "谁",
+    "pinyin": "shuí",
+    "type": "pronoun",
+    "definition": "who",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "他",
+    "pinyin": "tā",
+    "type": "pronoun",
+    "definition": "he, him",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "她",
+    "pinyin": "tā",
+    "type": "pronoun",
+    "definition": "she, her",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "他们",
+    "pinyin": "tā men",
+    "type": "pronoun",
+    "definition": "they, them",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "她们",
+    "pinyin": "tā men",
+    "type": "pronoun",
+    "definition": "they, them",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "我",
+    "pinyin": "wǒ",
+    "type": "pronoun",
+    "definition": "I, me",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "我们",
+    "pinyin": "wǒ men",
+    "type": "pronoun",
+    "definition": "we, us",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "怎么",
+    "pinyin": "zěn me",
+    "type": "pronoun",
+    "definition": "how",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "怎么样",
+    "pinyin": "zěn me yàng",
+    "type": "pronoun",
+    "definition": "how about",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "这",
+    "pinyin": "zhè",
+    "type": "pronoun",
+    "definition": "this",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "爱",
+    "pinyin": "ài",
+    "type": "verb",
+    "definition": "to love",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "不客气",
+    "pinyin": "bú kè qì",
+    "type": "verb",
+    "definition": "you’re welcome",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "吃",
+    "pinyin": "chī",
+    "type": "verb",
+    "definition": "to eat",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "type": "verb",
+    "definition": "to make a phone call",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "读",
+    "pinyin": "dú",
+    "type": "verb",
+    "definition": "to read",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "对不起",
+    "pinyin": "duì bu qǐ",
+    "type": "verb",
+    "definition": "sorry",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "喝",
+    "pinyin": "hē",
+    "type": "verb",
+    "definition": "to drink",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "回",
+    "pinyin": "huí",
+    "type": "verb",
+    "definition": "to return",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "会",
+    "pinyin": "huì",
+    "type": "verb",
+    "definition": "can, know how to",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "叫",
+    "pinyin": "jiào",
+    "type": "verb",
+    "definition": "to call",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "开",
+    "pinyin": "kāi",
+    "type": "verb",
+    "definition": "to open",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "看",
+    "pinyin": "kān",
+    "type": "verb",
+    "definition": "to look at",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "看见",
+    "pinyin": "kàn jiàn",
+    "type": "verb",
+    "definition": "to see",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "来",
+    "pinyin": "lái",
+    "type": "verb",
+    "definition": "to come",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "买",
+    "pinyin": "mǎi",
+    "type": "verb",
+    "definition": "to buy",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "没关系",
+    "pinyin": "méi guān xi",
+    "type": "verb",
+    "definition": "it doesn’t matter",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "能",
+    "pinyin": "néng",
+    "type": "verb",
+    "definition": "to be able to",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "请",
+    "pinyin": "qǐng",
+    "type": "verb",
+    "definition": "please",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "去",
+    "pinyin": "qù",
+    "type": "verb",
+    "definition": "to go",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "认识",
+    "pinyin": "rèn shi",
+    "type": "verb",
+    "definition": "to know",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "是",
+    "pinyin": "shì",
+    "type": "verb",
+    "definition": "to be",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "睡觉",
+    "pinyin": "shuìjiào",
+    "type": "verb",
+    "definition": "to sleep",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "说话",
+    "pinyin": "shuō huà",
+    "type": "verb",
+    "definition": "to say, to speak",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "听",
+    "pinyin": "tīng",
+    "type": "verb",
+    "definition": "to listen",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "喜欢",
+    "pinyin": "xǐ huan",
+    "type": "verb",
+    "definition": "to like",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "下雨",
+    "pinyin": "xià yǔ",
+    "type": "verb",
+    "definition": "to rain",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "想",
+    "pinyin": "xiǎng",
+    "type": "verb",
+    "definition": "to think",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "写",
+    "pinyin": "xiě",
+    "type": "verb",
+    "definition": "to write",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "谢谢",
+    "pinyin": "xiè xie",
+    "type": "verb",
+    "definition": "thanks",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "学习",
+    "pinyin": "xué xí",
+    "type": "verb",
+    "definition": "to study",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "有",
+    "pinyin": "yǒu",
+    "type": "verb",
+    "definition": "to have",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "再见",
+    "pinyin": "zài jiàn",
+    "type": "verb",
+    "definition": "good-bye",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "住",
+    "pinyin": "zhù",
+    "type": "verb",
+    "definition": "to live",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "做",
+    "pinyin": "zuò",
+    "type": "verb",
+    "definition": "to do",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "坐",
+    "pinyin": "zuò",
+    "type": "verb",
+    "definition": "to sit",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "工作",
+    "pinyin": "gōng zuò",
+    "type": "verb & noun",
+    "definition": "to work, job",
+    "hsk_level": 1
+  },
+  {
+    "chinese_characters": "白",
+    "pinyin": "bái",
+    "type": "adjective",
+    "definition": "white",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "长",
+    "pinyin": "zhǎng",
+    "type": "adjective",
+    "definition": "long",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "错",
+    "pinyin": "cuò",
+    "type": "adjective",
+    "definition": "wrong",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "对",
+    "pinyin": "duì",
+    "type": "adjective",
+    "definition": "right",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "高",
+    "pinyin": "gāo",
+    "type": "adjective",
+    "definition": "tall",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "贵",
+    "pinyin": "guì",
+    "type": "adjective",
+    "definition": "expensive",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "好吃",
+    "pinyin": "hǎo chī",
+    "type": "adjective",
+    "definition": "delicious",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "黑",
+    "pinyin": "hēi",
+    "type": "adjective",
+    "definition": "black",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "红",
+    "pinyin": "hóng",
+    "type": "adjective",
+    "definition": "red",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "近",
+    "pinyin": "jìn",
+    "type": "adjective",
+    "definition": "close",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "快",
+    "pinyin": "kuài",
+    "type": "adjective",
+    "definition": "quick",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "快乐",
+    "pinyin": "kuài lè",
+    "type": "adjective",
+    "definition": "happy",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "累",
+    "pinyin": "lèi",
+    "type": "adjective",
+    "definition": "tired",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "慢",
+    "pinyin": "màn",
+    "type": "adjective",
+    "definition": "slow",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "忙",
+    "pinyin": "máng",
+    "type": "adjective",
+    "definition": "busy",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "便宜",
+    "pinyin": "pián yi",
+    "type": "adjective",
+    "definition": "cheap",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "漂亮",
+    "pinyin": "piào liang",
+    "type": "adjective",
+    "definition": "beautiful",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "晴",
+    "pinyin": "qíng",
+    "type": "adjective",
+    "definition": "sunny",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "新",
+    "pinyin": "xīn",
+    "type": "adjective",
+    "definition": "new",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "阴",
+    "pinyin": "yīn",
+    "type": "adjective",
+    "definition": "cloudy",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "远",
+    "pinyin": "yuǎn",
+    "type": "adjective",
+    "definition": "far",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "别",
+    "pinyin": "bié",
+    "type": "adverb",
+    "definition": "do not",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "非常",
+    "pinyin": "fēi cháng",
+    "type": "adverb",
+    "definition": "very",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "还",
+    "pinyin": "huán",
+    "type": "adverb",
+    "definition": "still",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "就",
+    "pinyin": "jiù",
+    "type": "adverb",
+    "definition": "only",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "也",
+    "pinyin": "yě",
+    "type": "adverb",
+    "definition": "also",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "已经",
+    "pinyin": "yǐ jing",
+    "type": "adverb",
+    "definition": "already",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "一起",
+    "pinyin": "yī qǐ",
+    "type": "adverb",
+    "definition": "together",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "再",
+    "pinyin": "zài",
+    "type": "adverb",
+    "definition": "again",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "真",
+    "pinyin": "zhēn",
+    "type": "adverb",
+    "definition": "really",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "正在",
+    "pinyin": "zhèng zài",
+    "type": "adverb",
+    "definition": "currently",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "最",
+    "pinyin": "zuì",
+    "type": "adverb",
+    "definition": "most",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "吧",
+    "pinyin": "ba",
+    "type": "auxiliary",
+    "definition": "(suggestion)",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "地",
+    "pinyin": "dì",
+    "type": "auxiliary",
+    "definition": "(adverbial particle)",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "得",
+    "pinyin": "děi",
+    "type": "auxiliary",
+    "definition": "(adverbial particle)",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "过",
+    "pinyin": "guò",
+    "type": "auxiliary",
+    "definition": "(perfect tense)",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "着",
+    "pinyin": "zhuó",
+    "type": "auxiliary",
+    "definition": "(continuing tense)",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "次",
+    "pinyin": "cì",
+    "type": "classifier",
+    "definition": "time",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "公斤",
+    "pinyin": "gōng jīn",
+    "type": "classifier",
+    "definition": "kilogram",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "件",
+    "pinyin": "jiàn",
+    "type": "classifier",
+    "definition": "measure word for clothing or matters",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "元",
+    "pinyin": "yuán",
+    "type": "classifier",
+    "definition": "yuan",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "张",
+    "pinyin": "zhāng",
+    "type": "classifier",
+    "definition": "piece",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "但是",
+    "pinyin": "dàn shì",
+    "type": "conjunction",
+    "definition": "but",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "type": "conjunction",
+    "definition": "so",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "因为",
+    "pinyin": "yīn wèi",
+    "type": "conjunction",
+    "definition": "because",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "喂",
+    "pinyin": "wèi",
+    "type": "interjection",
+    "definition": "hey",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "船",
+    "pinyin": "chuán",
+    "type": "noun",
+    "definition": "boat",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "弟弟",
+    "pinyin": "dì di",
+    "type": "noun",
+    "definition": "younger brother",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "房间",
+    "pinyin": "fáng jiān",
+    "type": "noun",
+    "definition": "room",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "分钟",
+    "pinyin": "fēn zhōng",
+    "type": "noun",
+    "definition": "minute",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "服务员",
+    "pinyin": "fú wù yuán",
+    "type": "noun",
+    "definition": "waiter",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "哥哥",
+    "pinyin": "gē ge",
+    "type": "noun",
+    "definition": "older brother",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "type": "noun",
+    "definition": "bus",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "公司",
+    "pinyin": "gōng sī",
+    "type": "noun",
+    "definition": "company",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "孩子",
+    "pinyin": "hái zi",
+    "type": "noun",
+    "definition": "child",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "号",
+    "pinyin": "hào",
+    "type": "noun",
+    "definition": "number",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "机场",
+    "pinyin": "jī chǎng",
+    "type": "noun",
+    "definition": "airport",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "鸡蛋",
+    "pinyin": "jī dàn",
+    "type": "noun",
+    "definition": "egg",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "教室",
+    "pinyin": "jiào shì",
+    "type": "noun",
+    "definition": "classroom",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "姐姐",
+    "pinyin": "jiě jie",
+    "type": "noun",
+    "definition": "older sister",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "咖啡",
+    "pinyin": "kā fēi",
+    "type": "noun",
+    "definition": "coffee",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "考试",
+    "pinyin": "kǎo shì",
+    "type": "noun",
+    "definition": "exam",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "课",
+    "pinyin": "kè",
+    "type": "noun",
+    "definition": "lesson",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "路",
+    "pinyin": "lù",
+    "type": "noun",
+    "definition": "road",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "妹妹",
+    "pinyin": "mèi mei",
+    "type": "noun",
+    "definition": "younger sister",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "男人",
+    "pinyin": "nán rén",
+    "type": "noun",
+    "definition": "man",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "牛奶",
+    "pinyin": "niú nǎi",
+    "type": "noun",
+    "definition": "milk",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "女人",
+    "pinyin": "nǚ rén",
+    "type": "noun",
+    "definition": "woman",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "旁边",
+    "pinyin": "páng biān",
+    "type": "noun",
+    "definition": "side",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "票",
+    "pinyin": "piào",
+    "type": "noun",
+    "definition": "ticket",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "妻子",
+    "pinyin": "qī zi",
+    "type": "noun",
+    "definition": "wife",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "去年",
+    "pinyin": "qù nián",
+    "type": "noun",
+    "definition": "last year",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "身体",
+    "pinyin": "shēn tǐ",
+    "type": "noun",
+    "definition": "body, health",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "生日",
+    "pinyin": "shēng rì",
+    "type": "noun",
+    "definition": "birthday",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "时间",
+    "pinyin": "shí jiān",
+    "type": "noun",
+    "definition": "time",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "事情",
+    "pinyin": "shì qing",
+    "type": "noun",
+    "definition": "matter",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "手表",
+    "pinyin": "shǒu biǎo",
+    "type": "noun",
+    "definition": "watch",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "题",
+    "pinyin": "tí",
+    "type": "noun",
+    "definition": "question",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "外",
+    "pinyin": "wài",
+    "type": "noun",
+    "definition": "outside",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "晚上",
+    "pinyin": "wǎn shang",
+    "type": "noun",
+    "definition": "evening",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "问题",
+    "pinyin": "wèn tí",
+    "type": "noun",
+    "definition": "question",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "西瓜",
+    "pinyin": "xī guā",
+    "type": "noun",
+    "definition": "watermelon",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "小时",
+    "pinyin": "xiǎo shí",
+    "type": "noun",
+    "definition": "hour",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "姓",
+    "pinyin": "xìng",
+    "type": "noun",
+    "definition": "family name",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "雪",
+    "pinyin": "xuě",
+    "type": "noun",
+    "definition": "snow",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "颜色",
+    "pinyin": "yán sè",
+    "type": "noun",
+    "definition": "color",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "眼睛",
+    "pinyin": "yǎn jing",
+    "type": "noun",
+    "definition": "eye",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "羊肉",
+    "pinyin": "yáng ròu",
+    "type": "noun",
+    "definition": "lamb",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "药",
+    "pinyin": "yào",
+    "type": "noun",
+    "definition": "medicine",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "意思",
+    "pinyin": "yì si",
+    "type": "noun",
+    "definition": "meaning",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "右边",
+    "pinyin": "yòu bian",
+    "type": "noun",
+    "definition": "right side",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "鱼",
+    "pinyin": "yú",
+    "type": "noun",
+    "definition": "fish",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "早上",
+    "pinyin": "zǎo shang",
+    "type": "noun",
+    "definition": "morning",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "丈夫",
+    "pinyin": "zhàng fu",
+    "type": "noun",
+    "definition": "husband",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "自行车",
+    "pinyin": "zì xíng chē",
+    "type": "noun",
+    "definition": "bicycle",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "左边",
+    "pinyin": "zuǒ bian",
+    "type": "noun",
+    "definition": "left side",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "百",
+    "pinyin": "bǎi",
+    "type": "numeral",
+    "definition": "hundred",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "第一",
+    "pinyin": "dì yī",
+    "type": "numeral",
+    "definition": "first",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "两",
+    "pinyin": "liǎng",
+    "type": "numeral",
+    "definition": "two",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "千",
+    "pinyin": "qiān",
+    "type": "numeral",
+    "definition": "thousand",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "打篮球",
+    "pinyin": "dǎ lán qiú",
+    "type": "phrase",
+    "definition": "to play basketball",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "比",
+    "pinyin": "bǐ",
+    "type": "preposition",
+    "definition": "to compare with",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "从",
+    "pinyin": "cóng",
+    "type": "preposition",
+    "definition": "from",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "对",
+    "pinyin": "duì",
+    "type": "preposition",
+    "definition": "towards",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "离",
+    "pinyin": "lí",
+    "type": "preposition",
+    "definition": "from",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "向",
+    "pinyin": "xiàng",
+    "type": "preposition",
+    "definition": "towards",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "大家",
+    "pinyin": "dà jiā",
+    "type": "pronoun",
+    "definition": "everyone",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "每",
+    "pinyin": "měi",
+    "type": "pronoun",
+    "definition": "every",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "您",
+    "pinyin": "nín",
+    "type": "pronoun",
+    "definition": "you",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "它",
+    "pinyin": "tā",
+    "type": "pronoun",
+    "definition": "it",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "为什么",
+    "pinyin": "wèi shén me",
+    "type": "pronoun",
+    "definition": "why",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "帮助",
+    "pinyin": "bāng zhù",
+    "type": "verb",
+    "definition": "to help",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "唱歌",
+    "pinyin": "chàng gē",
+    "type": "verb",
+    "definition": "to sing",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "出",
+    "pinyin": "chū",
+    "type": "verb",
+    "definition": "to go out",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "穿",
+    "pinyin": "chuān",
+    "type": "verb",
+    "definition": "to wear",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "到",
+    "pinyin": "dào",
+    "type": "verb",
+    "definition": "to arrive",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "等",
+    "pinyin": "děng",
+    "type": "verb",
+    "definition": "to wait",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "告诉",
+    "pinyin": "gào sù",
+    "type": "verb",
+    "definition": "to tell",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "给",
+    "pinyin": "gěi",
+    "type": "verb",
+    "definition": "to give",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "欢迎",
+    "pinyin": "huān yíng",
+    "type": "verb",
+    "definition": "to welcome",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "回答",
+    "pinyin": "huí dá",
+    "type": "verb",
+    "definition": "to answer",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "介绍",
+    "pinyin": "jiè shào",
+    "type": "verb",
+    "definition": "to introduce",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "进",
+    "pinyin": "jìn",
+    "type": "verb",
+    "definition": "to enter",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "觉得",
+    "pinyin": "jué de",
+    "type": "verb",
+    "definition": "to think",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "开始",
+    "pinyin": "kāi shǐ",
+    "type": "verb",
+    "definition": "to begin",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "可能",
+    "pinyin": "kě néng",
+    "type": "verb",
+    "definition": "to be possible",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "可以",
+    "pinyin": "kě yǐ",
+    "type": "verb",
+    "definition": "can",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "旅游",
+    "pinyin": "lǚ yóu",
+    "type": "verb",
+    "definition": "to travel",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "跑步",
+    "pinyin": "pǎo bù",
+    "type": "verb",
+    "definition": "to run",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "起床",
+    "pinyin": "qǐ chuáng",
+    "type": "verb",
+    "definition": "to get up",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "让",
+    "pinyin": "ràng",
+    "type": "verb",
+    "definition": "to let",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "上班",
+    "pinyin": "shàng bān",
+    "type": "verb",
+    "definition": "to go to work",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "生病",
+    "pinyin": "shēng bìng",
+    "type": "verb",
+    "definition": "to get sick",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "送",
+    "pinyin": "sòng",
+    "type": "verb",
+    "definition": "to give, to send",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "踢足球",
+    "pinyin": "tī zú qiú",
+    "type": "verb",
+    "definition": "to play football",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "跳舞",
+    "pinyin": "tiào wǔ",
+    "type": "verb",
+    "definition": "to dance",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "玩",
+    "pinyin": "wán",
+    "type": "verb",
+    "definition": "to play",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "完",
+    "pinyin": "wán",
+    "type": "verb",
+    "definition": "to finish",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "问",
+    "pinyin": "wèn",
+    "type": "verb",
+    "definition": "to ask",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "希望",
+    "pinyin": "xī wàng",
+    "type": "verb",
+    "definition": "to hope",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "洗",
+    "pinyin": "xǐ",
+    "type": "verb",
+    "definition": "to wash",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "笑",
+    "pinyin": "xiào",
+    "type": "verb",
+    "definition": "to smile",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "休息",
+    "pinyin": "xiū xi",
+    "type": "verb",
+    "definition": "to rest",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "要",
+    "pinyin": "yào",
+    "type": "verb",
+    "definition": "to want, will",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "游泳",
+    "pinyin": "yóu yǒng",
+    "type": "verb",
+    "definition": "to swim",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "运动",
+    "pinyin": "yùn dòng",
+    "type": "verb",
+    "definition": "to work out",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "找",
+    "pinyin": "zhǎo",
+    "type": "verb",
+    "definition": "to look for",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "知道",
+    "pinyin": "zhī dào",
+    "type": "verb",
+    "definition": "to know",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "type": "verb",
+    "definition": "to prepare",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "走",
+    "pinyin": "zǒu",
+    "type": "verb",
+    "definition": "to walk",
+    "hsk_level": 2
+  },
+  {
+    "chinese_characters": "矮",
+    "pinyin": "ǎi",
+    "type": "adjective",
+    "definition": "short (in height)",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "安静",
+    "pinyin": "ān jìng",
+    "type": "adjective",
+    "definition": "quiet",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "差",
+    "pinyin": "chà",
+    "type": "adjective",
+    "definition": "bad (quality)",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "低",
+    "pinyin": "dī",
+    "type": "adjective",
+    "definition": "low",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "地方",
+    "pinyin": "dì fāng",
+    "type": "adjective",
+    "definition": "local",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "短",
+    "pinyin": "duǎn",
+    "type": "adjective",
+    "definition": "short",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "干净",
+    "pinyin": "gān jìng",
+    "type": "adjective",
+    "definition": "clean",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "过去",
+    "pinyin": "guò qu",
+    "type": "adjective",
+    "definition": "past",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "还是",
+    "pinyin": "hái shì",
+    "type": "adjective",
+    "definition": "still",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "坏",
+    "pinyin": "huài",
+    "type": "adjective",
+    "definition": "bad",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "黄",
+    "pinyin": "huáng",
+    "type": "adjective",
+    "definition": "yellow",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "极",
+    "pinyin": "jí",
+    "type": "adjective",
+    "definition": "extremely",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "简单",
+    "pinyin": "jiǎn dān",
+    "type": "adjective",
+    "definition": "simple",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "久",
+    "pinyin": "jiǔ",
+    "type": "adjective",
+    "definition": "long (time)",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "旧",
+    "pinyin": "jiù",
+    "type": "adjective",
+    "definition": "old",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "渴",
+    "pinyin": "kě",
+    "type": "adjective",
+    "definition": "thirsty",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "可爱",
+    "pinyin": "kě ‘ ài",
+    "type": "adjective",
+    "definition": "lovely",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "蓝",
+    "pinyin": "lán",
+    "type": "adjective",
+    "definition": "blue",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "老",
+    "pinyin": "lǎo",
+    "type": "adjective",
+    "definition": "old",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "绿",
+    "pinyin": "lǜ",
+    "type": "adjective",
+    "definition": "green",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "满意",
+    "pinyin": "mǎn yì",
+    "type": "adjective",
+    "definition": "satisfied",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "明白",
+    "pinyin": "míng bai",
+    "type": "adjective",
+    "definition": "clear",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "难",
+    "pinyin": "nàn",
+    "type": "adjective",
+    "definition": "difficult",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "胖",
+    "pinyin": "pàng",
+    "type": "adjective",
+    "definition": "fat",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "奇怪",
+    "pinyin": "qí guài",
+    "type": "adjective",
+    "definition": "strange",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "清楚",
+    "pinyin": "qīng chu",
+    "type": "adjective",
+    "definition": "clear",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "认真",
+    "pinyin": "rèn zhēn",
+    "type": "adjective",
+    "definition": "serious",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "容易",
+    "pinyin": "róng yì",
+    "type": "adjective",
+    "definition": "easy",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "瘦",
+    "pinyin": "shòu",
+    "type": "adjective",
+    "definition": "thin",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "舒服",
+    "pinyin": "shū fu",
+    "type": "adjective",
+    "definition": "comfortable",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "特别",
+    "pinyin": "tè bié",
+    "type": "adjective",
+    "definition": "special",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "小心",
+    "pinyin": "xiǎo xīn",
+    "type": "adjective",
+    "definition": "to be careful",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "新鲜",
+    "pinyin": "xīn xiān",
+    "type": "adjective",
+    "definition": "fresh",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一样",
+    "pinyin": "yī yàng",
+    "type": "adjective",
+    "definition": "same",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一般",
+    "pinyin": "yī bān",
+    "type": "adjective",
+    "definition": "general",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "有名",
+    "pinyin": "yǒu míng",
+    "type": "adjective",
+    "definition": "famous",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "重要",
+    "pinyin": "zhòng yào",
+    "type": "adjective",
+    "definition": "important",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "才",
+    "pinyin": "cái",
+    "type": "adverb",
+    "definition": "just",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "当然",
+    "pinyin": "dāng rán",
+    "type": "adverb",
+    "definition": "surely",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "多么",
+    "pinyin": "duō me",
+    "type": "adverb",
+    "definition": "how",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "刚才",
+    "pinyin": "gāng cái",
+    "type": "adverb",
+    "definition": "just now",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "更",
+    "pinyin": "gèng",
+    "type": "adverb",
+    "definition": "more",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "还",
+    "pinyin": "huán",
+    "type": "adverb",
+    "definition": "to return",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "或者",
+    "pinyin": "huò zhě",
+    "type": "adverb",
+    "definition": "or",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "几乎",
+    "pinyin": "jī hū",
+    "type": "adverb",
+    "definition": "nearly",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "经常",
+    "pinyin": "jīng cháng",
+    "type": "adverb",
+    "definition": "often",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "马上",
+    "pinyin": "mǎ shàng",
+    "type": "adverb",
+    "definition": "at once",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "其实",
+    "pinyin": "qí shí",
+    "type": "adverb",
+    "definition": "actually",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "其他",
+    "pinyin": "qí tā",
+    "type": "adverb",
+    "definition": "else, other",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "突然",
+    "pinyin": "tū rán",
+    "type": "adverb",
+    "definition": "all of a sudden",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "先",
+    "pinyin": "xiān",
+    "type": "adverb",
+    "definition": "first",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一定",
+    "pinyin": "yī dìng",
+    "type": "adverb",
+    "definition": "definitely",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一共",
+    "pinyin": "yī gòng",
+    "type": "adverb",
+    "definition": "altogether",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "以后",
+    "pinyin": "yǐ hòu",
+    "type": "adverb",
+    "definition": "after",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "以前",
+    "pinyin": "yǐ qián",
+    "type": "adverb",
+    "definition": "before",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一边",
+    "pinyin": "yì biān",
+    "type": "adverb",
+    "definition": "at the same time",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一直",
+    "pinyin": "yī zhí",
+    "type": "adverb",
+    "definition": "constantly",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "只",
+    "pinyin": "zhǐ",
+    "type": "adverb",
+    "definition": "only",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "终于",
+    "pinyin": "zhōng yú",
+    "type": "adverb",
+    "definition": "finally",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "主要",
+    "pinyin": "zhǔ yào",
+    "type": "adverb",
+    "definition": "mainly",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "总是",
+    "pinyin": "zǒng shì",
+    "type": "adverb",
+    "definition": "always",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "最近",
+    "pinyin": "zuì jìn",
+    "type": "adverb",
+    "definition": "recently",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "应该",
+    "pinyin": "yīng gāi",
+    "type": "auxiliary",
+    "definition": "should",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "愿意",
+    "pinyin": "yuàn yì",
+    "type": "auxiliary",
+    "definition": "would like to",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "而且",
+    "pinyin": "ér qiě",
+    "type": "conjunction",
+    "definition": "moreover",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "然后",
+    "pinyin": "rán hòu",
+    "type": "conjunction",
+    "definition": "afterwards",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "如果",
+    "pinyin": "rú guǒ",
+    "type": "conjunction",
+    "definition": "if",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "又",
+    "pinyin": "yòu",
+    "type": "conjunction",
+    "definition": "again",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "啊",
+    "pinyin": "a",
+    "type": "int",
+    "definition": "ah",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "阿姨",
+    "pinyin": "ā yí",
+    "type": "noun",
+    "definition": "maid, aunt",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "爱好",
+    "pinyin": "ài hào",
+    "type": "noun",
+    "definition": "hobby",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "把",
+    "pinyin": "bǎ",
+    "type": "noun",
+    "definition": "handle",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "班",
+    "pinyin": "bān",
+    "type": "noun",
+    "definition": "class",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "半",
+    "pinyin": "bàn",
+    "type": "noun",
+    "definition": "half",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "办法",
+    "pinyin": "bàn fǎ",
+    "type": "noun",
+    "definition": "method",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "办公室",
+    "pinyin": "bàn gōng shì",
+    "type": "noun",
+    "definition": "office",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "包",
+    "pinyin": "bāo",
+    "type": "noun",
+    "definition": "bag",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "报纸",
+    "pinyin": "bào zhǐ",
+    "type": "noun",
+    "definition": "newspaper",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "北方",
+    "pinyin": "běi fāng",
+    "type": "noun",
+    "definition": "north",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "鼻子",
+    "pinyin": "bí zi",
+    "type": "noun",
+    "definition": "nose",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "比赛",
+    "pinyin": "bǐ sài",
+    "type": "noun",
+    "definition": "match",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "变化",
+    "pinyin": "biàn huà",
+    "type": "noun",
+    "definition": "change",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "宾馆",
+    "pinyin": "bīng guǎn",
+    "type": "noun",
+    "definition": "hotel",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "冰箱",
+    "pinyin": "bīng xiāng",
+    "type": "noun",
+    "definition": "refrigerator",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "菜单",
+    "pinyin": "cài dān",
+    "type": "noun",
+    "definition": "menu",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "草",
+    "pinyin": "cǎo",
+    "type": "noun",
+    "definition": "grass",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "层",
+    "pinyin": "céng",
+    "type": "noun",
+    "definition": "story",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "超市",
+    "pinyin": "chāo shì",
+    "type": "noun",
+    "definition": "supermarket",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "衬衫",
+    "pinyin": "chèn shān",
+    "type": "noun",
+    "definition": "shirt",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "成绩",
+    "pinyin": "chéng jì",
+    "type": "noun",
+    "definition": "score",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "城市",
+    "pinyin": "chéng shì",
+    "type": "noun",
+    "definition": "city",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "厨房",
+    "pinyin": "chú fáng",
+    "type": "noun",
+    "definition": "kitchen",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "春",
+    "pinyin": "chūn",
+    "type": "noun",
+    "definition": "spring",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "词语",
+    "pinyin": "cí yǔ",
+    "type": "noun",
+    "definition": "word",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "聪明",
+    "pinyin": "cōng ming",
+    "type": "noun",
+    "definition": "clever",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "打算",
+    "pinyin": "dǎ suàn",
+    "type": "noun",
+    "definition": "plan",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "蛋糕",
+    "pinyin": "dàn gāo",
+    "type": "noun",
+    "definition": "cake",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "灯",
+    "pinyin": "dēng",
+    "type": "noun",
+    "definition": "light",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "地铁",
+    "pinyin": "dì tiě",
+    "type": "noun",
+    "definition": "subway",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "地图",
+    "pinyin": "dì tú",
+    "type": "noun",
+    "definition": "map",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "电梯",
+    "pinyin": "diàn tī",
+    "type": "noun",
+    "definition": "elevator",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "电子邮件",
+    "pinyin": "diàn zǐ yóu jiàn",
+    "type": "noun",
+    "definition": "email",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "东",
+    "pinyin": "dōng",
+    "type": "noun",
+    "definition": "east",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "冬",
+    "pinyin": "dōng",
+    "type": "noun",
+    "definition": "winter",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "动物",
+    "pinyin": "dòng wù",
+    "type": "noun",
+    "definition": "animal",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "段",
+    "pinyin": "duàn",
+    "type": "noun",
+    "definition": "passage",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "耳朵",
+    "pinyin": "ěr duo",
+    "type": "noun",
+    "definition": "ear",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "发烧",
+    "pinyin": "fā shāo",
+    "type": "noun",
+    "definition": "fever",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "方便",
+    "pinyin": "fāng biàn",
+    "type": "noun",
+    "definition": "convenience",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "附近",
+    "pinyin": "fù jìn",
+    "type": "noun",
+    "definition": "neighborhood",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "感冒",
+    "pinyin": "gǎn mào",
+    "type": "noun",
+    "definition": "cold",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "根据",
+    "pinyin": "gēn jù",
+    "type": "noun",
+    "definition": "basis",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "公园",
+    "pinyin": "gōng yuán",
+    "type": "noun",
+    "definition": "park",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "故事",
+    "pinyin": "gù shi",
+    "type": "noun",
+    "definition": "story",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "关系",
+    "pinyin": "guān xì",
+    "type": "noun",
+    "definition": "connection, relation",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "国家",
+    "pinyin": "guó jiā",
+    "type": "noun",
+    "definition": "nation",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "果汁",
+    "pinyin": "guǒ zhī",
+    "type": "noun",
+    "definition": "juice",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "河",
+    "pinyin": "hé",
+    "type": "noun",
+    "definition": "river",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "黑板",
+    "pinyin": "hēi bǎn",
+    "type": "noun",
+    "definition": "blackboard",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "护照",
+    "pinyin": "hù zhào",
+    "type": "noun",
+    "definition": "passport",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "花",
+    "pinyin": "huā",
+    "type": "noun",
+    "definition": "flower",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "花园",
+    "pinyin": "huā yuán",
+    "type": "noun",
+    "definition": "garden",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "画",
+    "pinyin": "huà",
+    "type": "noun",
+    "definition": "painting",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "环境",
+    "pinyin": "huán jìng",
+    "type": "noun",
+    "definition": "environment",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "会议",
+    "pinyin": "huì yì",
+    "type": "noun",
+    "definition": "meeting",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "机会",
+    "pinyin": "jī huì",
+    "type": "noun",
+    "definition": "chance",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "季节",
+    "pinyin": "jì jié",
+    "type": "noun",
+    "definition": "season",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "健康",
+    "pinyin": "jiàn kāng",
+    "type": "noun",
+    "definition": "health",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "角",
+    "pinyin": "jiǎo",
+    "type": "noun",
+    "definition": "corner",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "脚",
+    "pinyin": "jiǎo",
+    "type": "noun",
+    "definition": "foot",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "街道",
+    "pinyin": "jiē dào",
+    "type": "noun",
+    "definition": "street",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "节目",
+    "pinyin": "jié mù",
+    "type": "noun",
+    "definition": "program",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "节日",
+    "pinyin": "jié rì",
+    "type": "noun",
+    "definition": "festival",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "经理",
+    "pinyin": "jīng lǐ",
+    "type": "noun",
+    "definition": "manager",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "句子",
+    "pinyin": "jù zi",
+    "type": "noun",
+    "definition": "sentence",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "客人",
+    "pinyin": "kè ren",
+    "type": "noun",
+    "definition": "guest",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "空调",
+    "pinyin": "kōng tiáo",
+    "type": "noun",
+    "definition": "air conditioning",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "口",
+    "pinyin": "kǒu",
+    "type": "noun",
+    "definition": "mouth",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "裤子",
+    "pinyin": "kù zi",
+    "type": "noun",
+    "definition": "trousers",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "块",
+    "pinyin": "kuài",
+    "type": "noun",
+    "definition": "piece",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "筷子",
+    "pinyin": "kuài zi",
+    "type": "noun",
+    "definition": "chopsticks",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "礼物",
+    "pinyin": "lǐ wù",
+    "type": "noun",
+    "definition": "gift",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "历史",
+    "pinyin": "lì shǐ",
+    "type": "noun",
+    "definition": "history",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "脸",
+    "pinyin": "liǎn",
+    "type": "noun",
+    "definition": "face",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "邻居",
+    "pinyin": "lín jū",
+    "type": "noun",
+    "definition": "neighbor",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "楼",
+    "pinyin": "lóu",
+    "type": "noun",
+    "definition": "building",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "马",
+    "pinyin": "mǎ",
+    "type": "noun",
+    "definition": "horse",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "帽子",
+    "pinyin": "mào zi",
+    "type": "noun",
+    "definition": "hat",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "门",
+    "pinyin": "mén",
+    "type": "noun",
+    "definition": "door",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "米",
+    "pinyin": "mǐ",
+    "type": "noun",
+    "definition": "rice",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "面包",
+    "pinyin": "miàn bāo",
+    "type": "noun",
+    "definition": "bread",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "面条",
+    "pinyin": "miàn tiáo",
+    "type": "noun",
+    "definition": "noodle",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "奶奶",
+    "pinyin": "nǎi nai",
+    "type": "noun",
+    "definition": "grandmother",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "南",
+    "pinyin": "nán",
+    "type": "noun",
+    "definition": "south",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "音乐",
+    "pinyin": "yīn yuè",
+    "type": "noun",
+    "definition": "music",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "年级",
+    "pinyin": "nián jí",
+    "type": "noun",
+    "definition": "grade",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "年轻",
+    "pinyin": "nián qīng",
+    "type": "noun",
+    "definition": "youth",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "鸟",
+    "pinyin": "niǎo",
+    "type": "noun",
+    "definition": "bird",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "盘子",
+    "pinyin": "pán zi",
+    "type": "noun",
+    "definition": "plate",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "啤酒",
+    "pinyin": "pí jiǔ",
+    "type": "noun",
+    "definition": "beer",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "葡萄",
+    "pinyin": "pú táo",
+    "type": "noun",
+    "definition": "grape",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "普通话",
+    "pinyin": "pǔ tōng huà",
+    "type": "noun",
+    "definition": "Mandarin",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "铅笔",
+    "pinyin": "qiān bǐ",
+    "type": "noun",
+    "definition": "pencil",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "秋",
+    "pinyin": "qiū",
+    "type": "noun",
+    "definition": "autumn",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "裙子",
+    "pinyin": "qún zi",
+    "type": "noun",
+    "definition": "skirt",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "热情",
+    "pinyin": "rè qíng",
+    "type": "noun",
+    "definition": "enthusiasm",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "伞",
+    "pinyin": "sǎn",
+    "type": "noun",
+    "definition": "umbrella",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "声音",
+    "pinyin": "shēng yīn",
+    "type": "noun",
+    "definition": "voice",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "世界",
+    "pinyin": "shì jiè",
+    "type": "noun",
+    "definition": "world",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "手机",
+    "pinyin": "shǒu jī",
+    "type": "noun",
+    "definition": "mobile phone",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "叔叔",
+    "pinyin": "shū shu",
+    "type": "noun",
+    "definition": "uncle",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "树",
+    "pinyin": "shù",
+    "type": "noun",
+    "definition": "tree",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "数学",
+    "pinyin": "shù xué",
+    "type": "noun",
+    "definition": "math",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "双",
+    "pinyin": "shuāng",
+    "type": "noun",
+    "definition": "pair",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "水平",
+    "pinyin": "shuǐ píng",
+    "type": "noun",
+    "definition": "level",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "司机",
+    "pinyin": "sī jī",
+    "type": "noun",
+    "definition": "driver",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "太阳",
+    "pinyin": "tài yáng",
+    "type": "noun",
+    "definition": "sun",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "糖",
+    "pinyin": "táng",
+    "type": "noun",
+    "definition": "sugar",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "疼",
+    "pinyin": "téng",
+    "type": "noun",
+    "definition": "pain",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "体育",
+    "pinyin": "t ǐyù",
+    "type": "noun",
+    "definition": "PE",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "同事",
+    "pinyin": "tóng shì",
+    "type": "noun",
+    "definition": "colleague",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "头发",
+    "pinyin": "tóu fa",
+    "type": "noun",
+    "definition": "hair",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "type": "noun",
+    "definition": "library",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "腿",
+    "pinyin": "tuǐ",
+    "type": "noun",
+    "definition": "leg",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "碗",
+    "pinyin": "wǎn",
+    "type": "noun",
+    "definition": "bowl",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "万",
+    "pinyin": "wàn",
+    "type": "noun",
+    "definition": "ten thousand",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "文化",
+    "pinyin": "wén huà",
+    "type": "noun",
+    "definition": "culture",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "西",
+    "pinyin": "xī",
+    "type": "noun",
+    "definition": "west",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "习惯",
+    "pinyin": "xí guàn",
+    "type": "noun",
+    "definition": "custom",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "type": "noun",
+    "definition": "washroom",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "夏",
+    "pinyin": "xià",
+    "type": "noun",
+    "definition": "summer",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "type": "noun",
+    "definition": "banana",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "校长",
+    "pinyin": "xiào zhǎng",
+    "type": "noun",
+    "definition": "head of a school",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "鞋",
+    "pinyin": "xié",
+    "type": "noun",
+    "definition": "shoe",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "新闻",
+    "pinyin": "xīn wén",
+    "type": "noun",
+    "definition": "news",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "信",
+    "pinyin": "xìn",
+    "type": "noun",
+    "definition": "letter",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "行李箱",
+    "pinyin": "xíng lǐ xiāng",
+    "type": "noun",
+    "definition": "suitcase",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "兴趣",
+    "pinyin": "xìng qù",
+    "type": "noun",
+    "definition": "interest",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "熊猫",
+    "pinyin": "xióng māo",
+    "type": "noun",
+    "definition": "panda",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "眼镜",
+    "pinyin": "yǎn jìng",
+    "type": "noun",
+    "definition": "glasses",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "爷爷",
+    "pinyin": "yé ye",
+    "type": "noun",
+    "definition": "grandfather",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "一会儿",
+    "pinyin": "yī huìr",
+    "type": "noun",
+    "definition": "a short period of time",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "银行",
+    "pinyin": "yín háng",
+    "type": "noun",
+    "definition": "bank",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "type": "noun",
+    "definition": "affection",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "游戏",
+    "pinyin": "yóu xì",
+    "type": "noun",
+    "definition": "game",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "月亮",
+    "pinyin": "yuè liang",
+    "type": "noun",
+    "definition": "moon",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "云",
+    "pinyin": "yún",
+    "type": "noun",
+    "definition": "cloud",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "照片",
+    "pinyin": "zhào piàn",
+    "type": "noun",
+    "definition": "photo",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "照相机",
+    "pinyin": "zhào xiàng jī",
+    "type": "noun",
+    "definition": "camera",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "中间",
+    "pinyin": "zhōng jiān",
+    "type": "noun",
+    "definition": "middle",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "种",
+    "pinyin": "zhòng",
+    "type": "noun",
+    "definition": "kind",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "周末",
+    "pinyin": "zhōu mò",
+    "type": "noun",
+    "definition": "weekend",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "注意",
+    "pinyin": "zhù yì",
+    "type": "noun",
+    "definition": "attention",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "字典",
+    "pinyin": "zì diǎn",
+    "type": "noun",
+    "definition": "dictionary",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "自己",
+    "pinyin": "zì jǐ",
+    "type": "noun",
+    "definition": "oneself",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "作业",
+    "pinyin": "zuò yè",
+    "type": "noun",
+    "definition": "homework",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "作用",
+    "pinyin": "zuò yòng",
+    "type": "noun",
+    "definition": "action",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "饱",
+    "pinyin": "bǎo",
+    "type": "noun (adjective)",
+    "definition": "full",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "相同",
+    "pinyin": "xiāng tóng",
+    "type": "noun (adjective)",
+    "definition": "same",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "辆",
+    "pinyin": "liàng",
+    "type": "noun (measure word)",
+    "definition": "measure word for cars",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "位",
+    "pinyin": "wèi",
+    "type": "noun (measure word)",
+    "definition": "measure word for people",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "上网",
+    "pinyin": "shàng wǎng",
+    "type": "noun (verb)",
+    "definition": "to get online",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "被",
+    "pinyin": "bèi",
+    "type": "preposition",
+    "definition": "by",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "除了",
+    "pinyin": "chú le",
+    "type": "preposition",
+    "definition": "except for",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "关于",
+    "pinyin": "guān yú",
+    "type": "preposition",
+    "definition": "regarding",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "虽然",
+    "pinyin": "suī rán",
+    "type": "preposition",
+    "definition": "despite",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "为了",
+    "pinyin": "wèi le",
+    "type": "preposition",
+    "definition": "for",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "为",
+    "pinyin": "wèi",
+    "type": "preposition",
+    "definition": "for",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "像",
+    "pinyin": "xiàng",
+    "type": "preposition",
+    "definition": "as",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "别人",
+    "pinyin": "bié ren",
+    "type": "pronoun",
+    "definition": "others",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "搬",
+    "pinyin": "bān",
+    "type": "verb",
+    "definition": "to move",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "帮忙",
+    "pinyin": "bāng máng",
+    "type": "verb",
+    "definition": "to help",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "比较",
+    "pinyin": "bǐ jiào",
+    "type": "verb",
+    "definition": "to compare",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "必须",
+    "pinyin": "bì xū",
+    "type": "verb",
+    "definition": "must",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "表示",
+    "pinyin": "biǎo shì",
+    "type": "verb",
+    "definition": "to express",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "表演",
+    "pinyin": "biǎo yǎn",
+    "type": "verb",
+    "definition": "to perform",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "参加",
+    "pinyin": "cān jiā",
+    "type": "verb",
+    "definition": "to attend",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "迟到",
+    "pinyin": "chí dào",
+    "type": "verb",
+    "definition": "to be late",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "出现",
+    "pinyin": "chū xiàn",
+    "type": "verb",
+    "definition": "to appear",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "打扫",
+    "pinyin": "dǎ sǎo",
+    "type": "verb",
+    "definition": "to clean",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "带",
+    "pinyin": "dài",
+    "type": "verb",
+    "definition": "to bring",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "担心",
+    "pinyin": "dān xīn",
+    "type": "verb",
+    "definition": "to worry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "懂",
+    "pinyin": "dǒng",
+    "type": "verb",
+    "definition": "to understand",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "锻炼",
+    "pinyin": "duàn liàn",
+    "type": "verb",
+    "definition": "to work out",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "饿",
+    "pinyin": "è",
+    "type": "verb",
+    "definition": "to be hungry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "发现",
+    "pinyin": "fā xiàn",
+    "type": "verb",
+    "definition": "to discover",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "放",
+    "pinyin": "fàng",
+    "type": "verb",
+    "definition": "to put",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "放心",
+    "pinyin": "fàng xīn",
+    "type": "verb",
+    "definition": "to relax",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "分",
+    "pinyin": "fēn",
+    "type": "verb",
+    "definition": "to divide",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "复习",
+    "pinyin": "fù xí",
+    "type": "verb",
+    "definition": "to review",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "敢",
+    "pinyin": "gǎn",
+    "type": "verb",
+    "definition": "to dare",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "跟",
+    "pinyin": "gēn",
+    "type": "verb",
+    "definition": "to follow",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "刮风",
+    "pinyin": "guā fēng",
+    "type": "verb",
+    "definition": "to blow",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "关",
+    "pinyin": "guān",
+    "type": "verb",
+    "definition": "to shut",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "关心",
+    "pinyin": "guān xīn",
+    "type": "verb",
+    "definition": "to concern",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "害怕",
+    "pinyin": "hài pà",
+    "type": "verb",
+    "definition": "to be scared",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "换",
+    "pinyin": "huàn",
+    "type": "verb",
+    "definition": "to change",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "记得",
+    "pinyin": "jì de",
+    "type": "verb",
+    "definition": "to remember",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "检查",
+    "pinyin": "jiǎn chá",
+    "type": "verb",
+    "definition": "to examine",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "见面",
+    "pinyin": "jiàn miàn",
+    "type": "verb",
+    "definition": "to meet",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "讲",
+    "pinyin": "jiǎng",
+    "type": "verb",
+    "definition": "to speak",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "教",
+    "pinyin": "jiāo",
+    "type": "verb",
+    "definition": "to teach",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "接",
+    "pinyin": "jiē",
+    "type": "verb",
+    "definition": "to connect",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "结婚",
+    "pinyin": "jié hūn",
+    "type": "verb",
+    "definition": "to marry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "结束",
+    "pinyin": "jié shù",
+    "type": "verb",
+    "definition": "to finish",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "解决",
+    "pinyin": "jiě jué",
+    "type": "verb",
+    "definition": "to solve",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "借",
+    "pinyin": "jiè",
+    "type": "verb",
+    "definition": "to borrow",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "经过",
+    "pinyin": "jīng guò",
+    "type": "verb",
+    "definition": "to pass",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "举行",
+    "pinyin": "jǔ xíng",
+    "type": "verb",
+    "definition": "to hold",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "决定",
+    "pinyin": "jué dìng",
+    "type": "verb",
+    "definition": "to decide",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "刻",
+    "pinyin": "kè",
+    "type": "verb",
+    "definition": "to carve",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "哭",
+    "pinyin": "kū",
+    "type": "verb",
+    "definition": "to cry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "离开",
+    "pinyin": "lí kāi",
+    "type": "verb",
+    "definition": "to leave",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "练习",
+    "pinyin": "liàn xí",
+    "type": "verb",
+    "definition": "to practice",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "了解",
+    "pinyin": "liǎo jiě",
+    "type": "verb",
+    "definition": "to know",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "卖",
+    "pinyin": "mài",
+    "type": "verb",
+    "definition": "to sell",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "难过",
+    "pinyin": "nán guò",
+    "type": "verb",
+    "definition": "to be sad",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "努力",
+    "pinyin": "nǔ lì",
+    "type": "verb",
+    "definition": "to put effort in",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "爬上",
+    "pinyin": "pá shàng",
+    "type": "verb",
+    "definition": "to climb up",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "骑",
+    "pinyin": "qí",
+    "type": "verb",
+    "definition": "to ride",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "生气",
+    "pinyin": "shēng qì",
+    "type": "verb",
+    "definition": "to be angry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "使",
+    "pinyin": "shǐ",
+    "type": "verb",
+    "definition": "to make",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "刷牙",
+    "pinyin": "shuā yá",
+    "type": "verb",
+    "definition": "to brush teeth",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "认为",
+    "pinyin": "rèn wéi",
+    "type": "verb",
+    "definition": "to think",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "提高",
+    "pinyin": "tí gāo",
+    "type": "verb",
+    "definition": "to improve",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "完成",
+    "pinyin": "wán chéng",
+    "type": "verb",
+    "definition": "to finish",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "忘记",
+    "pinyin": "wàng jì",
+    "type": "verb",
+    "definition": "to forget",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "洗澡",
+    "pinyin": "xǐ zǎo",
+    "type": "verb",
+    "definition": "to bathe",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "相信",
+    "pinyin": "xiāng xìn",
+    "type": "verb",
+    "definition": "to believe",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "需要",
+    "pinyin": "xū yào",
+    "type": "verb",
+    "definition": "to need",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "选择",
+    "pinyin": "xuǎn zé",
+    "type": "verb",
+    "definition": "to choose",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "要求",
+    "pinyin": "yāo qiú",
+    "type": "verb",
+    "definition": "to require",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "以为",
+    "pinyin": "yǐ wéi",
+    "type": "verb",
+    "definition": "to think (wrongly)",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "用",
+    "pinyin": "yòng",
+    "type": "verb",
+    "definition": "to use",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "遇到",
+    "pinyin": "yù dào",
+    "type": "verb",
+    "definition": "to meet",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "越",
+    "pinyin": "yuè",
+    "type": "verb",
+    "definition": "to get over",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "站",
+    "pinyin": "zhàn",
+    "type": "verb",
+    "definition": "to stand",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "长",
+    "pinyin": "zhǎng",
+    "type": "verb",
+    "definition": "to grow",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "着急",
+    "pinyin": "zháo jí",
+    "type": "verb",
+    "definition": "to worry",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "照顾",
+    "pinyin": "zhào gù",
+    "type": "verb",
+    "definition": "to look after",
+    "hsk_level": 3
+  },
+  {
+    "chinese_characters": "祝",
+    "pinyin": "zhù",
+    "type": "verb",
+    "definition": "to wish",
+    "hsk_level": 3
+  }
+]

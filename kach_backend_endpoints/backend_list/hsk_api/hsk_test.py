@@ -92,4 +92,3 @@ class HskTest(APITestCase):
 
         assert response.status_code == status.HTTP_200_OK
         assert response.data == serializer.data
-
