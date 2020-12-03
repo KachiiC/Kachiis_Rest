@@ -94,15 +94,41 @@
             },
             {
                 "event": 8,
-                "points": 6,
-                "total_points": 423,
-                "rank": 2292509,
-                "rank_sort": 2326144,
-                "overall_rank": 568611,
+                "points": 66,
+                "total_points": 483,
+                "rank": 1551107,
+                "rank_sort": 1556057,
+                "overall_rank": 491038,
                 "bank": 11,
                 "value": 1022,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
+                "points_on_bench": 19
+            },
+            {
+                "event": 9,
+                "points": 69,
+                "total_points": 552,
+                "rank": 1457392,
+                "rank_sort": 1463171,
+                "overall_rank": 366030,
+                "bank": 5,
+                "value": 1020,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 10,
+                "points": 19,
+                "total_points": 567,
+                "rank": 2391542,
+                "rank_sort": 2396432,
+                "overall_rank": 390618,
+                "bank": 16,
+                "value": 1021,
+                "event_transfers": 2,
+                "event_transfers_cost": 4,
                 "points_on_bench": 0
             }
         ],
@@ -157,11 +183,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 423,
-        "summary_overall_rank": 568611,
-        "summary_event_points": 6,
-        "summary_event_rank": 2292509,
-        "current_event": 8,
+        "summary_overall_points": 567,
+        "summary_overall_rank": 390618,
+        "summary_event_points": 19,
+        "summary_event_rank": 2391542,
+        "current_event": 10,
         "leagues": {
             "classic": [
                 {
@@ -176,8 +202,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 176959,
-                    "entry_last_rank": 176129,
+                    "entry_rank": 118176,
+                    "entry_last_rank": 111682,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -194,8 +220,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 565725,
-                    "entry_last_rank": 564917,
+                    "entry_rank": 389157,
+                    "entry_last_rank": 364593,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -212,8 +238,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 568611,
-                    "entry_last_rank": 568203,
+                    "entry_rank": 390618,
+                    "entry_last_rank": 366030,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -230,7 +256,7 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 2,
+                    "entry_rank": 1,
                     "entry_last_rank": 2,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
@@ -250,8 +276,8 @@
         },
         "name": "6th attempt to win",
         "kit": null,
-        "last_deadline_bank": 11,
-        "last_deadline_value": 1022,
-        "last_deadline_total_transfers": 6
+        "last_deadline_bank": 16,
+        "last_deadline_value": 1021,
+        "last_deadline_total_transfers": 10
     }
 ]

@@ -94,16 +94,42 @@
             },
             {
                 "event": 8,
-                "points": 9,
-                "total_points": 367,
-                "rank": 1235773,
-                "rank_sort": 1241208,
-                "overall_rank": 2666957,
+                "points": 73,
+                "total_points": 431,
+                "rank": 652526,
+                "rank_sort": 653503,
+                "overall_rank": 2178573,
                 "bank": 35,
                 "value": 1017,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 3
+            },
+            {
+                "event": 9,
+                "points": 73,
+                "total_points": 504,
+                "rank": 901896,
+                "rank_sort": 903519,
+                "overall_rank": 1617571,
+                "bank": 21,
+                "value": 1020,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 10,
+                "points": 10,
+                "total_points": 514,
+                "rank": 5132011,
+                "rank_sort": 5135096,
+                "overall_rank": 1792641,
+                "bank": 3,
+                "value": 1023,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 2
             }
         ],
         "past": [
@@ -172,11 +198,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 367,
-        "summary_overall_rank": 2666957,
-        "summary_event_points": 9,
-        "summary_event_rank": 1235773,
-        "current_event": 8,
+        "summary_overall_points": 514,
+        "summary_overall_rank": 1792641,
+        "summary_event_points": 10,
+        "summary_event_rank": 5132011,
+        "current_event": 10,
         "leagues": {
             "classic": [
                 {
@@ -191,8 +217,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 13283,
-                    "entry_last_rank": 14384,
+                    "entry_rank": 9188,
+                    "entry_last_rank": 8313,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -209,8 +235,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2614758,
-                    "entry_last_rank": 2822020,
+                    "entry_rank": 1767806,
+                    "entry_last_rank": 1598514,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -227,8 +253,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2666957,
-                    "entry_last_rank": 2887879,
+                    "entry_rank": 1792641,
+                    "entry_last_rank": 1617571,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -245,8 +271,8 @@
                     "scoring": "c",
                     "admin_entry": 1573529,
                     "start_event": 1,
-                    "entry_rank": 6,
-                    "entry_last_rank": 6,
+                    "entry_rank": 4,
+                    "entry_last_rank": 4,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -263,8 +289,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 9,
-                    "entry_last_rank": 9,
+                    "entry_rank": 7,
+                    "entry_last_rank": 7,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -281,8 +307,8 @@
                     "scoring": "c",
                     "admin_entry": 1760209,
                     "start_event": 1,
-                    "entry_rank": 79,
-                    "entry_last_rank": 80,
+                    "entry_rank": 54,
+                    "entry_last_rank": 49,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -318,7 +344,7 @@
                     "admin_entry": 3406376,
                     "start_event": 1,
                     "entry_rank": 2,
-                    "entry_last_rank": 2,
+                    "entry_last_rank": 1,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -335,8 +361,8 @@
                     "scoring": "c",
                     "admin_entry": 5217021,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 4,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -374,8 +400,8 @@
         },
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 35,
-        "last_deadline_value": 1017,
-        "last_deadline_total_transfers": 9
+        "last_deadline_bank": 3,
+        "last_deadline_value": 1023,
+        "last_deadline_total_transfers": 12
     }
 ]

@@ -2,7 +2,7 @@ from django.urls import reverse
 from rest_framework.test import APITestCase
 from rest_framework import status
 from kach_api_endpoints.api_list.imdb_api.imdb_model import Content, ImdbList
-from kach_api_endpoints.api_list.imdb_api.imdb_serializer import ContentSerializer, ImdbListSerializer
+from kach_api_endpoints.api_list.imdb_api.imdb_serializer import ImdbListSerializer
 
 
 class ImdbTest(APITestCase):
