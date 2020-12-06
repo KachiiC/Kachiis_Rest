@@ -120,14 +120,27 @@
             },
             {
                 "event": 10,
-                "points": 7,
-                "total_points": 565,
-                "rank": 5767385,
-                "rank_sort": 5768389,
-                "overall_rank": 425213,
+                "points": 44,
+                "total_points": 602,
+                "rank": 3784508,
+                "rank_sort": 3786002,
+                "overall_rank": 374689,
                 "bank": 1,
                 "value": 1023,
                 "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 11,
+                "points": 33,
+                "total_points": 635,
+                "rank": 1910022,
+                "rank_sort": 1910816,
+                "overall_rank": 344915,
+                "bank": 2,
+                "value": 1024,
+                "event_transfers": 2,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -192,11 +205,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 565,
-        "summary_overall_rank": 425213,
-        "summary_event_points": 7,
-        "summary_event_rank": 5767385,
-        "current_event": 10,
+        "summary_overall_points": 635,
+        "summary_overall_rank": 344915,
+        "summary_event_points": 33,
+        "summary_event_rank": 1910022,
+        "current_event": 11,
         "leagues": {
             "classic": [
                 {
@@ -211,8 +224,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 58065,
-                    "entry_last_rank": 36753,
+                    "entry_rank": 40865,
+                    "entry_last_rank": 46436,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -229,8 +242,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 128746,
-                    "entry_last_rank": 88406,
+                    "entry_rank": 103271,
+                    "entry_last_rank": 114333,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -247,8 +260,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 423548,
-                    "entry_last_rank": 289081,
+                    "entry_rank": 343731,
+                    "entry_last_rank": 373222,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -265,8 +278,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 425213,
-                    "entry_last_rank": 290062,
+                    "entry_rank": 344915,
+                    "entry_last_rank": 374689,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -301,7 +314,7 @@
                     "scoring": "c",
                     "admin_entry": 12018,
                     "start_event": 1,
-                    "entry_rank": 4,
+                    "entry_rank": 3,
                     "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -319,8 +332,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 1,
+                    "entry_rank": 1,
+                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -465,8 +478,8 @@
         },
         "name": "Li's Legendz",
         "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#7bc9af\",\"kit_shirt_sleeves\":\"#5b6363\",\"kit_shirt_secondary\":\"#ff8f8f\",\"kit_shirt_logo\":\"sky-ocean-rescue\",\"kit_shorts\":\"#f8cdcd\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#dda5a5\"}",
-        "last_deadline_bank": 1,
-        "last_deadline_value": 1023,
-        "last_deadline_total_transfers": 12
+        "last_deadline_bank": 2,
+        "last_deadline_value": 1024,
+        "last_deadline_total_transfers": 14
     }
 ]

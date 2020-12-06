@@ -120,15 +120,28 @@
             },
             {
                 "event": 10,
-                "points": 19,
-                "total_points": 567,
-                "rank": 2391542,
-                "rank_sort": 2396432,
-                "overall_rank": 390618,
+                "points": 54,
+                "total_points": 602,
+                "rank": 1725058,
+                "rank_sort": 1730447,
+                "overall_rank": 371560,
                 "bank": 16,
                 "value": 1021,
                 "event_transfers": 2,
                 "event_transfers_cost": 4,
+                "points_on_bench": 2
+            },
+            {
+                "event": 11,
+                "points": 30,
+                "total_points": 632,
+                "rank": 2385627,
+                "rank_sort": 2392093,
+                "overall_rank": 380097,
+                "bank": 2,
+                "value": 1025,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
         ],
@@ -183,11 +196,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 567,
-        "summary_overall_rank": 390618,
-        "summary_event_points": 19,
-        "summary_event_rank": 2391542,
-        "current_event": 10,
+        "summary_overall_points": 632,
+        "summary_overall_rank": 380097,
+        "summary_event_points": 30,
+        "summary_event_rank": 2385627,
+        "current_event": 11,
         "leagues": {
             "classic": [
                 {
@@ -202,8 +215,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 118176,
-                    "entry_last_rank": 111682,
+                    "entry_rank": 114106,
+                    "entry_last_rank": 113450,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -220,8 +233,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 389157,
-                    "entry_last_rank": 364593,
+                    "entry_rank": 378700,
+                    "entry_last_rank": 370101,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -238,8 +251,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 390618,
-                    "entry_last_rank": 366030,
+                    "entry_rank": 380097,
+                    "entry_last_rank": 371560,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -256,8 +269,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 2,
+                    "entry_rank": 2,
+                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
                     "entry_can_invite": true
@@ -276,8 +289,8 @@
         },
         "name": "6th attempt to win",
         "kit": null,
-        "last_deadline_bank": 16,
-        "last_deadline_value": 1021,
-        "last_deadline_total_transfers": 10
+        "last_deadline_bank": 2,
+        "last_deadline_value": 1025,
+        "last_deadline_total_transfers": 11
     }
 ]

@@ -120,16 +120,29 @@
             },
             {
                 "event": 10,
-                "points": 3,
-                "total_points": 518,
-                "rank": 7054641,
-                "rank_sort": 7067918,
-                "overall_rank": 1640698,
+                "points": 43,
+                "total_points": 558,
+                "rank": 4153334,
+                "rank_sort": 4195543,
+                "overall_rank": 1386100,
                 "bank": 17,
                 "value": 1006,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 2
+            },
+            {
+                "event": 11,
+                "points": 28,
+                "total_points": 586,
+                "rank": 2707072,
+                "rank_sort": 2761818,
+                "overall_rank": 1360522,
+                "bank": 0,
+                "value": 1007,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -139,7 +152,13 @@
                 "rank": 2816465
             }
         ],
-        "chips": []
+        "chips": [
+            {
+                "name": "wildcard",
+                "time": "2020-12-05T00:20:52.530107Z",
+                "event": 11
+            }
+        ]
     },
     {
         "id": 4316712,
@@ -152,11 +171,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 518,
-        "summary_overall_rank": 1640698,
-        "summary_event_points": 3,
-        "summary_event_rank": 7054641,
-        "current_event": 10,
+        "summary_overall_points": 586,
+        "summary_overall_rank": 1360522,
+        "summary_event_points": 28,
+        "summary_event_rank": 2707072,
+        "current_event": 11,
         "leagues": {
             "classic": [
                 {
@@ -171,8 +190,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 102212,
-                    "entry_last_rank": 76429,
+                    "entry_rank": 84534,
+                    "entry_last_rank": 85260,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -189,8 +208,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 506422,
-                    "entry_last_rank": 380811,
+                    "entry_rank": 415623,
+                    "entry_last_rank": 427724,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -207,8 +226,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1620156,
-                    "entry_last_rank": 1224645,
+                    "entry_rank": 1345007,
+                    "entry_last_rank": 1370573,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -225,8 +244,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1640698,
-                    "entry_last_rank": 1235848,
+                    "entry_rank": 1360522,
+                    "entry_last_rank": 1386100,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -244,7 +263,7 @@
                     "admin_entry": 684633,
                     "start_event": 1,
                     "entry_rank": 6,
-                    "entry_last_rank": 5,
+                    "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -336,8 +355,8 @@
         },
         "name": "SHIRLEY",
         "kit": null,
-        "last_deadline_bank": 17,
-        "last_deadline_value": 1006,
+        "last_deadline_bank": 0,
+        "last_deadline_value": 1007,
         "last_deadline_total_transfers": 9
     }
 ]
