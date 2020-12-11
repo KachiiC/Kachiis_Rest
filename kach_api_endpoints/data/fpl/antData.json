@@ -133,15 +133,28 @@
             },
             {
                 "event": 11,
-                "points": 49,
-                "total_points": 618,
-                "rank": 428670,
-                "rank_sort": 435373,
-                "overall_rank": 607330,
+                "points": 88,
+                "total_points": 657,
+                "rank": 259261,
+                "rank_sort": 263151,
+                "overall_rank": 618433,
                 "bank": 3,
                 "value": 1016,
                 "event_transfers": 2,
                 "event_transfers_cost": 4,
+                "points_on_bench": 0
+            },
+            {
+                "event": 12,
+                "points": 0,
+                "total_points": 657,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 618433,
+                "bank": 3,
+                "value": 1019,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
         ],
@@ -170,11 +183,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 618,
-        "summary_overall_rank": 607330,
-        "summary_event_points": 49,
-        "summary_event_rank": 428670,
-        "current_event": 11,
+        "summary_overall_points": 657,
+        "summary_overall_rank": 618433,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 12,
         "leagues": {
             "classic": [
                 {
@@ -189,8 +202,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 98630,
-                    "entry_last_rank": 147201,
+                    "entry_rank": 93096,
+                    "entry_last_rank": 93096,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -207,8 +220,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 183038,
-                    "entry_last_rank": 295950,
+                    "entry_rank": 190380,
+                    "entry_last_rank": 190380,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -225,8 +238,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 604148,
-                    "entry_last_rank": 955690,
+                    "entry_rank": 614543,
+                    "entry_last_rank": 614543,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -243,8 +256,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 607330,
-                    "entry_last_rank": 963252,
+                    "entry_rank": 618433,
+                    "entry_last_rank": 618433,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -261,8 +274,8 @@
                     "scoring": "c",
                     "admin_entry": 598,
                     "start_event": 1,
-                    "entry_rank": 6726,
-                    "entry_last_rank": 8933,
+                    "entry_rank": 6184,
+                    "entry_last_rank": 6184,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -279,7 +292,7 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 3,
+                    "entry_rank": 4,
                     "entry_last_rank": 4,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -298,7 +311,7 @@
                     "admin_entry": 2305407,
                     "start_event": 1,
                     "entry_rank": 3,
-                    "entry_last_rank": 5,
+                    "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -315,8 +328,8 @@
                     "scoring": "c",
                     "admin_entry": 2341747,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 3,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
                     "entry_can_invite": true
@@ -336,7 +349,7 @@
         "name": "Don’t stop de Beek",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
         "last_deadline_bank": 3,
-        "last_deadline_value": 1016,
+        "last_deadline_value": 1019,
         "last_deadline_total_transfers": 15
     }
 ]

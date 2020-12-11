@@ -133,14 +133,27 @@
             },
             {
                 "event": 11,
-                "points": 33,
-                "total_points": 635,
-                "rank": 1910022,
-                "rank_sort": 1910816,
-                "overall_rank": 344915,
+                "points": 68,
+                "total_points": 670,
+                "rank": 2809828,
+                "rank_sort": 2811283,
+                "overall_rank": 401672,
                 "bank": 2,
                 "value": 1024,
                 "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 12,
+                "points": 0,
+                "total_points": 670,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 401672,
+                "bank": 5,
+                "value": 1027,
+                "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -205,11 +218,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 635,
-        "summary_overall_rank": 344915,
-        "summary_event_points": 33,
-        "summary_event_rank": 1910022,
-        "current_event": 11,
+        "summary_overall_points": 670,
+        "summary_overall_rank": 401672,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 12,
         "leagues": {
             "classic": [
                 {
@@ -224,8 +237,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 40865,
-                    "entry_last_rank": 46436,
+                    "entry_rank": 51735,
+                    "entry_last_rank": 51735,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -242,8 +255,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 103271,
-                    "entry_last_rank": 114333,
+                    "entry_rank": 123423,
+                    "entry_last_rank": 123423,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -260,8 +273,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 343731,
-                    "entry_last_rank": 373222,
+                    "entry_rank": 399776,
+                    "entry_last_rank": 399776,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -278,8 +291,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 344915,
-                    "entry_last_rank": 374689,
+                    "entry_rank": 401672,
+                    "entry_last_rank": 401672,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -332,8 +345,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 2,
+                    "entry_rank": 3,
+                    "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -478,8 +491,8 @@
         },
         "name": "Li's Legendz",
         "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#7bc9af\",\"kit_shirt_sleeves\":\"#5b6363\",\"kit_shirt_secondary\":\"#ff8f8f\",\"kit_shirt_logo\":\"sky-ocean-rescue\",\"kit_shorts\":\"#f8cdcd\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#dda5a5\"}",
-        "last_deadline_bank": 2,
-        "last_deadline_value": 1024,
-        "last_deadline_total_transfers": 14
+        "last_deadline_bank": 5,
+        "last_deadline_value": 1027,
+        "last_deadline_total_transfers": 15
     }
 ]

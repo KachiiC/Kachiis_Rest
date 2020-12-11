@@ -133,15 +133,28 @@
             },
             {
                 "event": 11,
-                "points": 54,
-                "total_points": 555,
-                "rank": 174786,
-                "rank_sort": 177858,
-                "overall_rank": 2364628,
+                "points": 59,
+                "total_points": 560,
+                "rank": 4517930,
+                "rank_sort": 4534819,
+                "overall_rank": 3524781,
                 "bank": 6,
                 "value": 1007,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 12,
+                "points": 0,
+                "total_points": 560,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 3524781,
+                "bank": 18,
+                "value": 1005,
+                "event_transfers": 2,
+                "event_transfers_cost": 4,
                 "points_on_bench": 0
             }
         ],
@@ -201,11 +214,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 555,
-        "summary_overall_rank": 2364628,
-        "summary_event_points": 54,
-        "summary_event_rank": 174786,
-        "current_event": 11,
+        "summary_overall_points": 560,
+        "summary_overall_rank": 3524781,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 12,
         "leagues": {
             "classic": [
                 {
@@ -220,8 +233,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 730713,
-                    "entry_last_rank": 1060107,
+                    "entry_rank": 1091079,
+                    "entry_last_rank": 1091079,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -238,8 +251,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2311999,
-                    "entry_last_rank": 3275395,
+                    "entry_rank": 3369717,
+                    "entry_last_rank": 3369717,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -256,8 +269,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2364628,
-                    "entry_last_rank": 3401068,
+                    "entry_rank": 3524781,
+                    "entry_last_rank": 3524781,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -292,7 +305,7 @@
                     "scoring": "c",
                     "admin_entry": 1614849,
                     "start_event": 1,
-                    "entry_rank": 134,
+                    "entry_rank": 185,
                     "entry_last_rank": 185,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -310,8 +323,8 @@
                     "scoring": "c",
                     "admin_entry": 1614849,
                     "start_event": 1,
-                    "entry_rank": 990,
-                    "entry_last_rank": 1342,
+                    "entry_rank": 1361,
+                    "entry_last_rank": 1361,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -328,8 +341,8 @@
                     "scoring": "c",
                     "admin_entry": 1639999,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 5,
+                    "entry_rank": 6,
+                    "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -364,8 +377,8 @@
                     "scoring": "c",
                     "admin_entry": 3932684,
                     "start_event": 1,
-                    "entry_rank": 33,
-                    "entry_last_rank": 44,
+                    "entry_rank": 47,
+                    "entry_last_rank": 47,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -420,8 +433,8 @@
         },
         "name": "Ñíguez In Paris",
         "kit": null,
-        "last_deadline_bank": 6,
-        "last_deadline_value": 1007,
-        "last_deadline_total_transfers": 9
+        "last_deadline_bank": 18,
+        "last_deadline_value": 1005,
+        "last_deadline_total_transfers": 11
     }
 ]

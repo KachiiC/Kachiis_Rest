@@ -133,12 +133,25 @@
             },
             {
                 "event": 11,
-                "points": 26,
-                "total_points": 589,
-                "rank": 3274671,
-                "rank_sort": 3276657,
-                "overall_rank": 1286942,
+                "points": 59,
+                "total_points": 622,
+                "rank": 4615130,
+                "rank_sort": 4616819,
+                "overall_rank": 1491665,
                 "bank": 12,
+                "value": 1025,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 12,
+                "points": 0,
+                "total_points": 622,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 1491665,
+                "bank": 8,
                 "value": 1025,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
@@ -211,11 +224,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 589,
-        "summary_overall_rank": 1286942,
-        "summary_event_points": 26,
-        "summary_event_rank": 3274671,
-        "current_event": 11,
+        "summary_overall_points": 622,
+        "summary_overall_rank": 1491665,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 12,
         "leagues": {
             "classic": [
                 {
@@ -230,8 +243,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 6705,
-                    "entry_last_rank": 6443,
+                    "entry_rank": 7759,
+                    "entry_last_rank": 7759,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -248,8 +261,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1273181,
-                    "entry_last_rank": 1230044,
+                    "entry_rank": 1471138,
+                    "entry_last_rank": 1471138,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -266,8 +279,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1286942,
-                    "entry_last_rank": 1242519,
+                    "entry_rank": 1491665,
+                    "entry_last_rank": 1491665,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -302,8 +315,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 5,
-                    "entry_last_rank": 5,
+                    "entry_rank": 6,
+                    "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -320,8 +333,8 @@
                     "scoring": "c",
                     "admin_entry": 1760209,
                     "start_event": 1,
-                    "entry_rank": 45,
-                    "entry_last_rank": 44,
+                    "entry_rank": 48,
+                    "entry_last_rank": 48,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -413,8 +426,8 @@
         },
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 12,
+        "last_deadline_bank": 8,
         "last_deadline_value": 1025,
-        "last_deadline_total_transfers": 13
+        "last_deadline_total_transfers": 14
     }
 ]

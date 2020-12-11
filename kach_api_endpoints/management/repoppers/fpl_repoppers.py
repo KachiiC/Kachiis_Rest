@@ -20,5 +20,8 @@ def create_fpl_data(data_location):
 
         Player(
             player_id=data[1]["id"],
-            player_name=data[1]["player_first_name"]
+            player_name=data[1]["player_first_name"],
+            points_total=data[1]["summary_overall_points"],
+            transfers_total=data[1]["last_deadline_total_transfers"],
+            current_gameweek=data[1]["current_event"]
         ).save()

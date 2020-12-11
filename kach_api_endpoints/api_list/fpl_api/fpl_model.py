@@ -16,4 +16,7 @@ class MatchDay(models.Model):
 class Player(models.Model):
     player_name = models.CharField(max_length=150)
     player_id = models.IntegerField()
+    points_total = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(100)])
+    transfers_total = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(570)])
+    current_gameweek = models.IntegerField(validators=[MinValueValidator(1), MaxValueValidator(38)])
     matches = models.ManyToManyField('MatchDay', blank=True)

@@ -133,14 +133,27 @@
             },
             {
                 "event": 11,
-                "points": 46,
-                "total_points": 569,
-                "rank": 606279,
-                "rank_sort": 609962,
-                "overall_rank": 1886939,
+                "points": 55,
+                "total_points": 578,
+                "rank": 5379212,
+                "rank_sort": 5383701,
+                "overall_rank": 2931230,
                 "bank": 21,
                 "value": 1017,
                 "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 12,
+                "points": 0,
+                "total_points": 578,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 2931230,
+                "bank": 13,
+                "value": 1019,
+                "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -196,11 +209,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 569,
-        "summary_overall_rank": 1886939,
-        "summary_event_points": 46,
-        "summary_event_rank": 606279,
-        "current_event": 11,
+        "summary_overall_points": 578,
+        "summary_overall_rank": 2931230,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 12,
         "leagues": {
             "classic": [
                 {
@@ -215,8 +228,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 580186,
-                    "entry_last_rank": 807962,
+                    "entry_rank": 907602,
+                    "entry_last_rank": 907602,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -233,8 +246,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1855591,
-                    "entry_last_rank": 2535853,
+                    "entry_rank": 2835555,
+                    "entry_last_rank": 2835555,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -251,8 +264,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1886939,
-                    "entry_last_rank": 2598762,
+                    "entry_rank": 2931230,
+                    "entry_last_rank": 2931230,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -289,8 +302,8 @@
         },
         "name": "We Are Coders",
         "kit": null,
-        "last_deadline_bank": 21,
-        "last_deadline_value": 1017,
-        "last_deadline_total_transfers": 8
+        "last_deadline_bank": 13,
+        "last_deadline_value": 1019,
+        "last_deadline_total_transfers": 9
     }
 ]

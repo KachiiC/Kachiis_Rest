@@ -14,4 +14,4 @@ class PlayerSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Player
-        fields = ('player_name', 'player_id', 'matches')
+        fields = ('player_name', 'player_id', 'points_total', 'transfers_total', 'current_gameweek', 'matches')
