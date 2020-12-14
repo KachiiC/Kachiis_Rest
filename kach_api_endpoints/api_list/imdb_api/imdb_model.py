@@ -6,7 +6,7 @@ class Content(models.Model):
     imdb_id = models.CharField(max_length=20)
     content_type = models.CharField(max_length=20)
     media_type = models.CharField(max_length=20)
-    release_date = models.IntegerField(default=2020)
+    released = models.IntegerField()
 
 
 class ImdbList(models.Model):

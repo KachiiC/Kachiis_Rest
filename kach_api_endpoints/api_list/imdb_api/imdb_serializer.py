@@ -5,7 +5,7 @@ from .imdb_model import Content, ImdbList
 class ContentSerializer(serializers.ModelSerializer):
     class Meta:
         model = Content
-        fields = ("title", "imdb_id", "content_type", "media_type", "release_date")
+        fields = ("title", "imdb_id", "content_type", "media_type", "released")
 
 
 class ImdbListSerializer(serializers.ModelSerializer):

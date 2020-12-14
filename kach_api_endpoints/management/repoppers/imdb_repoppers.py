@@ -12,7 +12,7 @@ def create_tv_imdb_data(data_location):
                 imdb_id=content["imdb_id"],
                 content_type=data[1]["name"],
                 media_type="TV shows",
-                release_date=int(content["year"]),
+                released=int(content["year"]),
             ).save()
 
 
@@ -26,5 +26,5 @@ def create_movie_imdb_data(data_location):
                 imdb_id=content["imdb_id"],
                 content_type=data[1]["name"],
                 media_type="Movies",
-                release_date=int(content["year"]),
+                released=int(content["year"]),
             ).save()
