@@ -2,13 +2,8 @@ from django.urls import path
 from .api_list.fpl_api import fpl_views
 from .api_list.music_chart_api import music_chart_view
 from .api_list.youtube_api import youtube_views
-from .api_list.imdb_api import imdb_view
 
 urlpatterns = [
-    # IMDB API
-    path("imdb_lists/", imdb_view.imdb_lists, name="imdb_lists"),
-    path("imdb_lists/<str:content_type>/", imdb_view.single_imdb_list, name="single_imdb_list"),
-    path("imdb_content_list/", imdb_view.content_list, name="imdb_content_list"),
     # FPL API
     path("fpl_matches/", fpl_views.match_day_list, name="fpl_matches"),
     path("fpl_players/", fpl_views.players_list, name="fpl_players"),
