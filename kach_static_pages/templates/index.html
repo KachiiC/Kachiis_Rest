@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kachii's Rest</title>
+    <link rel="stylesheet" href="{% static 'kachii.css' %}">
+</head>
+
+
+<main>
+<h1>Home Page</h1>
+    {% for display_card in display_cards %}
+    <h2>{{ display_card.title }}</h2>
+    {% endfor %}
+</main>
+
+
+</html>

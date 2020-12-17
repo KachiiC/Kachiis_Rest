@@ -1,10 +1,10 @@
 from django.urls import path
-from .backend_list.hsk_api import hsk_view
+from .backend_list.hsk_api.hsk_view import hsk_words_list, hsk_single_word, all_hsk_levels, single_hsk_level
 
 urlpatterns = [
     # HSK
-    path("hsk_words/", hsk_view.hsk_words_list, name="hsk_words"),
-    path("hsk_words/<str:chinese_characters>", hsk_view.hsk_single_word, name="hsk_single_word"),
-    path("hsk_level/", hsk_view.all_hsk_levels, name="all_hsk_levels"),
-    path("hsk_level/<int:level>", hsk_view.single_hsk_level, name="hsk_level")
+    path("hsk_words/", hsk_words_list, name="hsk_words"),
+    path("hsk_words/<str:chinese_characters>", hsk_single_word, name="hsk_single_word"),
+    path("hsk_level/", all_hsk_levels, name="all_hsk_levels"),
+    path("hsk_level/<int:level>", single_hsk_level, name="hsk_level")
 ]
