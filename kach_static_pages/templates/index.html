@@ -13,7 +13,10 @@
 <main>
 <h1>Home Page</h1>
     {% for display_card in display_cards %}
-    <h2>{{ display_card.title }}</h2>
+        <a href={{display_card.card_link}} >
+            <h2>{{ display_card.title }}</h2>
+        </a>
+        <img src={{ display_card.card_image }} />
     {% endfor %}
 </main>
 

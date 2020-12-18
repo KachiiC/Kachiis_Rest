@@ -1,5 +1,6 @@
 from pathlib import Path
 import django_heroku
+import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -100,4 +101,10 @@ CORS_ORIGIN_WHITELIST = [
 
 django_heroku.settings(locals())
 
-STATIC_URL = '/staticfiles/'
+# Static - Static files will be loaded from this URL
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'staticfiles/static/')]
+
+# Media - Media files will be uploaded from this URL
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'staticfiles/media/')
