@@ -11,4 +11,5 @@ def create_display_card(data_location):
                 title=data["title"],
                 description=data["description"],
                 card_link=data["card_link"],
+                image_url=data["image_url"]
             ).save()

@@ -6,18 +6,89 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kachii's Rest</title>
-    <link rel="stylesheet" href="{% static 'kachii.css' %}">
+    <link rel="icon" href="media/kach_logo.jpg">
+    <link rel="stylesheet" href="{% static 'css/kachii.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cutive%20Mono:400" type="text/css">
 </head>
 
-
 <main>
-<h1>Home Page</h1>
-    {% for display_card in display_cards %}
-        <a href={{display_card.card_link}} >
-            <h2>{{ display_card.title }}</h2>
-        </a>
-        <img src={{ display_card.card_image }} />
-    {% endfor %}
+    <body>
+    <!-- header top section -->
+    <section class="banner" role="banner">
+        <header id="header">
+            <div class="header-content clearfix">
+                <a class="logo" href="index.html">
+                    <img src="media/kach_logo.jpg" alt="">
+                </a>
+                <nav class="navigation" role="navigation">
+                    <ul class="primary-nav">
+                        <li>KachiiC.github.io</li>
+                        <li><a href="#">Kach93@gmail.com</a></li>
+                    </ul>
+                </nav>
+                <a href="#" class="nav-toggle">Menu<span></span></a>
+            </div>
+        </header>
+    </section>
+    <!-- header top section -->
+    <!-- header content section -->
+    <section id="hero" class="section ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-sm-6 hero">
+                    <div class="hero-content">
+                        <h1>Kachi's BackEnd</h1>
+                    </div>
+                    <!-- hero -->
+                </div>
+                <div class="col-md-5 col-sm-6 hero">
+                    <div class="hero-content">
+                        <p>A collection of Backend API's built with Django RestFramework.</p>
+                    </div>
+                    <!-- hero -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- header content section -->
+    <!-- portfolio grid section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                {% for card in display_cards %}
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="#" class="portfolio-link">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <h3>{{ card.title }}</h3>
+                                    <h4>{{ card.description }}</h4>
+                                </div>
+                            </div>
+                            <img src="{{ card.image_url }}" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+    <!-- portfolio grid section -->
+    <!-- footer section -->
+    <footer class="footer">
+        <div class="container">
+            <div class="col-md-6 left">
+                <h4>DJANGO REST FRAMEWORK PROJECT</h4>
+                <p> Designed by KachiiC.Github.io</p>
+            </div>
+        </div>
+    </footer>
+    <!-- footer section -->
+    </body>
 </main>
 
 

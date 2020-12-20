@@ -2,26 +2,31 @@
   {
     "title": "Fpl Api",
     "description": "fpl, description",
-    "card_link": "api/fpl_players/"
+    "card_link": "api/fpl_players/",
+    "image_url" : "media/fpl.png"
   },
   {
     "title": "Music Chart Api",
     "description": "music chart description",
-    "card_link": "api/music_charts/"
+    "card_link": "api/music_charts/",
+    "image_url" : "media/music_chart.jpg"
   },
   {
     "title": "Youtube Api Videos",
     "description": "youtube api description",
-    "card_link": "api/youtube_videos/"
+    "card_link": "api/youtube_videos/",
+    "image_url" : "media/youtube.jpg"
   },
   {
     "title": "Youtube Api Playlists",
     "description": "youtube api description",
-    "card_link": "api/youtube_playlists/"
+    "card_link": "api/youtube_playlists/",
+    "image_url" : "media/youtube_playlist.png"
   },
   {
     "title": "HSK Api",
     "description": "hsk api description",
-    "card_link": "backend/hsk_words/"
+    "card_link": "backend/hsk_words/",
+    "image_url" : "media/Hsk.png"
   }
 ]
