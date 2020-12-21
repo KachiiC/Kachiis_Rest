@@ -156,6 +156,32 @@
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
+            },
+            {
+                "event": 13,
+                "points": 39,
+                "total_points": 731,
+                "rank": 4905244,
+                "rank_sort": 4983860,
+                "overall_rank": 1294135,
+                "bank": 0,
+                "value": 1008,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 14,
+                "points": 51,
+                "total_points": 782,
+                "rank": 3841228,
+                "rank_sort": 3886634,
+                "overall_rank": 1532079,
+                "bank": 0,
+                "value": 1010,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
             }
         ],
         "past": [
@@ -184,11 +210,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 692,
-        "summary_overall_rank": 1131328,
-        "summary_event_points": 62,
-        "summary_event_rank": 1628803,
-        "current_event": 12,
+        "summary_overall_points": 782,
+        "summary_overall_rank": 1532079,
+        "summary_event_points": 51,
+        "summary_event_rank": 3841228,
+        "current_event": 14,
         "leagues": {
             "classic": [
                 {
@@ -203,8 +229,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 79834,
-                    "entry_last_rank": 76489,
+                    "entry_rank": 99892,
+                    "entry_last_rank": 82489,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -221,8 +247,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 393728,
-                    "entry_last_rank": 383196,
+                    "entry_rank": 449211,
+                    "entry_last_rank": 389116,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -239,8 +265,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1270795,
-                    "entry_last_rank": 1230478,
+                    "entry_rank": 1506835,
+                    "entry_last_rank": 1277831,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -257,8 +283,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1131328,
-                    "entry_last_rank": 1244669,
+                    "entry_rank": 1532079,
+                    "entry_last_rank": 1294135,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -329,8 +355,8 @@
                     "scoring": "c",
                     "admin_entry": 4316712,
                     "start_event": 1,
-                    "entry_rank": 3,
-                    "entry_last_rank": 3,
+                    "entry_rank": 4,
+                    "entry_last_rank": 4,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
                     "entry_can_invite": true
@@ -369,7 +395,7 @@
         "name": "SHIRLEY",
         "kit": null,
         "last_deadline_bank": 0,
-        "last_deadline_value": 1009,
+        "last_deadline_value": 1010,
         "last_deadline_total_transfers": 9
     }
 ]
