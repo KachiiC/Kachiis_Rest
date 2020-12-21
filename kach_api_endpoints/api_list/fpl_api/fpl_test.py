@@ -43,12 +43,18 @@ class FplTest(APITestCase):
 
     player_1 = Player(
         player_name="Anthony",
-        player_id=2341747
+        player_id=2341747,
+        points_total=200,
+        transfers_total=5,
+        current_gameweek=3,
     )
 
     player_2 = Player(
         player_name="Kacheok",
-        player_id=684633
+        player_id=684633,
+        points_total=250,
+        transfers_total=7,
+        current_gameweek=3,
     )
 
     expected_matches = [match_day_1, match_day_2, match_day_3]
@@ -61,27 +67,27 @@ class FplTest(APITestCase):
         for obj in self.expected_matches:
             obj.save()
 
-    # def test_add_match_to_player(self):
-    #     """test adding match to players"""
-    #     match_days = MatchDay.objects.all()
-    #     players_list = Player.objects.all()
-    #
-    #     for match in match_days:
-    #         for player in players_list:
-    #             if match.player_id == player.player_id:
-    #                 correct_player = Player.objects.get(player_id=match.player_id)
-    #                 correct_player.matches.add(match)
-    #
-    #     anthony = Player.objects.get(player_name="Anthony")
-    #     kacheok = Player.objects.get(player_name="Kacheok")
-    #
-    #     assert anthony.matches.count() == 2
-    #     assert kacheok.matches.count() == 1
+    def test_add_match_to_player(self):
+        """test adding match to players"""
+        match_days = MatchDay.objects.all()
+        players_list = Player.objects.all()
 
-    # def test_get_all_players(self):
-    #     """"Test getting all players"""
-    #     serializer = PlayerSerializer(self.expected_players, many=True)
-    #
-    #     response = self.client.get(self.fpl_endpoint)
-    #     assert response.status_code == status.HTTP_200_OK
-    #     assert response.data == serializer.data
+        for match in match_days:
+            for player in players_list:
+                if match.player_id == player.player_id:
+                    correct_player = Player.objects.get(player_id=match.player_id)
+                    correct_player.matches.add(match)
+
+        anthony = Player.objects.get(player_name="Anthony")
+        kacheok = Player.objects.get(player_name="Kacheok")
+
+        assert anthony.matches.count() == 2
+        assert kacheok.matches.count() == 1
+
+    def test_get_all_players(self):
+        """"Test getting all players"""
+        serializer = PlayerSerializer(self.expected_players, many=True)
+
+        response = self.client.get(self.fpl_endpoint)
+        assert response.status_code == status.HTTP_200_OK
+        assert response.data == serializer.data

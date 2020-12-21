@@ -29,8 +29,10 @@ class CardTest(APITestCase):
             obj.save()
 
     def test_get_all_cards(self):
+        all_cards = Card.objects.all()
         serializer = CardSerializer(self.expected_cards, many=True)
 
         response = self.client.get(self.cards_endpoint)
+        assert all_cards.count() == 2
         assert response.status_code == status.HTTP_200_OK
         assert response.data == serializer.data
