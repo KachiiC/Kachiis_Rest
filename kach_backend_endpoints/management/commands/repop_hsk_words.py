@@ -6,15 +6,19 @@ from kach_backend_endpoints.management.repoppers.hsk_repoppers import create_new
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        Word.objects.all().delete()
-        HSKLevel.objects.all().delete()
 
-        create_new_hsk_words(os.getcwd() + '/kach_backend_endpoints/data/hsk/hskData.json')
+        HSKLevel.objects.all().delete()
+        Word.objects.all().delete()
 
         for x in range(1, 7):
             HSKLevel(
                 level=x
             ).save()
+
+        print("HSK levels made!")
+
+        print("Creating HSK words...")
+        create_new_hsk_words(os.getcwd() + '/kach_backend_endpoints/data/hsk/hskData.json')
 
         words = Word.objects.all()
         all_levels = HSKLevel.objects.all()
