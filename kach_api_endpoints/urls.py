@@ -11,9 +11,6 @@ urlpatterns = [
     # FPL API
     path("fpl_matches/", match_day_list, name="fpl_matches"),
     path("fpl_players/", players_list, name="fpl_players"),
-    # Music Chart API
-    path("music_charts/", chart_list, name="music_chart"),
-    path("music_charts/<int:chart_number>/", chart_position, name="chart_position"),
     # Youtube API
     path("youtube_videos/", youtube_videos_list, name="youtube_videos"),
     path("youtube_videos/<str:video_id>/", single_youtube_video, name="single_youtube_video"),
