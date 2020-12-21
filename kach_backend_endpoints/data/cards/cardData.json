@@ -1,0 +1,262 @@
+[
+    {
+        "code": "AD",
+        "value": "Ace",
+        "suit": "Diamonds"
+    },
+    {
+        "code": "AC",
+        "value": "Ace",
+        "suit": "Clubs"
+    },
+    {
+        "code": "AH",
+        "value": "Ace",
+        "suit": "Hearts"
+    },
+    {
+        "code": "AS",
+        "value": "Ace",
+        "suit": "Spades"
+    },
+    {
+        "code": "2D",
+        "value": 2,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "2C",
+        "value": 2,
+        "suit": "Clubs"
+    },
+    {
+        "code": "2H",
+        "value": 2,
+        "suit": "Hearts"
+    },
+    {
+        "code": "2S",
+        "value": 2,
+        "suit": "Spades"
+    },
+    {
+        "code": "3D",
+        "value": 3,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "3C",
+        "value": 3,
+        "suit": "Clubs"
+    },
+    {
+        "code": "3H",
+        "value": 3,
+        "suit": "Hearts"
+    },
+    {
+        "code": "3S",
+        "value": 3,
+        "suit": "Spades"
+    },
+    {
+        "code": "4D",
+        "value": 4,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "4C",
+        "value": 4,
+        "suit": "Clubs"
+    },
+    {
+        "code": "4H",
+        "value": 4,
+        "suit": "Hearts"
+    },
+    {
+        "code": "4S",
+        "value": 4,
+        "suit": "Spades"
+    },
+    {
+        "code": "5D",
+        "value": 5,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "5C",
+        "value": 5,
+        "suit": "Clubs"
+    },
+    {
+        "code": "5H",
+        "value": 5,
+        "suit": "Hearts"
+    },
+    {
+        "code": "5S",
+        "value": 5,
+        "suit": "Spades"
+    },
+    {
+        "code": "6D",
+        "value": 6,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "6C",
+        "value": 6,
+        "suit": "Clubs"
+    },
+    {
+        "code": "6H",
+        "value": 6,
+        "suit": "Hearts"
+    },
+    {
+        "code": "6S",
+        "value": 6,
+        "suit": "Spades"
+    },
+    {
+        "code": "7D",
+        "value": 7,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "7C",
+        "value": 7,
+        "suit": "Clubs"
+    },
+    {
+        "code": "7H",
+        "value": 7,
+        "suit": "Hearts"
+    },
+    {
+        "code": "7S",
+        "value": 7,
+        "suit": "Spades"
+    },
+    {
+        "code": "8D",
+        "value": 8,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "8C",
+        "value": 8,
+        "suit": "Clubs"
+    },
+    {
+        "code": "8H",
+        "value": 8,
+        "suit": "Hearts"
+    },
+    {
+        "code": "8S",
+        "value": 8,
+        "suit": "Spades"
+    },
+    {
+        "code": "9D",
+        "value": 9,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "9C",
+        "value": 9,
+        "suit": "Clubs"
+    },
+    {
+        "code": "9H",
+        "value": 9,
+        "suit": "Hearts"
+    },
+    {
+        "code": "9S",
+        "value": 9,
+        "suit": "Spades"
+    },
+    {
+        "code": "10D",
+        "value": 10,
+        "suit": "Diamonds"
+    },
+    {
+        "code": "10C",
+        "value": 10,
+        "suit": "Clubs"
+    },
+    {
+        "code": "10H",
+        "value": 10,
+        "suit": "Hearts"
+    },
+    {
+        "code": "10S",
+        "value": 10,
+        "suit": "Spades"
+    },
+    {
+        "code": "JD",
+        "value": "Jack",
+        "suit": "Diamonds"
+    },
+    {
+        "code": "JC",
+        "value": "Jack",
+        "suit": "Clubs"
+    },
+    {
+        "code": "JH",
+        "value": "Jack",
+        "suit": "Hearts"
+    },
+    {
+        "code": "JS",
+        "value": "Jack",
+        "suit": "Spades"
+    },
+    {
+        "code": "QD",
+        "value": "Queen",
+        "suit": "Diamonds"
+    },
+    {
+        "code": "QC",
+        "value": "Queen",
+        "suit": "Clubs"
+    },
+    {
+        "code": "QH",
+        "value": "Queen",
+        "suit": "Hearts"
+    },
+    {
+        "code": "QS",
+        "value": "Queen",
+        "suit": "Spades"
+    },
+    {
+        "code": "KD",
+        "value": "King",
+        "suit": "Diamonds"
+    },
+    {
+        "code": "KC",
+        "value": "King",
+        "suit": "Clubs"
+    },
+    {
+        "code": "KH",
+        "value": "King",
+        "suit": "Hearts"
+    },
+    {
+        "code": "KS",
+        "value": "King",
+        "suit": "Spades"
+    }
+]
