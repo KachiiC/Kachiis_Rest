@@ -63,7 +63,7 @@
             <div class="row">
                 {% for card in display_cards %}
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#" class="portfolio-link">
+                        <a href="{{ card.card_link}}" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <h3>{{ card.title }}</h3>
