@@ -1,6 +1,5 @@
 from django.urls import path
 from .api_list.fpl_api.fpl_views import match_day_list, players_list
-from .api_list.music_chart_api.music_chart_view import chart_list, chart_position
 from .api_list.youtube_api.youtube_views import \
     single_youtube_video, \
     youtube_videos_list, \

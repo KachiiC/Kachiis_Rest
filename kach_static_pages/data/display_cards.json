@@ -6,12 +6,6 @@
     "image_url" : "media/fpl.png"
   },
   {
-    "title": "Music Chart Api",
-    "description": "music chart description",
-    "card_link": "api/music_charts/",
-    "image_url" : "media/music_chart.jpg"
-  },
-  {
     "title": "Youtube Api Videos",
     "description": "youtube api description",
     "card_link": "api/youtube_videos/",
