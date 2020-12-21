@@ -27,6 +27,6 @@
     "title": "HSK Api",
     "description": "hsk api description",
     "card_link": "backend/hsk_words/",
-    "image_url" : "media/Hsk.png"
+    "image_url" : "media/hsk.png"
   }
 ]
