@@ -1,24 +1,12 @@
 from django.core.management.base import BaseCommand
 import os
+import json
 # Models
 from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, YoutubePlaylist
 from kach_api_endpoints.management.repoppers.youtube_video_repoppers import create_new_youtube_videos
 
+
 YOUTUBE_DATA_DIR = os.getcwd() + "/kach_api_endpoints/data/youtube/"
-
-# place your data here
-repop_data = ["fightHighlightsData.json", "ufcFightsData.json"]
-
-new_playlists = [
-    {
-        "playlist_name": "UFC Fights",
-        "playlist_id": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC"
-    },
-    {
-        "playlist_name": "Fight Highlights",
-        "playlist_id": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5"
-    }
-]
 
 
 class Command(BaseCommand):
@@ -28,16 +16,19 @@ class Command(BaseCommand):
         YoutubeVideo.objects.all().delete()
         YoutubePlaylist.objects.all().delete()
 
-        for file in repop_data:
-            create_new_youtube_videos(YOUTUBE_DATA_DIR + file)
-            print(f"successfully added {file}")
+        with open(f"{YOUTUBE_DATA_DIR}playlistData.json", 'r') as json_file:
+            repop_data = json.load(json_file)
 
-        for playlist in new_playlists:
+        for file in repop_data:
+            create_new_youtube_videos(YOUTUBE_DATA_DIR + f"playlists/{file['playlist_name']}.json")
+            print(f"Successfully added videos from {file['playlist_name']}.json")
+
+        for playlist in repop_data:
             YoutubePlaylist(
                 playlist_name=playlist["playlist_name"],
                 playlist_id=playlist["playlist_id"]
             ).save()
-            print(f"successfully created {playlist['playlist_name']}")
+            print(f"Successfully created {playlist['playlist_name']} playlist")
 
         all_videos = YoutubeVideo.objects.all()
         all_playlists = YoutubePlaylist.objects.all()
@@ -48,5 +39,5 @@ class Command(BaseCommand):
                     correct_playlist = YoutubePlaylist.objects.get(playlist_id=video.playlist_id)
                     correct_playlist.playlist_videos.add(video)
 
-        print("successfully added to all videos to playlists")
+        print("Successfully added to all videos to playlists!")
         print("Repop complete!")
