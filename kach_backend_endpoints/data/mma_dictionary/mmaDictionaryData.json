@@ -1,310 +1,310 @@
 [
-  {
-    "name": "MMA",
-    "type": "General",
-    "example": "",
-    "example_type": "Image",
-    "definition": "An abbreviation for mixed martial arts, a combat sport in which athletes from different martial arts disciplines compete."
+    {
+        "name": "MMA",
+        "type": "General",
+        "example": "",
+        "example_type": "Image",
+        "definition": "An abbreviation for mixed martial arts, a combat sport in which athletes from different martial arts disciplines compete."
   },
-  {
-    "name": "UFC",
-    "type": "General",
-    "example": "",
-    "example_type": "Image",
-    "definition": "The Ultimate Fighting Championship (UFC) is the premier brand in combat sports and the driving force behind the sport of MMA."
+    {
+        "name": "UFC",
+        "type": "General",
+        "example": "",
+        "example_type": "Image",
+        "definition": "The Ultimate Fighting Championship (UFC) is the premier brand in combat sports and the driving force behind the sport of MMA."
   },
-  {
-    "name": "THE OCTAGON",
-    "type": "General",
-    "example": "",
-    "example_type": "Image",
-    "definition": "An octagon-shaped ring in which mixed martial artists compete."
+    {
+        "name": "THE OCTAGON",
+        "type": "General",
+        "example": "",
+        "example_type": "Image",
+        "definition": "An octagon-shaped ring in which mixed martial artists compete."
   },
-  {
-    "name": "KNOCKOUT (KO)",
-    "type": "General",
-    "example": "LWE79K2Ii-s",
-    "example_type": "Video",
-    "definition": "When an athlete is knocked unconscious due to strikes or other impact."
+    {
+        "name": "KNOCKOUT (KO)",
+        "type": "General",
+        "example": "LWE79K2Ii-s",
+        "example_type": "Video",
+        "definition": "When an athlete is knocked unconscious due to strikes or other impact."
   },
-  {
-    "name": "TECHNICAL KNOCKOUT (TKO)",
-    "type": "General",
-    "example": "oemO7lzL_eI",
-    "example_type": "Video",
-    "definition": "Abbreviation for technical knockout, when an athlete is unable to continue, usually due to injury."
+    {
+        "name": "TECHNICAL KNOCKOUT (TKO)",
+        "type": "General",
+        "example": "oemO7lzL_eI",
+        "example_type": "Video",
+        "definition": "Abbreviation for technical knockout, when an athlete is unable to continue, usually due to injury."
   },
-  {
-    "name": "SUBMISSION",
-    "type": "General",
-    "example": "HALf3esHQJ0",
-    "example_type": "Video",
-    "definition": "When an athlete taps out or verbally concedes the match due to pain, to avoid injury, to avoid being choked out or due to a desire to end the match."
+    {
+        "name": "SUBMISSION",
+        "type": "General",
+        "example": "HALf3esHQJ0",
+        "example_type": "Video",
+        "definition": "When an athlete taps out or verbally concedes the match due to pain, to avoid injury, to avoid being choked out or due to a desire to end the match."
   },
-  {
-    "name": "TAP OUT",
-    "type": "General",
-    "example": "iOSmEf-50OQ",
-    "example_type": "Video",
-    "definition": "A method in which an athlete submits to his or her opponent by tapping the opponent, themselves, or the mat. Verbal tap outs are also allowed."
+    {
+        "name": "TAP OUT",
+        "type": "General",
+        "example": "iOSmEf-50OQ",
+        "example_type": "Video",
+        "definition": "A method in which an athlete submits to his or her opponent by tapping the opponent, themselves, or the mat. Verbal tap outs are also allowed."
   },
-  {
-    "name": "CHOKE",
-    "type": "General",
-    "example": "bF3y3reQPEQ?start=612",
-    "example_type": "Video",
-    "definition": "A submission hold applied to the neck that restricts air flow, blood flow or both. A choke is designed to cause the other athlete to tap out or lose consciousness."
+    {
+        "name": "CHOKE",
+        "type": "General",
+        "example": "bF3y3reQPEQ?start=612",
+        "example_type": "Video",
+        "definition": "A submission hold applied to the neck that restricts air flow, blood flow or both. A choke is designed to cause the other athlete to tap out or lose consciousness."
   },
-  {
-    "name": "TAKEDOWN",
-    "type": "General",
-    "example": "HMrjxhaq8Tg",
-    "example_type": "Video",
-    "definition": "Taking an opponent to the ground with a trip or throw"
+    {
+        "name": "TAKEDOWN",
+        "type": "General",
+        "example": "HMrjxhaq8Tg",
+        "example_type": "Video",
+        "definition": "Taking an opponent to the ground with a trip or throw"
   },
-  {
-    "name": "GROUND & POUND",
-    "type": "General",
-    "example": "spUu9lmjIds?start=1160",
-    "example_type": "Video",
-    "definition": "This is a strategy first employed by wrestlers with limited submission skills. It consists of taking an athlete to the ground, placing them in an inferior position and striking until the opponent is knocked out, taps out, or until the match is stopped."
+    {
+        "name": "GROUND & POUND",
+        "type": "General",
+        "example": "spUu9lmjIds?start=1160",
+        "example_type": "Video",
+        "definition": "This is a strategy first employed by wrestlers with limited submission skills. It consists of taking an athlete to the ground, placing them in an inferior position and striking until the opponent is knocked out, taps out, or until the match is stopped."
   },
-  {
-    "name": "DIRTY BOXING",
-    "type": "General",
-    "example": "WP-lFKMj7n8?start=24&end=114",
-    "example_type": "Video",
-    "definition": "This is in-close boxing from a clinched position. In traditional boxing, athletes would be separated from this position, but in MMA, they are allowed to fight from the clinch."
+    {
+        "name": "DIRTY BOXING",
+        "type": "General",
+        "example": "WP-lFKMj7n8?start=24&end=114",
+        "example_type": "Video",
+        "definition": "This is in-close boxing from a clinched position. In traditional boxing, athletes would be separated from this position, but in MMA, they are allowed to fight from the clinch."
   },
-  {
-    "name": "ESCAPE",
-    "type": "General",
-    "example": "O2Epw3ekpL4",
-    "example_type": "Video",
-    "definition": "When an athlete escapes from a submission or choke hold."
+    {
+        "name": "JAB",
+        "type": "Striking Technique",
+        "example": "UkufVDnBV6U?start=24",
+        "example_type": "Video",
+        "definition": "A lead-hand strike used to stun, measure distance or set up the rear-hand strike."
   },
-  {
-    "name": "REVERSAL (Sweep)",
-    "type": "General",
-    "example": "cPRuNvgAFq8",
-    "example_type": "Video",
-    "definition": "When an athlete moves from an inferior position into a superior position."
+    {
+        "name": "STRAIGHT PUNCH",
+        "type": "Striking Technique",
+        "example": "gfoOvT-Ut7g?start=683",
+        "example_type": "Video",
+        "definition": "A punch thrown with the stronger, power hand."
   },
-  {
-    "name": "JAB",
-    "type": "Striking Technique",
-    "example": "UkufVDnBV6U?start=24",
-    "example_type": "Video",
-    "definition": "A lead-hand strike used to stun, measure distance or set up the rear-hand strike."
+    {
+        "name": "HOOK PUNCH",
+        "type": "Striking Technique",
+        "example": "3mPPMCa8Nxw?start=259&end=293",
+        "example_type": "Video",
+        "definition": "A punch with the arm bent that is thrown across the body to strike the opponent from the side."
   },
-  {
-    "name": "STRAIGHT PUNCH",
-    "type": "Striking Technique",
-    "example": "gfoOvT-Ut7g?start=683",
-    "example_type": "Video",
-    "definition": "A punch thrown with the stronger, power hand."
+    {
+        "name": "OVERHAND PUNCH",
+        "type": "Striking Technique",
+        "example": "LWE79K2Ii-s?start=350&end=362",
+        "example_type": "Video",
+        "definition": "A powerful and effective haymaker-style punch that swings up and over."
   },
-  {
-    "name": "HOOK PUNCH",
-    "type": "Striking Technique",
-    "example": "3mPPMCa8Nxw?start=259&end=293",
-    "example_type": "Video",
-    "definition": "A punch with the arm bent that is thrown across the body to strike the opponent from the side."
+    {
+        "name": "UPPERCUT PUNCH",
+        "type": "Striking Technique",
+        "example": "FTZVZ-oeDJc?start=33",
+        "example_type": "Video",
+        "definition": "A bent-arm punch where the punch is thrown straight up."
   },
-  {
-    "name": "OVERHAND PUNCH",
-    "type": "Striking Technique",
-    "example": "LWE79K2Ii-s?start=350&end=362",
-    "example_type": "Video",
-    "definition": "A powerful and effective haymaker-style punch that swings up and over."
+    {
+        "name": "SUPERMAN PUNCH",
+        "type": "Striking Technique",
+        "example": "iMnKu2QcbhI?start=399",
+        "example_type": "Video",
+        "definition": "An overhead punch in which the athlete leaps at his or her opponent in an attempt to avoid his or her defense."
   },
-  {
-    "name": "UPPERCUT PUNCH",
-    "type": "Striking Technique",
-    "example": "FTZVZ-oeDJc?start=33",
-    "example_type": "Video",
-    "definition": "A bent-arm punch where the punch is thrown straight up."
+    {
+        "name": "BODY SHOT",
+        "type": "Striking Technique",
+        "example": "ZAoYBXp4D1U",
+        "example_type": "Video",
+        "definition": "Designed to strike the liver, it’s a painful, often debilitating punch or kick."
   },
-  {
-    "name": "SUPERMAN PUNCH",
-    "type": "Striking Technique",
-    "example": "iMnKu2QcbhI?start=399",
-    "example_type": "Video",
-    "definition": "An overhead punch in which the athlete leaps at his or her opponent in an attempt to avoid his or her defense."
+    {
+        "name": "FLYING KNEE",
+        "type": "Striking Technique",
+        "example": "iMnKu2QcbhI?end=118",
+        "example_type": "Video",
+        "definition": "A jumping knee strike designed to penetrate the opponent’s defense."
   },
-  {
-    "name": "BODY SHOT",
-    "type": "Striking Technique",
-    "example": "ZAoYBXp4D1U",
-    "example_type": "Video",
-    "definition": "Designed to strike the liver, it’s a painful, often debilitating punch or kick."
+    {
+        "name": "THAI CLINCH",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A clinch position taken from Muay Thai boxing where an athlete will grab his or her opponent behind the head with both hands, using his or her elbows to create distance and apply knee strikes to their opponent."
   },
-  {
-    "name": "FLYING KNEE",
-    "type": "Striking Technique",
-    "example": "iMnKu2QcbhI?end=118",
-    "example_type": "Video",
-    "definition": "A jumping knee strike designed to penetrate the opponent’s defense."
+    {
+        "name": "GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A semi-defensive position in which an athlete on his or her back keeps an opponent between their legs."
   },
-  {
-    "name": "THAI CLINCH",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A clinch position taken from Muay Thai boxing where an athlete will grab his or her opponent behind the head with both hands, using his or her elbows to create distance and apply knee strikes to their opponent."
+    {
+        "name": "OPEN GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A guard position in which the feet are not interlocked."
   },
-  {
-    "name": "GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A semi-defensive position in which an athlete on his or her back keeps an opponent between their legs."
+    {
+        "name": "CLOSED GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "When an athlete holds an opponent in their guard by interlocking his or her feet behind their opponent."
   },
-  {
-    "name": "OPEN GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A guard position in which the feet are not interlocked."
+    {
+        "name": "BUTTERFLY GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "An open guard position in which the feet are hooked on the inside of the athlete’s legs."
   },
-  {
-    "name": "CLOSED GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "When an athlete holds an opponent in their guard by interlocking his or her feet behind their opponent."
+    {
+        "name": "RUBBER GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "This is a guard in which the bottom athlete brings one leg high up on the top athlete’s back and hooks the leg under his or her own arm. It controls the top athlete while freeing up one arm for the bottom athlete to attack."
   },
-  {
-    "name": "BUTTERFLY GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "An open guard position in which the feet are hooked on the inside of the athlete’s legs."
+    {
+        "name": "HALF GUARD",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A guard position in which only one of the opponent’s legs are held between the grounded athlete’s legs."
   },
-  {
-    "name": "RUBBER GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "This is a guard in which the bottom athlete brings one leg high up on the top athlete’s back and hooks the leg under his or her own arm. It controls the top athlete while freeing up one arm for the bottom athlete to attack."
+    {
+        "name": "SIDE MOUNT",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "When one athlete is on top of his or her opponent with their heads at 90 degrees. Also known as side control."
   },
-  {
-    "name": "HALF GUARD",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A guard position in which only one of the opponent’s legs are held between the grounded athlete’s legs."
+    {
+        "name": "NORTH/SOUTH",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A mount position in which the athletes’ heads are facing opposite directions. Also known as Reverse Mount."
   },
-  {
-    "name": "SIDE MOUNT",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "When one athlete is on top of his or her opponent with their heads at 90 degrees. Also known as side control."
+    {
+        "name": "FRONT MOUNT",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A mount position in which the top athlete is squared to the bottom athlete, with his or her legs straddling the opponent."
   },
-  {
-    "name": "NORTH/SOUTH",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A mount position in which the athletes’ heads are facing opposite directions. Also known as Reverse Mount."
+    {
+        "name": "REAR MOUNT",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "A mount position in which the bottom athlete has his or her back turned to the top athlete."
   },
-  {
-    "name": "FRONT MOUNT",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A mount position in which the top athlete is squared to the bottom athlete, with his or her legs straddling the opponent."
+    {
+        "name": "HOOKS IN",
+        "type": "Grappling Position",
+        "example": "",
+        "example_type": "Image",
+        "definition": "When an athlete has a rear mount and locks his or her feet between the legs of the mounted athlete. This prevents the mounted athlete from turning his or her opponent to improve their position."
   },
-  {
-    "name": "REAR MOUNT",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "A mount position in which the bottom athlete has his or her back turned to the top athlete."
+    {
+        "name": "SPRAWL",
+        "type": "Grappling Technique",
+        "example": "U0y7zUwyd6g",
+        "example_type": "Video",
+        "definition": "A takedown defense where an athlete spreads their legs away from the attacking athlete and applies their weight to the athlete’s back in an effort to deny access to their legs and attain superior position."
   },
-  {
-    "name": "HOOKS IN",
-    "type": "Grappling Position",
-    "example": "",
-    "example_type": "Image",
-    "definition": "When an athlete has a rear mount and locks his or her feet between the legs of the mounted athlete. This prevents the mounted athlete from turning his or her opponent to improve their position."
+    {
+        "name": "SINGLE-LEG TAKEDOWN",
+        "type": "Grappling Technique",
+        "example": "pomEyJv5ujA?start=39",
+        "example_type": "Video",
+        "definition": "Similar to a double-leg takedown, except only one leg is hooked."
   },
-  {
-    "name": "SPRAWL",
-    "type": "Grappling Technique",
-    "example": "U0y7zUwyd6g",
-    "example_type": "Video",
-    "definition": "A takedown defense where an athlete spreads their legs away from the attacking athlete and applies their weight to the athlete’s back in an effort to deny access to their legs and attain superior position."
+    {
+        "name": "DOUBLE-LEG TAKEDOWN",
+        "type": "Grappling Technique",
+        "example": "BV3FcAecXL0",
+        "example_type": "Video",
+        "definition": "Similar to a tackle, an athlete lowers his or her head and hooks both legs with their arms and applies pressure to the defender’s body, driving the opponent to the ground."
   },
-  {
-    "name": "SINGLE-LEG TAKEDOWN",
-    "type": "Grappling Technique",
-    "example": "pomEyJv5ujA?start=39",
-    "example_type": "Video",
-    "definition": "Similar to a double-leg takedown, except only one leg is hooked."
+    {
+        "name": "GUARD PASS",
+        "type": "Grappling Technique",
+        "example": "jN07H_jL_AM?start=94&end=104",
+        "example_type": "Video",
+        "definition": "A technique used by one athlete in another athlete’s guard to move into a mount position."
   },
-  {
-    "name": "DOUBLE-LEG TAKEDOWN",
-    "type": "Grappling Technique",
-    "example": "BV3FcAecXL0",
-    "example_type": "Video",
-    "definition": "Similar to a tackle, an athlete lowers his or her head and hooks both legs with their arms and applies pressure to the defender’s body, driving the opponent to the ground."
+    {
+        "name": "SLAM",
+        "type": "Grappling Technique",
+        "example": "jwINYKiSWAk",
+        "example_type": "Video",
+        "definition": "When an athlete picks up his or her opponent and throws them to the ground."
+  }, {
+        "name": "ESCAPE",
+        "type": "General",
+        "example": "O2Epw3ekpL4",
+        "example_type": "Video",
+        "definition": "When an athlete escapes from a submission or choke hold."
   },
-  {
-    "name": "GUARD PASS",
-    "type": "Grappling Technique",
-    "example": "jN07H_jL_AM?start=94&end=104",
-    "example_type": "Video",
-    "definition": "A technique used by one athlete in another athlete’s guard to move into a mount position."
+    {
+        "name": "REVERSAL (Sweep)",
+        "type": "General",
+        "example": "cPRuNvgAFq8",
+        "example_type": "Video",
+        "definition": "When an athlete moves from an inferior position into a superior position."
   },
-  {
-    "name": "SLAM",
-    "type": "Grappling Technique",
-    "example": "jwINYKiSWAk",
-    "example_type": "Video",
-    "definition": "When an athlete picks up his or her opponent and throws them to the ground."
+
+    {
+        "name": "ARMBAR",
+        "type": "Submission",
+        "example": "XI5iRh76ZJk",
+        "example_type": "Video",
+        "definition": "A lock in which the arm is straightened, hyperextending the elbow. In MMA, this is most often done by trapping the arm between the legs and extending the hips upward."
   },
-  {
-    "name": "ARMBAR",
-    "type": "Submission",
-    "example": "XI5iRh76ZJk",
-    "example_type": "Video",
-    "definition": "A lock in which the arm is straightened, hyperextending the elbow. In MMA, this is most often done by trapping the arm between the legs and extending the hips upward."
+    {
+        "name": "TRIANGLE CHOKE",
+        "type": "Submission",
+        "example": "dlw6AQH4oI0",
+        "example_type": "Video",
+        "definition": "Using the legs, the attacker places the opponent’s neck in the crux of his or her knee while the other leg comes up the opponent’s opposite arm. The foot is hooked under the crux of the other knee, and the hips are raised while the defender’s head is pulled down to create pressure."
   },
-  {
-    "name": "TRIANGLE CHOKE",
-    "type": "Submission",
-    "example": "dlw6AQH4oI0",
-    "example_type": "Video",
-    "definition": "Using the legs, the attacker places the opponent’s neck in the crux of his or her knee while the other leg comes up the opponent’s opposite arm. The foot is hooked under the crux of the other knee, and the hips are raised while the defender’s head is pulled down to create pressure."
+    {
+        "name": "GUILLOTINE CHOKE",
+        "type": "Submission",
+        "example": "0FsBvCewCco",
+        "example_type": "Video",
+        "definition": "A choke applied in a reverse headlock position where the forearm is used in an upward manner to apply pressure to the athlete’s neck."
   },
-  {
-    "name": "GUILLOTINE CHOKE",
-    "type": "Submission",
-    "example": "0FsBvCewCco",
-    "example_type": "Video",
-    "definition": "A choke applied in a reverse headlock position where the forearm is used in an upward manner to apply pressure to the athlete’s neck."
+    {
+        "name": "REAR-NAKED CHOKE",
+        "type": "Submission",
+        "example": "73lxvAFuArU",
+        "example_type": "Video",
+        "definition": "A choke applied behind an opponent upon capturing his or her back. A rear-naked choke is one of the most advantageous types of chokes as far as positioning."
   },
-  {
-    "name": "REAR-NAKED CHOKE",
-    "type": "Submission",
-    "example": "73lxvAFuArU",
-    "example_type": "Video",
-    "definition": "A choke applied behind an opponent upon capturing his or her back. A rear-naked choke is one of the most advantageous types of chokes as far as positioning."
+    {
+        "name": "KIMURA",
+        "type": "Submission",
+        "example": "7H9pD9Jow9U",
+        "example_type": "Video",
+        "definition": "An arm-lock position in which the arm is bent behind the athlete leading to an arm break or a shoulder dislocation if the athlete doesn’t tap out. It is named after Japanese athlete, Masahiko Kimura."
   },
-  {
-    "name": "KIMURA",
-    "type": "Submission",
-    "example": "7H9pD9Jow9U",
-    "example_type": "Video",
-    "definition": "An arm-lock position in which the arm is bent behind the athlete leading to an arm break or a shoulder dislocation if the athlete doesn’t tap out. It is named after Japanese athlete, Masahiko Kimura."
-  },
-  {
-    "name": "OMOPLATA",
-    "type": "Submission",
-    "example": "PUj9TUK32ww?start=29",
-    "example_type": "Video",
-    "definition": "A Kimura lock using the leg, instead of the arm, to trap the athlete’s arm."
+    {
+        "name": "OMOPLATA",
+        "type": "Submission",
+        "example": "PUj9TUK32ww?start=29",
+        "example_type": "Video",
+        "definition": "A Kimura lock using the leg, instead of the arm, to trap the athlete’s arm."
   }
 ]
