@@ -172,16 +172,55 @@
             },
             {
                 "event": 14,
-                "points": 69,
-                "total_points": 859,
-                "rank": 1414738,
-                "rank_sort": 1419381,
-                "overall_rank": 225265,
+                "points": 80,
+                "total_points": 870,
+                "rank": 1006875,
+                "rank_sort": 1011270,
+                "overall_rank": 189344,
                 "bank": 9,
                 "value": 1028,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
-                "points_on_bench": 13
+                "points_on_bench": 5
+            },
+            {
+                "event": 15,
+                "points": 54,
+                "total_points": 924,
+                "rank": 1278628,
+                "rank_sort": 1284993,
+                "overall_rank": 158396,
+                "bank": 22,
+                "value": 1031,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 14
+            },
+            {
+                "event": 16,
+                "points": 52,
+                "total_points": 976,
+                "rank": 900836,
+                "rank_sort": 906703,
+                "overall_rank": 129547,
+                "bank": 21,
+                "value": 1033,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 17,
+                "points": 0,
+                "total_points": 976,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 129547,
+                "bank": 27,
+                "value": 1032,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -235,11 +274,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 859,
-        "summary_overall_rank": 225265,
-        "summary_event_points": 69,
-        "summary_event_rank": 1414738,
-        "current_event": 14,
+        "summary_overall_points": 976,
+        "summary_overall_rank": 129547,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 17,
         "leagues": {
             "classic": [
                 {
@@ -254,8 +293,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 62172,
-                    "entry_last_rank": 70922,
+                    "entry_rank": 33489,
+                    "entry_last_rank": 42816,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -272,8 +311,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 224683,
-                    "entry_last_rank": 240921,
+                    "entry_rank": 129292,
+                    "entry_last_rank": 158085,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -290,8 +329,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 225265,
-                    "entry_last_rank": 241734,
+                    "entry_rank": 129547,
+                    "entry_last_rank": 158396,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -308,8 +347,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
                     "entry_can_invite": true
@@ -317,19 +356,44 @@
             ],
             "h2h": [],
             "cup": {
-                "matches": [],
+                "matches": [
+                    {
+                        "id": 43485783,
+                        "entry_1_entry": 684633,
+                        "entry_1_name": "6th attempt to win",
+                        "entry_1_player_name": "Kacheok Cheong",
+                        "entry_1_points": 0,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 5973040,
+                        "entry_2_name": "RedRuniaFC",
+                        "entry_2_player_name": "Nasrul Der",
+                        "entry_2_points": 0,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 17,
+                        "tiebreak": null
+                    }
+                ],
                 "status": {
                     "qualification_event": 16,
                     "qualification_numbers": 4194304,
-                    "qualification_rank": null,
-                    "qualification_state": "NOT_STARTED"
+                    "qualification_rank": 900836,
+                    "qualification_state": "QUALIFIED"
                 }
             }
         },
         "name": "6th attempt to win",
         "kit": null,
-        "last_deadline_bank": 9,
-        "last_deadline_value": 1028,
-        "last_deadline_total_transfers": 14
+        "last_deadline_bank": 27,
+        "last_deadline_value": 1032,
+        "last_deadline_total_transfers": 17
     }
 ]

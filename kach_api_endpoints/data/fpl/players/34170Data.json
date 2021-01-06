@@ -172,16 +172,55 @@
             },
             {
                 "event": 14,
-                "points": 67,
-                "total_points": 866,
-                "rank": 1591525,
-                "rank_sort": 1591816,
-                "overall_rank": 171221,
+                "points": 68,
+                "total_points": 867,
+                "rank": 2527119,
+                "rank_sort": 2527378,
+                "overall_rank": 208739,
                 "bank": 19,
                 "value": 1035,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 12
+            },
+            {
+                "event": 15,
+                "points": 38,
+                "total_points": 905,
+                "rank": 4729098,
+                "rank_sort": 4729261,
+                "overall_rank": 303660,
+                "bank": 6,
+                "value": 1038,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 18
+            },
+            {
+                "event": 16,
+                "points": 42,
+                "total_points": 947,
+                "rank": 2848176,
+                "rank_sort": 2848627,
+                "overall_rank": 338611,
+                "bank": 17,
+                "value": 1041,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
+            },
+            {
+                "event": 17,
+                "points": 0,
+                "total_points": 947,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 338611,
+                "bank": 17,
+                "value": 1042,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -245,11 +284,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 866,
-        "summary_overall_rank": 171221,
-        "summary_event_points": 67,
-        "summary_event_rank": 1591525,
-        "current_event": 14,
+        "summary_overall_points": 947,
+        "summary_overall_rank": 338611,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 17,
         "leagues": {
             "classic": [
                 {
@@ -264,8 +303,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 11206,
-                    "entry_last_rank": 9981,
+                    "entry_rank": 22969,
+                    "entry_last_rank": 20455,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -282,8 +321,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 46979,
-                    "entry_last_rank": 48697,
+                    "entry_rank": 90446,
+                    "entry_last_rank": 83546,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -300,8 +339,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 170858,
-                    "entry_last_rank": 166010,
+                    "entry_rank": 337266,
+                    "entry_last_rank": 302665,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -318,8 +357,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 171221,
-                    "entry_last_rank": 166461,
+                    "entry_rank": 338611,
+                    "entry_last_rank": 303660,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -336,8 +375,8 @@
                     "scoring": "c",
                     "admin_entry": 157944,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -354,8 +393,8 @@
                     "scoring": "c",
                     "admin_entry": 839338,
                     "start_event": 1,
-                    "entry_rank": 16,
-                    "entry_last_rank": 14,
+                    "entry_rank": 24,
+                    "entry_last_rank": 22,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": true
@@ -372,8 +411,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
+                    "entry_rank": 3,
+                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -390,8 +429,8 @@
                     "scoring": "c",
                     "admin_entry": 3055147,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 2,
+                    "entry_rank": 6,
+                    "entry_last_rank": 4,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -435,19 +474,44 @@
             ],
             "h2h": [],
             "cup": {
-                "matches": [],
+                "matches": [
+                    {
+                        "id": 44229112,
+                        "entry_1_entry": 34170,
+                        "entry_1_name": "Aouar ya?",
+                        "entry_1_player_name": "Farhan Ahmed",
+                        "entry_1_points": 0,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 1733486,
+                        "entry_2_name": "CalvinY",
+                        "entry_2_player_name": "calvin young",
+                        "entry_2_points": 0,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 17,
+                        "tiebreak": null
+                    }
+                ],
                 "status": {
                     "qualification_event": 16,
                     "qualification_numbers": 4194304,
-                    "qualification_rank": null,
-                    "qualification_state": "NOT_STARTED"
+                    "qualification_rank": 2848176,
+                    "qualification_state": "QUALIFIED"
                 }
             }
         },
         "name": "Aouar ya?",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 19,
-        "last_deadline_value": 1035,
-        "last_deadline_total_transfers": 11
+        "last_deadline_bank": 17,
+        "last_deadline_value": 1042,
+        "last_deadline_total_transfers": 14
     }
 ]

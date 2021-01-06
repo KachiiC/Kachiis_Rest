@@ -172,16 +172,55 @@
             },
             {
                 "event": 14,
-                "points": 36,
-                "total_points": 727,
-                "rank": 6041236,
-                "rank_sort": 6043626,
-                "overall_rank": 3024085,
+                "points": 43,
+                "total_points": 734,
+                "rank": 6524933,
+                "rank_sort": 6527218,
+                "overall_rank": 3051296,
                 "bank": 39,
                 "value": 1007,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
-                "points_on_bench": 11
+                "points_on_bench": 16
+            },
+            {
+                "event": 15,
+                "points": 44,
+                "total_points": 778,
+                "rank": 3302085,
+                "rank_sort": 3311051,
+                "overall_rank": 3014601,
+                "bank": 27,
+                "value": 1007,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 4
+            },
+            {
+                "event": 16,
+                "points": 46,
+                "total_points": 820,
+                "rank": 1979864,
+                "rank_sort": 1985810,
+                "overall_rank": 2940334,
+                "bank": 17,
+                "value": 1009,
+                "event_transfers": 2,
+                "event_transfers_cost": 4,
+                "points_on_bench": 2
+            },
+            {
+                "event": 17,
+                "points": 0,
+                "total_points": 820,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 2940334,
+                "bank": 5,
+                "value": 1012,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -225,11 +264,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 727,
-        "summary_overall_rank": 3024085,
-        "summary_event_points": 36,
-        "summary_event_rank": 6041236,
-        "current_event": 14,
+        "summary_overall_points": 820,
+        "summary_overall_rank": 2940334,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 17,
         "leagues": {
             "classic": [
                 {
@@ -244,8 +283,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 912702,
-                    "entry_last_rank": 755931,
+                    "entry_rank": 872849,
+                    "entry_last_rank": 905397,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -262,8 +301,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2899871,
-                    "entry_last_rank": 2406023,
+                    "entry_rank": 2821376,
+                    "entry_last_rank": 2892214,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -280,8 +319,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 3024085,
-                    "entry_last_rank": 2475485,
+                    "entry_rank": 2940334,
+                    "entry_last_rank": 3014601,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -298,8 +337,8 @@
                     "scoring": "c",
                     "admin_entry": 169795,
                     "start_event": 1,
-                    "entry_rank": 34499,
-                    "entry_last_rank": 29425,
+                    "entry_rank": 34421,
+                    "entry_last_rank": 34759,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -334,8 +373,8 @@
                     "scoring": "c",
                     "admin_entry": 1639999,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 4,
+                    "entry_rank": 5,
+                    "entry_last_rank": 5,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -352,8 +391,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 7,
-                    "entry_last_rank": 7,
+                    "entry_rank": 8,
+                    "entry_last_rank": 8,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -379,19 +418,44 @@
             ],
             "h2h": [],
             "cup": {
-                "matches": [],
+                "matches": [
+                    {
+                        "id": 45329598,
+                        "entry_1_entry": 979495,
+                        "entry_1_name": "RetirementHomeMyA$$",
+                        "entry_1_player_name": "Ricky Gonzalez",
+                        "entry_1_points": 0,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 6661209,
+                        "entry_2_name": "gonna win!!+$",
+                        "entry_2_player_name": "e mcg",
+                        "entry_2_points": 0,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 17,
+                        "tiebreak": null
+                    }
+                ],
                 "status": {
                     "qualification_event": 16,
                     "qualification_numbers": 4194304,
-                    "qualification_rank": null,
-                    "qualification_state": "NOT_STARTED"
+                    "qualification_rank": 1979864,
+                    "qualification_state": "QUALIFIED"
                 }
             }
         },
         "name": "RetirementHomeMyA$$",
         "kit": null,
-        "last_deadline_bank": 39,
-        "last_deadline_value": 1007,
-        "last_deadline_total_transfers": 18
+        "last_deadline_bank": 5,
+        "last_deadline_value": 1012,
+        "last_deadline_total_transfers": 22
     }
 ]

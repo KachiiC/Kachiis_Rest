@@ -172,16 +172,55 @@
             },
             {
                 "event": 14,
-                "points": 59,
-                "total_points": 764,
-                "rank": 2736741,
-                "rank_sort": 2738200,
-                "overall_rank": 2014774,
+                "points": 63,
+                "total_points": 768,
+                "rank": 3425553,
+                "rank_sort": 3426987,
+                "overall_rank": 2108049,
                 "bank": 36,
                 "value": 1031,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 15,
+                "points": 56,
+                "total_points": 816,
+                "rank": 1056519,
+                "rank_sort": 1057236,
+                "overall_rank": 2013761,
+                "bank": 6,
+                "value": 1031,
+                "event_transfers": 3,
+                "event_transfers_cost": 8,
                 "points_on_bench": 4
+            },
+            {
+                "event": 16,
+                "points": 39,
+                "total_points": 855,
+                "rank": 3609540,
+                "rank_sort": 3611980,
+                "overall_rank": 2062092,
+                "bank": 14,
+                "value": 1033,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 17,
+                "points": 0,
+                "total_points": 855,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 2062092,
+                "bank": 9,
+                "value": 1034,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -250,11 +289,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 764,
-        "summary_overall_rank": 2014774,
-        "summary_event_points": 59,
-        "summary_event_rank": 2736741,
-        "current_event": 14,
+        "summary_overall_points": 855,
+        "summary_overall_rank": 2062092,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 17,
         "leagues": {
             "classic": [
                 {
@@ -269,8 +308,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 10508,
-                    "entry_last_rank": 10703,
+                    "entry_rank": 10863,
+                    "entry_last_rank": 10594,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -287,8 +326,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1967843,
-                    "entry_last_rank": 2004363,
+                    "entry_rank": 2010601,
+                    "entry_last_rank": 1967369,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -305,8 +344,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2014774,
-                    "entry_last_rank": 2048940,
+                    "entry_rank": 2062092,
+                    "entry_last_rank": 2013761,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -359,8 +398,8 @@
                     "scoring": "c",
                     "admin_entry": 1760209,
                     "start_event": 1,
-                    "entry_rank": 65,
-                    "entry_last_rank": 60,
+                    "entry_rank": 67,
+                    "entry_last_rank": 65,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -395,8 +434,8 @@
                     "scoring": "c",
                     "admin_entry": 3406376,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -441,19 +480,44 @@
                 }
             ],
             "cup": {
-                "matches": [],
+                "matches": [
+                    {
+                        "id": 44285782,
+                        "entry_1_entry": 213553,
+                        "entry_1_name": "Alli or Nussing",
+                        "entry_1_player_name": "Elijha Wong",
+                        "entry_1_points": 0,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 1897307,
+                        "entry_2_name": "Gugu United",
+                        "entry_2_player_name": "Gunnar Frenning",
+                        "entry_2_points": 0,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 17,
+                        "tiebreak": null
+                    }
+                ],
                 "status": {
                     "qualification_event": 16,
                     "qualification_numbers": 4194304,
-                    "qualification_rank": null,
-                    "qualification_state": "NOT_STARTED"
+                    "qualification_rank": 3609540,
+                    "qualification_state": "QUALIFIED"
                 }
             }
         },
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 36,
-        "last_deadline_value": 1031,
-        "last_deadline_total_transfers": 17
+        "last_deadline_bank": 9,
+        "last_deadline_value": 1034,
+        "last_deadline_total_transfers": 22
     }
 ]

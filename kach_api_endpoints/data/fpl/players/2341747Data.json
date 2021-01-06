@@ -172,16 +172,55 @@
             },
             {
                 "event": 14,
-                "points": 81,
-                "total_points": 844,
-                "rank": 400682,
-                "rank_sort": 408148,
-                "overall_rank": 375565,
+                "points": 82,
+                "total_points": 845,
+                "rank": 812634,
+                "rank_sort": 824039,
+                "overall_rank": 442915,
                 "bank": 8,
                 "value": 1023,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 2
+            },
+            {
+                "event": 15,
+                "points": 49,
+                "total_points": 894,
+                "rank": 2116273,
+                "rank_sort": 2137831,
+                "overall_rank": 429586,
+                "bank": 0,
+                "value": 1024,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 15
+            },
+            {
+                "event": 16,
+                "points": 62,
+                "total_points": 956,
+                "rank": 121349,
+                "rank_sort": 126265,
+                "overall_rank": 260867,
+                "bank": 0,
+                "value": 1028,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 17,
+                "points": 0,
+                "total_points": 956,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 260867,
+                "bank": 15,
+                "value": 1034,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
             }
         ],
         "past": [
@@ -196,7 +235,13 @@
                 "rank": 14006
             }
         ],
-        "chips": []
+        "chips": [
+            {
+                "name": "wildcard",
+                "time": "2020-12-24T01:11:53.154634Z",
+                "event": 15
+            }
+        ]
     },
     {
         "id": 2341747,
@@ -209,11 +254,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 844,
-        "summary_overall_rank": 375565,
-        "summary_event_points": 81,
-        "summary_event_rank": 400682,
-        "current_event": 14,
+        "summary_overall_points": 956,
+        "summary_overall_rank": 260867,
+        "summary_event_points": 0,
+        "summary_event_rank": null,
+        "current_event": 17,
         "leagues": {
             "classic": [
                 {
@@ -228,8 +273,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 61289,
-                    "entry_last_rank": 90557,
+                    "entry_rank": 47376,
+                    "entry_last_rank": 74185,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -246,8 +291,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 104919,
-                    "entry_last_rank": 178679,
+                    "entry_rank": 68844,
+                    "entry_last_rank": 119113,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -264,8 +309,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 374081,
-                    "entry_last_rank": 599367,
+                    "entry_rank": 260074,
+                    "entry_last_rank": 427711,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -282,8 +327,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 375565,
-                    "entry_last_rank": 603070,
+                    "entry_rank": 260867,
+                    "entry_last_rank": 429586,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -300,8 +345,8 @@
                     "scoring": "c",
                     "admin_entry": 598,
                     "start_event": 1,
-                    "entry_rank": 4564,
-                    "entry_last_rank": 6275,
+                    "entry_rank": 3720,
+                    "entry_last_rank": 5408,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -318,8 +363,8 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 3,
-                    "entry_last_rank": 4,
+                    "entry_rank": 2,
+                    "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -336,8 +381,8 @@
                     "scoring": "c",
                     "admin_entry": 2305407,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 4,
+                    "entry_rank": 5,
+                    "entry_last_rank": 5,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -363,19 +408,44 @@
             ],
             "h2h": [],
             "cup": {
-                "matches": [],
+                "matches": [
+                    {
+                        "id": 44627372,
+                        "entry_1_entry": 2341747,
+                        "entry_1_name": "Don’t stop de Beek",
+                        "entry_1_player_name": "Anthony Jiang",
+                        "entry_1_points": 0,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 4017259,
+                        "entry_2_name": "Your Mas Zohore",
+                        "entry_2_player_name": "James Hanlon",
+                        "entry_2_points": 0,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 17,
+                        "tiebreak": null
+                    }
+                ],
                 "status": {
                     "qualification_event": 16,
                     "qualification_numbers": 4194304,
-                    "qualification_rank": null,
-                    "qualification_state": "NOT_STARTED"
+                    "qualification_rank": 121349,
+                    "qualification_state": "QUALIFIED"
                 }
             }
         },
         "name": "Don’t stop de Beek",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 8,
-        "last_deadline_value": 1023,
-        "last_deadline_total_transfers": 18
+        "last_deadline_bank": 15,
+        "last_deadline_value": 1034,
+        "last_deadline_total_transfers": 19
     }
 ]
