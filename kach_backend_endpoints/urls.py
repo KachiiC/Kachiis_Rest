@@ -2,6 +2,7 @@ from django.urls import path
 from .backend_list.hsk_api.hsk_view import hsk_words_list, hsk_single_word, all_hsk_levels, single_hsk_level
 from .backend_list.cards_api.card_view import cards_list
 from .backend_list.mma_dictionary.mma_dictionary_view import mma_dictionary_list
+from .backend_list.mma_techniques.mma_techniques_view import mma_techniques_list
 
 urlpatterns = [
     # HSK
@@ -12,5 +13,7 @@ urlpatterns = [
     # Cards
     path("cards_list/", cards_list, name="cards_list"),
     # MMA Dictionary List
-    path("mma_dictionary_list/", mma_dictionary_list, name="mma_dictionary_list")
+    path("mma_dictionary_list/", mma_dictionary_list, name="mma_dictionary_list"),
+    # MMA Technique List
+    path('mma_techniques_list/', mma_techniques_list, name="mma_techniques_list")
 ]
