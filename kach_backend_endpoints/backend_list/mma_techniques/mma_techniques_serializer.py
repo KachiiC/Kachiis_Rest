@@ -7,4 +7,4 @@ class TechniquesSerializer(serializers.ModelSerializer):  # MMA News
 
     class Meta:
         model = Technique
-        fields = ('pk', 'name', 'type', 'discipline', 'difficulty', 'description', 'tutorial', 'mistakes')
+        fields = ['title', 'type', 'discipline', 'difficulty', 'description', 'tutorial', 'mistakes']
