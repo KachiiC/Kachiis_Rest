@@ -1,71 +1,64 @@
 [
     {
-
-        "title": "Jab",
-        "type": "Striking",
-        "discipline": "boxing",
+        "title": "Jab ",
+        "type": "Striking ",
+        "discipline": "Boxing",
         "difficulty": "Easy",
-        "description": "A jab is a type of punch used in the martial arts. Several variations of the jab exist, but every jab shares these characteristics: while in a fighting stance, the lead fist is thrown straight ahead and the arm is fully extended from the side of the torso. This process also involves a quick turn of the torso. It is an overhand punch; at the moment of impact, the pronated fist is generally held in a horizontal orientation with the palm facing the ground.\r\n\r\nA jab is an integral part of a fighter's defense. Its speed and power of execution and reach can keep the opponent at a distance, preventing him from charging in. Defensive jabs can be employed while moving backwards.\r\n\r\nThis jab gives a fighter high mobility and is often used with the intention of scoring points. Fighters use this variation of the jab when they want to preserve the mobility and balance of their stance.",
+        "description": "-",
         "tutorial": "fWeo0Od8xxM?t=31",
         "mistakes": "26DSA5DRz0s"
     },
     {
-
         "title": "Cross",
-        "type": "Striking",
-        "discipline": "boxing",
+        "type": "Striking ",
+        "discipline": "Boxing",
         "difficulty": "Easy",
-        "description": "A cross (also commonly called a straight) is a punch usually thrown with the dominant hand the instant an opponent leads with his opposite hand. The blow crosses over the leading arm, hence its name. It is a power punch like the uppercut and hook. Compubox, a computerized punch scoring system, counts the cross as a power punch.\r\n\r\nFrom the guard position, the rear hand is thrown from the chin, crossing the body and travelling towards the target in a straight line. The rear shoulder is thrust forward and finishes just touching the outside of the chin. At the same time, the lead hand is retracted and tucked against the face to protect the inside of the chin. For additional power, the torso and hips are rotated counterclockwise (for right-handers, and clockwise for lefties) as the cross is thrown. Weight is also transferred from the rear foot to the lead foot, resulting in the rear heel turning outwards as it acts as a fulcrum for the transfer of weight. Body rotation and the sudden weight transfer is what gives the cross its power. Like the jab, a half-step forward may be added. After the cross is thrown, the hand is retracted quickly and the guard position resumed. It can be used to counterpunch a jab, aiming for the opponent's head (or a counter to a cross aimed at the body) or to set up a hook. The cross can also follow a jab, creating the classic \"one-two combo\". The cross is also called a \"straight\" or \"right\".",
+        "description": "-",
         "tutorial": "Z2O6E-ssuUg?t=43",
         "mistakes": "o3k9NNAUwIE"
     },
     {
-
         "title": "Hook",
-        "type": "Striking",
-        "discipline": "boxing",
+        "type": "Striking ",
+        "discipline": "Boxing",
         "difficulty": "Medium",
-        "description": "A hook is a punch in boxing. It is performed by turning the core muscles and back, thereby swinging the arm, which is bent at an angle near or at 90 degrees, in a horizontal arc into the opponent. A hook is usually aimed at the jaw, but it can also be used for body shots, especially to the liver.\r\n\r\nHook punches can be thrown by either the lead hand or the rear hand, but the term used without a qualifier usually refers to a lead hook.\r\n\r\nWhen throwing a hook, the puncher shifts his body weight to the lead foot, allowing him to pivot his lead foot and generate kinetic energy through the hip/torso/shoulder, swinging his lead fist horizontally toward the opponent. Sometimes, depending on style and what feels comfortable to the individual, the lead foot is not pivoted. Pivoting increases the power of the punch, but leaves one lacking in options to follow up with, such as the right uppercut or right hook.\r\n\r\nThe hook is a powerful punch with knockout power.\r\n\r\nVariations of the hook are the shovel hook or upper-hook; they are body punches that combine characteristics of both the hook and the uppercut.\r\n\r\nAnother variation on the hook is the check hook, which combines an ordinary hook with footwork that removes a boxer from the path of a lunging opponent.",
+        "description": "-",
         "tutorial": "x7PRrk8QGQ4?t=37",
         "mistakes": "bQMoKGd5OI0"
     },
     {
-
         "title": "Overhand",
-        "type": "Striking",
-        "discipline": "boxing",
+        "type": "Striking ",
+        "discipline": "Boxing",
         "difficulty": "Medium",
-        "description": "An overhand (or overcut or drop) punch is a semi-circular and vertical punch thrown with the rear hand. It is usually employed when the opponent is bobbing or slipping. The strategic utility of the drop relying on body weight can deliver a great deal of power.",
+        "description": "-",
         "tutorial": "nUND2svok2Q?t=15",
         "mistakes": "9Y5wTroByIs"
     },
     {
-
-        "title": "Uppercut",
-        "type": "Striking",
-        "discipline": "boxing",
+        "title": "Uppercut ",
+        "type": "Striking ",
+        "discipline": "Boxing",
         "difficulty": "Medium",
-        "description": "The uppercut (formerly known as the undercut; sometimes also referred to as the upper) is a punch used in boxing that travels along a vertical line at the opponent's chin or solar plexus. It is, along with the cross, one of the two main punches that count in the statistics as power punches.\r\n\r\nUppercuts are useful when thrown at close range, because they are considered to cause more damage. Additionally, it is likely that a boxer would miss if the uppercut is thrown when the opponents are apart. Uppercuts usually do more damage when landed to the chin, but they can also cause damage when thrown to the body (particularly the solar plexus) or when landing on the nose or eyes.\r\n\r\nThe punch moves as its name implies: it usually initiates from the attacker's belly, making an upward motion that resembles a pirate's hook in shape, before landing on the opponent's face or body. In a conventional boxing combination, it is the second punch thrown, after the jab, but it can either initiate or finish a combination.\r\n\r\nWhen performing an uppercut, the attacker should stay close to the target, so as to prevent the opponent from detecting that the punch is coming, and countering with a straight punch. An uppercut from the outside also loses some of its power because the arm is no longer bent at the elbow and cannot effectively transfer the total body's force in the upward movement.",
+        "description": "-",
         "tutorial": "BjvhYzt8QMk",
         "mistakes": "NR0B21xF3HI"
     },
     {
-
         "title": "Elbow",
         "type": "Striking",
-        "discipline": "boxing",
+        "discipline": "Muay Thai",
         "difficulty": "Hard",
-        "description": "An elbow strike (commonly referred to as simply an \"elbow\") is a strike with the point of the elbow, the part of the forearm nearest to the elbow, or the part of the upper arm nearest to the elbow. Elbows can be thrown sideways similarly to a hook, upwards similarly to an uppercut, downwards with the point of the elbow, diagonally or in direct movement and in several other ways, like during a jump.\r\n\r\nElbowing is a disallowed practice in most combat sports. However, Lethwei, Muay Thai, Pradal serey and several mixed martial arts (MMA) organizations do allow elbowing, or allow elbowing in a specific manner. The mixed martial arts organizations disallowing it usually do so because elbowing the head increases the risk of lacerations in a fight.\r\n\r\nWhile elbows are mostly disallowed in most modern combat sports, they are common in traditional martial arts. There are few traditional martial arts that don't use elbows though it depends on which martial art it is, if the elbows are primary or secondary weapons and also in which manner, what tactics and how often they are used. Some well known and respected traditional martial arts that use elbows are Karate, Hung Ga, Bajiquan, Wing Chun, Silat, Lethwei and Muay boran.\r\n\r\nIn Muay Thai, elbow strikes are most often used while in close range but are also employed while jumping toward the opponent, similar to Muay Thai's flying knee. The hardness of the elbow allows for hitting with considerable force, and experienced fighters can easily knock out, cut, or injure their opponent with a well-placed strike. Elbows are generally most effective when used in combination with punches or kicks to allow the fighter to close the distance.\r\n\r\nElbows are also used in mixed martial arts as part of the ground-and-pound fighting tactic. Participants often use elbow strikes in conjunction with punches while in the full guard, half guard, side mount, or full mount in order to knock out or overwhelm the opponent.",
+        "description": "-",
         "tutorial": "ZWh2W3QuOUQ?t=25",
         "mistakes": "b2EaxgTDWZc"
     },
     {
-
         "title": "Knee",
-        "type": "Striking",
-        "discipline": "boxing",
+        "type": "Striking ",
+        "discipline": "Muay Thai",
         "difficulty": "Medium",
-        "description": "A knee strike (commonly referred to simply as a knee) is a strike with the knee, either with the kneecap or the surrounding area. Kneeing is a disallowed practice in many combat sports, especially to the head of a downed opponent. Styles such as Muay Thai and several mixed martial arts organizations allow kneeing depending on the positioning of the fighters.\r\n\r\nThe straight knee (also known as a front knee) is a typical knee strike, and involves thrusting the front of the knee into the head or body of an opponent. The straight knee can be applied from a stand-up position both when the combatants are separated, or when they are clinching. A particularly effective clinching position for throwing front knee is the double collar tie, where the head of the opponent is controlled. On the ground, front knees can be effective from a few top positions such as the Side control and north-south position. Typical targets for the front knee include the head, hips, ribs, solar plexus, stomach and thighs. In Muay Thai, a double collar tie with a front knee to the face was traditionally called Hak Kor Aiyara. The groin is widely considered the key target for knee strikes and clinch knee attacks in a street fight according to karate, tae kwon do, muay thai, and many other martial arts.",
+        "description": "-",
         "tutorial": "s3XTFR1ihBY?t=20",
         "mistakes": "_gWEEfSuRmE"
     }

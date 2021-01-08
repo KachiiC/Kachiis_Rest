@@ -1,0 +1,45 @@
+title,type,example,example_type,definition
+MMA,General,,Image,"An abbreviation for mixed martial arts, a combat sport in which athletes from different martial arts disciplines compete."
+UFC,General,,Image,The Ultimate Fighting Championship (UFC) is the premier brand in combat sports and the driving force behind the sport of MMA.
+THE OCTAGON,General,,Image,An octagon-shaped ring in which mixed martial artists compete.
+KNOCKOUT (KO),General,LWE79K2Ii-s,Video,When an athlete is knocked unconscious due to strikes or other impact.
+TECHNICAL KNOCKOUT (TKO),General,oemO7lzL_eI,Video,"Abbreviation for technical knockout, when an athlete is unable to continue, usually due to injury."
+SUBMISSION,General,HALf3esHQJ0,Video,"When an athlete taps out or verbally concedes the match due to pain, to avoid injury, to avoid being choked out or due to a desire to end the match."
+TAP OUT,General,iOSmEf-50OQ,Video,"A method in which an athlete submits to his or her opponent by tapping the opponent, themselves, or the mat. Verbal tap outs are also allowed."
+CHOKE,General,bF3y3reQPEQ?start=612,Video,"A submission hold applied to the neck that restricts air flow, blood flow or both. A choke is designed to cause the other athlete to tap out or lose consciousness."
+TAKEDOWN,General,HMrjxhaq8Tg,Video,Taking an opponent to the ground with a trip or throw
+GROUND & POUND,General,spUu9lmjIds?start=1160,Video,"This is a strategy first employed by wrestlers with limited submission skills. It consists of taking an athlete to the ground, placing them in an inferior position and striking until the opponent is knocked out, taps out, or until the match is stopped."
+DIRTY BOXING,General,WP-lFKMj7n8?start=24&end=114,Video,"This is in-close boxing from a clinched position. In traditional boxing, athletes would be separated from this position, but in MMA, they are allowed to fight from the clinch."
+ESCAPE,General,O2Epw3ekpL4,Video,When an athlete escapes from a submission or choke hold.
+REVERSAL (Sweep),General,cPRuNvgAFq8,Video,When an athlete moves from an inferior position into a superior position.
+JAB,Striking Technique,UkufVDnBV6U?start=24,Video,"A lead-hand strike used to stun, measure distance or set up the rear-hand strike."
+STRAIGHT PUNCH,Striking Technique,gfoOvT-Ut7g?start=683,Video,"A punch thrown with the stronger, power hand."
+HOOK PUNCH,Striking Technique,3mPPMCa8Nxw?start=259&end=293,Video,A punch with the arm bent that is thrown across the body to strike the opponent from the side.
+OVERHAND PUNCH,Striking Technique,LWE79K2Ii-s?start=350&end=362,Video,A powerful and effective haymaker-style punch that swings up and over.
+UPPERCUT PUNCH,Striking Technique,FTZVZ-oeDJc?start=33,Video,A bent-arm punch where the punch is thrown straight up.
+SUPERMAN PUNCH,Striking Technique,iMnKu2QcbhI?start=399,Video,An overhead punch in which the athlete leaps at his or her opponent in an attempt to avoid his or her defense.
+BODY SHOT,Striking Technique,ZAoYBXp4D1U,Video,"Designed to strike the liver, it’s a painful, often debilitating punch or kick."
+FLYING KNEE,Striking Technique,iMnKu2QcbhI?end=118,Video,A jumping knee strike designed to penetrate the opponent’s defense.
+THAI CLINCH,Grappling Position,,Image,"A clinch position taken from Muay Thai boxing where an athlete will grab his or her opponent behind the head with both hands, using his or her elbows to create distance and apply knee strikes to their opponent."
+GUARD,Grappling Position,,Image,A semi-defensive position in which an athlete on his or her back keeps an opponent between their legs.
+OPEN GUARD,Grappling Position,,Image,A guard position in which the feet are not interlocked.
+CLOSED GUARD,Grappling Position,,Image,When an athlete holds an opponent in their guard by interlocking his or her feet behind their opponent.
+BUTTERFLY GUARD,Grappling Position,,Image,An open guard position in which the feet are hooked on the inside of the athlete’s legs.
+RUBBER GUARD,Grappling Position,,Image,This is a guard in which the bottom athlete brings one leg high up on the top athlete’s back and hooks the leg under his or her own arm. It controls the top athlete while freeing up one arm for the bottom athlete to attack.
+HALF GUARD,Grappling Position,,Image,A guard position in which only one of the opponent’s legs are held between the grounded athlete’s legs.
+SIDE MOUNT,Grappling Position,,Image,When one athlete is on top of his or her opponent with their heads at 90 degrees. Also known as side control.
+NORTH/SOUTH,Grappling Position,,Image,A mount position in which the athletes’ heads are facing opposite directions. Also known as Reverse Mount.
+FRONT MOUNT,Grappling Position,,Image,"A mount position in which the top athlete is squared to the bottom athlete, with his or her legs straddling the opponent."
+REAR MOUNT,Grappling Position,,Image,A mount position in which the bottom athlete has his or her back turned to the top athlete.
+HOOKS IN,Grappling Position,,Image,When an athlete has a rear mount and locks his or her feet between the legs of the mounted athlete. This prevents the mounted athlete from turning his or her opponent to improve their position.
+SPRAWL,Grappling Technique,U0y7zUwyd6g,Video,A takedown defense where an athlete spreads their legs away from the attacking athlete and applies their weight to the athlete’s back in an effort to deny access to their legs and attain superior position.
+SINGLE-LEG TAKEDOWN,Grappling Technique,pomEyJv5ujA?start=39,Video,"Similar to a double-leg takedown, except only one leg is hooked."
+DOUBLE-LEG TAKEDOWN,Grappling Technique,BV3FcAecXL0,Video,"Similar to a tackle, an athlete lowers his or her head and hooks both legs with their arms and applies pressure to the defender’s body, driving the opponent to the ground."
+GUARD PASS,Grappling Technique,jN07H_jL_AM?start=94&end=104,Video,A technique used by one athlete in another athlete’s guard to move into a mount position.
+SLAM,Grappling Technique,jwINYKiSWAk,Video,When an athlete picks up his or her opponent and throws them to the ground.
+ARMBAR,Submission,XI5iRh76ZJk,Video,"A lock in which the arm is straightened, hyperextending the elbow. In MMA, this is most often done by trapping the arm between the legs and extending the hips upward."
+TRIANGLE CHOKE,Submission,dlw6AQH4oI0,Video,"Using the legs, the attacker places the opponent’s neck in the crux of his or her knee while the other leg comes up the opponent’s opposite arm. The foot is hooked under the crux of the other knee, and the hips are raised while the defender’s head is pulled down to create pressure."
+GUILLOTINE CHOKE,Submission,0FsBvCewCco,Video,A choke applied in a reverse headlock position where the forearm is used in an upward manner to apply pressure to the athlete’s neck.
+REAR-NAKED CHOKE,Submission,73lxvAFuArU,Video,A choke applied behind an opponent upon capturing his or her back. A rear-naked choke is one of the most advantageous types of chokes as far as positioning.
+KIMURA,Submission,7H9pD9Jow9U,Video,"An arm-lock position in which the arm is bent behind the athlete leading to an arm break or a shoulder dislocation if the athlete doesn’t tap out. It is named after Japanese athlete, Masahiko Kimura."
+OMOPLATA,Submission,PUj9TUK32ww?start=29,Video,"A Kimura lock using the leg, instead of the arm, to trap the athlete’s arm."

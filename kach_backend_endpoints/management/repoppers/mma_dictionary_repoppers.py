@@ -8,7 +8,7 @@ def create_mma_dictionary(data_location):
 
         for term in data:
             Dictionary(
-                name=term["name"],
+                title=term["title"],
                 type=term["type"],
                 example=term["example"],
                 example_type=term["example_type"],
