@@ -17,7 +17,6 @@ class Command(BaseCommand):
             csvreader = csv.DictReader(csvf)
 
             print("converting csv to json..")
-
             for row in csvreader:
                 file_array.append(row)
 
