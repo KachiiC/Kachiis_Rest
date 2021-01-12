@@ -1,5 +1,4 @@
 from rest_framework.response import Response
-from rest_framework import status
 from rest_framework.decorators import api_view
 from .mma_dictionary_model import Dictionary
 from .mma_dictionary_serializer import DictionarySerializer

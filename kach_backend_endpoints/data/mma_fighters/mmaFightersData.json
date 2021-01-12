@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "Anthony",
+        "last_name": "Pettis",
+        "nickname": "Showtime",
+        "status": "active",
+        "date_of_birth": "1987-01-27",
+        "promotion": "PFL",
+        "rank": "N/A",
+        "height": "5ft10",
+        "weight_class": "155",
+        "reach": "72.5",
+        "wins": "24",
+        "losses": "10",
+        "draws": "0",
+        "no_contests": "0",
+        "style": "Striking",
+        "notable_wins": "Benson Henderson",
+        "wins_via_knockout": "11",
+        "wins_via_submission": "7",
+        "wins_via_decision": "6",
+        "losses_via_knockout": "2",
+        "losses_via_submission": "2",
+        "losses_via_decision": "6"
+    }
+]
