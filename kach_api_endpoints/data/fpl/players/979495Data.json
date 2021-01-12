@@ -211,14 +211,27 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 820,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 2940334,
+                "points": 37,
+                "total_points": 857,
+                "rank": 6975067,
+                "rank_sort": 6975901,
+                "overall_rank": 3453410,
                 "bank": 5,
                 "value": 1012,
                 "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 10
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 857,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 3453410,
+                "bank": 5,
+                "value": 1000,
+                "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -250,6 +263,11 @@
                 "name": "bboost",
                 "time": "2020-12-15T00:16:16.935737Z",
                 "event": 13
+            },
+            {
+                "name": "wildcard",
+                "time": "2021-01-12T16:19:51.402814Z",
+                "event": 18
             }
         ]
     },
@@ -264,11 +282,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 820,
-        "summary_overall_rank": 2940334,
+        "summary_overall_points": 857,
+        "summary_overall_rank": 3453410,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -283,8 +301,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 872849,
-                    "entry_last_rank": 905397,
+                    "entry_rank": 1037225,
+                    "entry_last_rank": 872849,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -301,8 +319,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2821376,
-                    "entry_last_rank": 2892214,
+                    "entry_rank": 3272845,
+                    "entry_last_rank": 2821376,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -319,8 +337,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2940334,
-                    "entry_last_rank": 3014601,
+                    "entry_rank": 3453410,
+                    "entry_last_rank": 2940334,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -337,8 +355,8 @@
                     "scoring": "c",
                     "admin_entry": 169795,
                     "start_event": 1,
-                    "entry_rank": 34421,
-                    "entry_last_rank": 34759,
+                    "entry_rank": 38303,
+                    "entry_last_rank": 34421,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -424,7 +442,7 @@
                         "entry_1_entry": 979495,
                         "entry_1_name": "RetirementHomeMyA$$",
                         "entry_1_player_name": "Ricky Gonzalez",
-                        "entry_1_points": 0,
+                        "entry_1_points": 37,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -432,13 +450,13 @@
                         "entry_2_entry": 6661209,
                         "entry_2_name": "gonna win!!+$",
                         "entry_2_player_name": "e mcg",
-                        "entry_2_points": 0,
+                        "entry_2_points": 57,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
                         "entry_2_total": 0,
                         "is_knockout": true,
-                        "winner": null,
+                        "winner": 6661209,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -455,7 +473,7 @@
         "name": "RetirementHomeMyA$$",
         "kit": null,
         "last_deadline_bank": 5,
-        "last_deadline_value": 1012,
+        "last_deadline_value": 1000,
         "last_deadline_total_transfers": 22
     }
 ]

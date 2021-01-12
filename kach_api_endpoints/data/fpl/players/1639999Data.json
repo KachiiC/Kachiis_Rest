@@ -211,15 +211,28 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 721,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 5006485,
+                "points": 56,
+                "total_points": 773,
+                "rank": 4201004,
+                "rank_sort": 4202373,
+                "overall_rank": 5026250,
                 "bank": 1,
                 "value": 1013,
                 "event_transfers": 3,
                 "event_transfers_cost": 4,
+                "points_on_bench": 6
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 773,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 5026250,
+                "bank": 12,
+                "value": 1012,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
         ],
@@ -269,11 +282,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 721,
-        "summary_overall_rank": 5006485,
+        "summary_overall_points": 773,
+        "summary_overall_rank": 5026250,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -288,8 +301,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 313306,
-                    "entry_last_rank": 311616,
+                    "entry_rank": 313903,
+                    "entry_last_rank": 313306,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -306,8 +319,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1510403,
-                    "entry_last_rank": 1502569,
+                    "entry_rank": 1515451,
+                    "entry_last_rank": 1510403,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -324,8 +337,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 4511618,
-                    "entry_last_rank": 4488630,
+                    "entry_rank": 4516617,
+                    "entry_last_rank": 4511618,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -342,8 +355,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 5006485,
-                    "entry_last_rank": 4963859,
+                    "entry_rank": 5026250,
+                    "entry_last_rank": 5006485,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -360,8 +373,8 @@
                     "scoring": "c",
                     "admin_entry": 40,
                     "start_event": 1,
-                    "entry_rank": 45187,
-                    "entry_last_rank": 44746,
+                    "entry_rank": 45521,
+                    "entry_last_rank": 45187,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -379,7 +392,7 @@
                     "admin_entry": 45117,
                     "start_event": 1,
                     "entry_rank": 29,
-                    "entry_last_rank": 28,
+                    "entry_last_rank": 29,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -414,8 +427,8 @@
                     "scoring": "c",
                     "admin_entry": 1375665,
                     "start_event": 1,
-                    "entry_rank": 5133,
-                    "entry_last_rank": 5092,
+                    "entry_rank": 5125,
+                    "entry_last_rank": 5133,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -486,7 +499,7 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 15,
+                    "entry_rank": 14,
                     "entry_last_rank": 15,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -504,7 +517,7 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 15,
+                    "entry_rank": 14,
                     "entry_last_rank": 15,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -524,8 +537,8 @@
         },
         "name": "COMAN HER FACE",
         "kit": null,
-        "last_deadline_bank": 1,
-        "last_deadline_value": 1013,
-        "last_deadline_total_transfers": 27
+        "last_deadline_bank": 12,
+        "last_deadline_value": 1012,
+        "last_deadline_total_transfers": 28
     }
 ]

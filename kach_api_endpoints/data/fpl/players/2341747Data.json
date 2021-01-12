@@ -211,15 +211,28 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 956,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 260867,
+                "points": 73,
+                "total_points": 1029,
+                "rank": 978153,
+                "rank_sort": 993306,
+                "overall_rank": 199699,
                 "bank": 15,
                 "value": 1034,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
+                "points_on_bench": 2
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 1029,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 199699,
+                "bank": 27,
+                "value": 1035,
+                "event_transfers": 4,
+                "event_transfers_cost": 8,
                 "points_on_bench": 0
             }
         ],
@@ -254,11 +267,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 956,
-        "summary_overall_rank": 260867,
+        "summary_overall_points": 1029,
+        "summary_overall_rank": 199699,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -273,8 +286,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 47376,
-                    "entry_last_rank": 74185,
+                    "entry_rank": 37375,
+                    "entry_last_rank": 47376,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -291,8 +304,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 68844,
-                    "entry_last_rank": 119113,
+                    "entry_rank": 54257,
+                    "entry_last_rank": 68844,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -309,8 +322,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 260074,
-                    "entry_last_rank": 427711,
+                    "entry_rank": 199142,
+                    "entry_last_rank": 260074,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -327,8 +340,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 260867,
-                    "entry_last_rank": 429586,
+                    "entry_rank": 199699,
+                    "entry_last_rank": 260867,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -345,8 +358,8 @@
                     "scoring": "c",
                     "admin_entry": 598,
                     "start_event": 1,
-                    "entry_rank": 3720,
-                    "entry_last_rank": 5408,
+                    "entry_rank": 2984,
+                    "entry_last_rank": 3720,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -364,7 +377,7 @@
                     "admin_entry": 684633,
                     "start_event": 1,
                     "entry_rank": 2,
-                    "entry_last_rank": 3,
+                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -410,7 +423,7 @@
             "cup": {
                 "matches": [
                     {
-                        "id": 44627372,
+                        "id": 46130366,
                         "entry_1_entry": 2341747,
                         "entry_1_name": "Don’t stop de Beek",
                         "entry_1_player_name": "Anthony Jiang",
@@ -419,9 +432,9 @@
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
-                        "entry_2_entry": 4017259,
-                        "entry_2_name": "Your Mas Zohore",
-                        "entry_2_player_name": "James Hanlon",
+                        "entry_2_entry": 7061903,
+                        "entry_2_name": "pääpynä",
+                        "entry_2_player_name": "Jenni Suomela",
                         "entry_2_points": 0,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
@@ -429,6 +442,30 @@
                         "entry_2_total": 0,
                         "is_knockout": true,
                         "winner": null,
+                        "seed_value": null,
+                        "event": 18,
+                        "tiebreak": null
+                    },
+                    {
+                        "id": 44627372,
+                        "entry_1_entry": 2341747,
+                        "entry_1_name": "Don’t stop de Beek",
+                        "entry_1_player_name": "Anthony Jiang",
+                        "entry_1_points": 73,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 4017259,
+                        "entry_2_name": "Your Mas Zohore",
+                        "entry_2_player_name": "James Hanlon",
+                        "entry_2_points": 57,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": 2341747,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -444,8 +481,8 @@
         },
         "name": "Don’t stop de Beek",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 15,
-        "last_deadline_value": 1034,
-        "last_deadline_total_transfers": 19
+        "last_deadline_bank": 27,
+        "last_deadline_value": 1035,
+        "last_deadline_total_transfers": 23
     }
 ]

@@ -211,14 +211,27 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 855,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 2062092,
+                "points": 86,
+                "total_points": 941,
+                "rank": 108795,
+                "rank_sort": 109207,
+                "overall_rank": 1486196,
                 "bank": 9,
                 "value": 1034,
                 "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 6
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 941,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 1486196,
+                "bank": 9,
+                "value": 1037,
+                "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -275,6 +288,11 @@
                 "name": "wildcard",
                 "time": "2020-09-15T20:09:01.324071Z",
                 "event": 2
+            },
+            {
+                "name": "freehit",
+                "time": "2021-01-12T00:53:57.179102Z",
+                "event": 18
             }
         ]
     },
@@ -289,11 +307,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 855,
-        "summary_overall_rank": 2062092,
+        "summary_overall_points": 941,
+        "summary_overall_rank": 1486196,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -308,8 +326,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 10863,
-                    "entry_last_rank": 10594,
+                    "entry_rank": 8156,
+                    "entry_last_rank": 10863,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -326,8 +344,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2010601,
-                    "entry_last_rank": 1967369,
+                    "entry_rank": 1460640,
+                    "entry_last_rank": 2010601,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -344,8 +362,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2062092,
-                    "entry_last_rank": 2013761,
+                    "entry_rank": 1486196,
+                    "entry_last_rank": 2062092,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -362,8 +380,8 @@
                     "scoring": "c",
                     "admin_entry": 1573529,
                     "start_event": 1,
-                    "entry_rank": 5,
-                    "entry_last_rank": 4,
+                    "entry_rank": 4,
+                    "entry_last_rank": 5,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -380,7 +398,7 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 6,
+                    "entry_rank": 5,
                     "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -398,8 +416,8 @@
                     "scoring": "c",
                     "admin_entry": 1760209,
                     "start_event": 1,
-                    "entry_rank": 67,
-                    "entry_last_rank": 65,
+                    "entry_rank": 56,
+                    "entry_last_rank": 67,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -452,7 +470,7 @@
                     "scoring": "c",
                     "admin_entry": 5217021,
                     "start_event": 1,
-                    "entry_rank": 3,
+                    "entry_rank": 2,
                     "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -482,18 +500,18 @@
             "cup": {
                 "matches": [
                     {
-                        "id": 44285782,
-                        "entry_1_entry": 213553,
-                        "entry_1_name": "Alli or Nussing",
-                        "entry_1_player_name": "Elijha Wong",
+                        "id": 45872481,
+                        "entry_1_entry": 1353013,
+                        "entry_1_name": "bacborta",
+                        "entry_1_player_name": "david samir",
                         "entry_1_points": 0,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
-                        "entry_2_entry": 1897307,
-                        "entry_2_name": "Gugu United",
-                        "entry_2_player_name": "Gunnar Frenning",
+                        "entry_2_entry": 213553,
+                        "entry_2_name": "Alli or Nussing",
+                        "entry_2_player_name": "Elijha Wong",
                         "entry_2_points": 0,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
@@ -501,6 +519,30 @@
                         "entry_2_total": 0,
                         "is_knockout": true,
                         "winner": null,
+                        "seed_value": null,
+                        "event": 18,
+                        "tiebreak": null
+                    },
+                    {
+                        "id": 44285782,
+                        "entry_1_entry": 213553,
+                        "entry_1_name": "Alli or Nussing",
+                        "entry_1_player_name": "Elijha Wong",
+                        "entry_1_points": 86,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 1897307,
+                        "entry_2_name": "Gugu United",
+                        "entry_2_player_name": "Gunnar Frenning",
+                        "entry_2_points": 65,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": 213553,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -517,7 +559,7 @@
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
         "last_deadline_bank": 9,
-        "last_deadline_value": 1034,
+        "last_deadline_value": 1037,
         "last_deadline_total_transfers": 22
     }
 ]

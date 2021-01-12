@@ -17,7 +17,6 @@ class FighterSerializer(serializers.ModelSerializer):
             "reach",
             "weight_class",
             "style",
-            "notable_wins",
             "wins",
             "losses",
             "draws",
@@ -27,5 +26,7 @@ class FighterSerializer(serializers.ModelSerializer):
             "wins_via_decision",
             "losses_via_knockout",
             "losses_via_submission",
-            "losses_via_decision"
+            "losses_via_decision",
+            "notable_wins",
+            "notable_victories"
         ]

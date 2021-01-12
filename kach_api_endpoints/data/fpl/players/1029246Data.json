@@ -211,14 +211,27 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 811,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 3150816,
+                "points": 45,
+                "total_points": 856,
+                "rank": 5952506,
+                "rank_sort": 5961171,
+                "overall_rank": 3465431,
                 "bank": 9,
                 "value": 1019,
                 "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 856,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 3465431,
+                "bank": 78,
+                "value": 1021,
+                "event_transfers": 2,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -274,11 +287,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 811,
-        "summary_overall_rank": 3150816,
+        "summary_overall_points": 856,
+        "summary_overall_rank": 3465431,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -293,8 +306,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 938455,
-                    "entry_last_rank": 981189,
+                    "entry_rank": 1040738,
+                    "entry_last_rank": 938455,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -311,8 +324,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 3009638,
-                    "entry_last_rank": 3109971,
+                    "entry_rank": 3283243,
+                    "entry_last_rank": 3009638,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -329,8 +342,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 3150816,
-                    "entry_last_rank": 3258767,
+                    "entry_rank": 3465431,
+                    "entry_last_rank": 3150816,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -362,7 +375,7 @@
                         "entry_1_entry": 1029246,
                         "entry_1_name": "We Are Coders",
                         "entry_1_player_name": "Zeen Lam",
-                        "entry_1_points": 0,
+                        "entry_1_points": 45,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -370,13 +383,13 @@
                         "entry_2_entry": 6461324,
                         "entry_2_name": "Kun One",
                         "entry_2_player_name": "Kun Kun",
-                        "entry_2_points": 0,
+                        "entry_2_points": 55,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
                         "entry_2_total": 0,
                         "is_knockout": true,
-                        "winner": null,
+                        "winner": 6461324,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -392,8 +405,8 @@
         },
         "name": "We Are Coders",
         "kit": null,
-        "last_deadline_bank": 9,
-        "last_deadline_value": 1019,
-        "last_deadline_total_transfers": 12
+        "last_deadline_bank": 78,
+        "last_deadline_value": 1021,
+        "last_deadline_total_transfers": 14
     }
 ]

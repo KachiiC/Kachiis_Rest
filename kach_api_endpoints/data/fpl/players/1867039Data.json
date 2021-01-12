@@ -211,14 +211,27 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 827,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 2756474,
+                "points": 66,
+                "total_points": 893,
+                "rank": 2153955,
+                "rank_sort": 2163921,
+                "overall_rank": 2606305,
                 "bank": 7,
                 "value": 1009,
                 "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 10
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 893,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 2606305,
+                "bank": 1,
+                "value": 1008,
+                "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
             }
@@ -279,11 +292,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 827,
-        "summary_overall_rank": 2756474,
+        "summary_overall_points": 893,
+        "summary_overall_rank": 2606305,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -298,8 +311,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 815007,
-                    "entry_last_rank": 813009,
+                    "entry_rank": 773512,
+                    "entry_last_rank": 815007,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -316,8 +329,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2654623,
-                    "entry_last_rank": 2623883,
+                    "entry_rank": 2516229,
+                    "entry_last_rank": 2654623,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -334,8 +347,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 2756474,
-                    "entry_last_rank": 2718605,
+                    "entry_rank": 2606305,
+                    "entry_last_rank": 2756474,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -370,8 +383,8 @@
                     "scoring": "c",
                     "admin_entry": 1614849,
                     "start_event": 1,
-                    "entry_rank": 155,
-                    "entry_last_rank": 149,
+                    "entry_rank": 151,
+                    "entry_last_rank": 155,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -388,7 +401,7 @@
                     "scoring": "c",
                     "admin_entry": 1614849,
                     "start_event": 1,
-                    "entry_rank": 1086,
+                    "entry_rank": 1062,
                     "entry_last_rank": 1086,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -442,8 +455,8 @@
                     "scoring": "c",
                     "admin_entry": 3932684,
                     "start_event": 1,
-                    "entry_rank": 39,
-                    "entry_last_rank": 37,
+                    "entry_rank": 37,
+                    "entry_last_rank": 39,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -468,7 +481,7 @@
                 },
                 {
                     "id": 1419600,
-                    "name": "Niggas Group",
+                    "name": "CHANGE NAME",
                     "short_name": null,
                     "created": "2020-09-16T16:03:05.965149Z",
                     "closed": false,
@@ -489,7 +502,7 @@
             "cup": {
                 "matches": [
                     {
-                        "id": 44845324,
+                        "id": 46458714,
                         "entry_1_entry": 1867039,
                         "entry_1_name": "Ñíguez In Paris",
                         "entry_1_player_name": "Michael Adebayo",
@@ -498,9 +511,9 @@
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
-                        "entry_2_entry": 4244758,
-                        "entry_2_name": "Team Name",
-                        "entry_2_player_name": "Kevin Hotine",
+                        "entry_2_entry": 2132478,
+                        "entry_2_name": "Dream Team",
+                        "entry_2_player_name": "mhjob kamel",
                         "entry_2_points": 0,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
@@ -508,6 +521,30 @@
                         "entry_2_total": 0,
                         "is_knockout": true,
                         "winner": null,
+                        "seed_value": null,
+                        "event": 18,
+                        "tiebreak": null
+                    },
+                    {
+                        "id": 44845324,
+                        "entry_1_entry": 1867039,
+                        "entry_1_name": "Ñíguez In Paris",
+                        "entry_1_player_name": "Michael Adebayo",
+                        "entry_1_points": 66,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 4244758,
+                        "entry_2_name": "Team Name",
+                        "entry_2_player_name": "Kevin Hotine",
+                        "entry_2_points": 46,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": 1867039,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -523,8 +560,8 @@
         },
         "name": "Ñíguez In Paris",
         "kit": null,
-        "last_deadline_bank": 7,
-        "last_deadline_value": 1009,
-        "last_deadline_total_transfers": 16
+        "last_deadline_bank": 1,
+        "last_deadline_value": 1008,
+        "last_deadline_total_transfers": 17
     }
 ]

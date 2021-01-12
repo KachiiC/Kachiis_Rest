@@ -211,13 +211,26 @@
             },
             {
                 "event": 17,
-                "points": 0,
-                "total_points": 901,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 1021593,
+                "points": 69,
+                "total_points": 970,
+                "rank": 1480094,
+                "rank_sort": 1481787,
+                "overall_rank": 907197,
                 "bank": 0,
                 "value": 1032,
+                "event_transfers": 0,
+                "event_transfers_cost": 0,
+                "points_on_bench": 0
+            },
+            {
+                "event": 18,
+                "points": 0,
+                "total_points": 970,
+                "rank": null,
+                "rank_sort": null,
+                "overall_rank": 907197,
+                "bank": 0,
+                "value": 1033,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
@@ -275,6 +288,11 @@
                 "name": "wildcard",
                 "time": "2020-12-26T23:21:26.050689Z",
                 "event": 16
+            },
+            {
+                "name": "freehit",
+                "time": "2021-01-11T20:43:11.611377Z",
+                "event": 18
             }
         ]
     },
@@ -289,11 +307,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 901,
-        "summary_overall_rank": 1021593,
+        "summary_overall_points": 970,
+        "summary_overall_rank": 907197,
         "summary_event_points": 0,
         "summary_event_rank": null,
-        "current_event": 17,
+        "current_event": 18,
         "leagues": {
             "classic": [
                 {
@@ -308,8 +326,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 139972,
-                    "entry_last_rank": 133436,
+                    "entry_rank": 117743,
+                    "entry_last_rank": 139972,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -326,8 +344,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 285411,
-                    "entry_last_rank": 279640,
+                    "entry_rank": 256576,
+                    "entry_last_rank": 285411,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -344,8 +362,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1010265,
-                    "entry_last_rank": 970708,
+                    "entry_rank": 897919,
+                    "entry_last_rank": 1010265,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -362,8 +380,8 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1021593,
-                    "entry_last_rank": 980386,
+                    "entry_rank": 907197,
+                    "entry_last_rank": 1021593,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
                     "entry_can_invite": false
@@ -398,7 +416,7 @@
                     "scoring": "c",
                     "admin_entry": 12018,
                     "start_event": 1,
-                    "entry_rank": 6,
+                    "entry_rank": 5,
                     "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
@@ -507,7 +525,7 @@
                     "admin_entry": 158159,
                     "start_event": 1,
                     "entry_rank": 2,
-                    "entry_last_rank": 1,
+                    "entry_last_rank": 2,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
                     "entry_can_invite": true
@@ -553,18 +571,18 @@
             "cup": {
                 "matches": [
                     {
-                        "id": 44073133,
-                        "entry_1_entry": 2885194,
-                        "entry_1_name": "Lamfu",
-                        "entry_1_player_name": "Unique Lamsal",
+                        "id": 46355868,
+                        "entry_1_entry": 158159,
+                        "entry_1_name": "Li's Legendz",
+                        "entry_1_player_name": "Dan Li",
                         "entry_1_points": 0,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
-                        "entry_2_entry": 158159,
-                        "entry_2_name": "Li's Legendz",
-                        "entry_2_player_name": "Dan Li",
+                        "entry_2_entry": 7635455,
+                        "entry_2_name": "Dimitris do",
+                        "entry_2_player_name": "dimitris do",
                         "entry_2_points": 0,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
@@ -572,6 +590,30 @@
                         "entry_2_total": 0,
                         "is_knockout": true,
                         "winner": null,
+                        "seed_value": null,
+                        "event": 18,
+                        "tiebreak": null
+                    },
+                    {
+                        "id": 44073133,
+                        "entry_1_entry": 2885194,
+                        "entry_1_name": "Lamfu",
+                        "entry_1_player_name": "Unique Lamsal",
+                        "entry_1_points": 40,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 158159,
+                        "entry_2_name": "Li's Legendz",
+                        "entry_2_player_name": "Dan Li",
+                        "entry_2_points": 69,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": 158159,
                         "seed_value": null,
                         "event": 17,
                         "tiebreak": null
@@ -588,7 +630,7 @@
         "name": "Li's Legendz",
         "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#7bc9af\",\"kit_shirt_sleeves\":\"#5b6363\",\"kit_shirt_secondary\":\"#ff8f8f\",\"kit_shirt_logo\":\"sky-ocean-rescue\",\"kit_shorts\":\"#f8cdcd\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#dda5a5\"}",
         "last_deadline_bank": 0,
-        "last_deadline_value": 1032,
+        "last_deadline_value": 1033,
         "last_deadline_total_transfers": 19
     }
 ]

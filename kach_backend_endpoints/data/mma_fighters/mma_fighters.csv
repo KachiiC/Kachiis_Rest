@@ -1,2 +1,3 @@
-first_name,last_name,nickname,status,date_of_birth,promotion,rank,height,weight_class,reach,wins,losses,draws,no_contests,style,notable_wins,wins_via_knockout,wins_via_submission,wins_via_decision,losses_via_knockout,losses_via_submission,losses_via_decision
-Anthony,Pettis,Showtime,active,1987-01-27,PFL,N/A,5ft10,155,72.5,24,10,0,0,Striking,Benson Henderson,11,7,6,2,2,6
+first_name,last_name,nickname,status,date_of_birth,promotion,rank,height,weight,reach,W,L,D,NC,style,wins_via_ko,wins_via_sub,wins_via_dec,losses_via_ko,losses_via_sub,losses_via_dec,notable_victories
+Anthony,Pettis,Showtime,active,1987-01-27,PFL,N/A,5ft10,155,72.5,24,10,0,0,Striking,11,7,6,2,2,6,"Benson Henderson,Gilbert Melendez,Stephen Thompson,Michael Chiesa,Charles Oliveira"
+Benson,Henderson,Smooth,active,1983-11-16,Bellator MMA,N/A,5ft9,155,70,28,10,0,0,Striking,5,9,14,2,2,6,"Jorge Masvidal,Nate Diaz,Donald Cerrone,Josh Thomson,Frankie Edgar"
