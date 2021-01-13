@@ -28,5 +28,4 @@ class FighterSerializer(serializers.ModelSerializer):
             "losses_via_submission",
             "losses_via_decision",
             "notable_wins",
-            "notable_victories"
         ]

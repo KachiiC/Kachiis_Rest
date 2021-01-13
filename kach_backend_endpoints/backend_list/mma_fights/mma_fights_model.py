@@ -11,11 +11,45 @@ method_of_victory_choices = (
     ('Knockout', 'ko'),
     ('Technical Knockout', 'tko'),
     ('Submission', 'sub'),
+    ('Decision', 'dec')
 )
 
-draw_choices = (
-    ('Yes', 'yes'),
-    ('No', 'no')
+Atom = 105
+Straw = 115
+Fly = 125
+Bantam = 135
+Feather = 145
+Light = 155
+Welter = 170
+Middle = 185
+Light_Heavy = 205
+Heavy = 265
+
+weight_class_choices = (
+    (Atom, 'atom'),
+    (Straw, 'straw'),
+    (Fly, 'fly'),
+    (Bantam, 'bantam'),
+    (Feather, 'feather'),
+    (Light, 'light'),
+    (Welter, 'welter'),
+    (Middle, 'middle'),
+    (Light_Heavy, 'light_heavy'),
+    (Heavy, 'heavy'),
+)
+
+first = 1
+second = 2
+third = 3
+fourth = 4
+fifth = 5
+
+round_choices = (
+    (first, 'first'),
+    (second, 'second'),
+    (third, 'third'),
+    (fourth, 'forth'),
+    (fifth, 'fifth'),
 )
 
 
@@ -42,12 +76,11 @@ class Fight(models.Model):
         choices=method_of_victory_choices,
         blank=True
     )
-    draw = models.CharField(
-        max_length=10,
-        choices=draw_choices,
-        default='no'
-    )
-    title = models.CharField(max_length=100)
-    video = models.CharField(max_length=25)
+    round = models.CharField(max_length=20, choices=round_choices)
+    draw = models.BooleanField(default=False)
+    weight_class = models.CharField(max_length=25, choices=weight_class_choices)
+    title_fight = models.BooleanField(default=False)
+    video = models.CharField(max_length=25, blank=True, null=True)
     event = models.CharField(max_length=100)
     date = models.DateField()
+    notable_win = models.BooleanField(default=True)

@@ -2,12 +2,12 @@ import os
 import csv
 import json
 from django.core.management.base import BaseCommand
-from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
-from kach_backend_endpoints.management.repoppers.mma_fighters_repoppers import create_mma_fighters
+from kach_backend_endpoints.backend_list.mma_fights.mma_fights_model import Fight
+from kach_backend_endpoints.management.repoppers.mma_fights_repoppers import create_mma_fights
 
-File_Location = os.getcwd() + "/kach_backend_endpoints/data/mma_fighters/"
-CSV_FILE = File_Location + "mma_fighters.csv"
-JSON_OUTPUT = File_Location + "mmaFightersData.json"
+File_Location = os.getcwd() + "/kach_backend_endpoints/data/mma_fights/"
+CSV_FILE = File_Location + "mma_fights.csv"
+JSON_OUTPUT = File_Location + "mmaFightsData.json"
 
 
 class Command(BaseCommand):
@@ -27,9 +27,9 @@ class Command(BaseCommand):
 
             print("conversion complete")
 
-        Fighter.objects.all().delete()
+        Fight.objects.all().delete()
 
         print("Repopping MMA fighters...")
-        create_mma_fighters(JSON_OUTPUT)
+        create_mma_fights(JSON_OUTPUT)
 
         print("MMA Fighters repop complete!")

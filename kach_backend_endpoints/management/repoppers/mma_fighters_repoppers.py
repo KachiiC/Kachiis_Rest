@@ -29,5 +29,4 @@ def create_mma_fighters(data_location):
                 losses_via_knockout=fighter["losses_via_ko"],
                 losses_via_submission=fighter["losses_via_sub"],
                 losses_via_decision=fighter["losses_via_dec"],
-                notable_victories=fighter["notable_victories"]
             ).save()

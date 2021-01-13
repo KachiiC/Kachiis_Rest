@@ -1,0 +1,16 @@
+[
+    {
+        "red_corner": "Benson Henderson",
+        "blue_corner": "Anthony Pettis",
+        "winner": "Blue Corner",
+        "method_of_victory": "Submission",
+        "round": "1",
+        "draw": "False",
+        "weight_class": "155",
+        "title_fight": "True",
+        "video": "",
+        "event": "UFC 164",
+        "date": "2013-08-31",
+        "notable_win": "True"
+    }
+]

@@ -48,7 +48,6 @@ class Fighter(models.Model):
     promotion = models.CharField(max_length=50)
     rank = models.CharField(max_length=100)
     style = models.CharField(max_length=100)
-    notable_wins = models.ManyToManyField('self', blank=True)
     wins = models.IntegerField(validator_condition)
     losses = models.IntegerField(validator_condition)
     draws = models.IntegerField(validator_condition, default=0)
@@ -59,7 +58,7 @@ class Fighter(models.Model):
     losses_via_knockout = models.IntegerField(validator_condition)
     losses_via_submission = models.IntegerField(validator_condition)
     losses_via_decision = models.IntegerField(validator_condition)
-    notable_victories = models.CharField(max_length=300, null=True)
+    notable_wins = models.ManyToManyField('Fight', blank=True)
 
     def __str__(self):
         return f"{self.first_name} {self.last_name}"

@@ -20,8 +20,7 @@
         "wins_via_dec": "6",
         "losses_via_ko": "2",
         "losses_via_sub": "2",
-        "losses_via_dec": "6",
-        "notable_victories": "Benson Henderson,Gilbert Melendez,Stephen Thompson,Michael Chiesa,Charles Oliveira"
+        "losses_via_dec": "6"
     },
     {
         "first_name": "Benson",
@@ -44,7 +43,29 @@
         "wins_via_dec": "14",
         "losses_via_ko": "2",
         "losses_via_sub": "2",
-        "losses_via_dec": "6",
-        "notable_victories": "Jorge Masvidal,Nate Diaz,Donald Cerrone,Josh Thomson,Frankie Edgar"
+        "losses_via_dec": "6"
+    },
+    {
+        "first_name": "Dan",
+        "last_name": "Henderson",
+        "nickname": "Hendo",
+        "status": "retired",
+        "date_of_birth": "1970-08-24",
+        "promotion": "None",
+        "rank": "N/A",
+        "height": "6ft1",
+        "weight": "185",
+        "reach": "74",
+        "W": "32",
+        "L": "15",
+        "D": "0",
+        "NC": "0",
+        "style": "Striking",
+        "wins_via_ko": "16",
+        "wins_via_sub": "2",
+        "wins_via_dec": "14",
+        "losses_via_ko": "3",
+        "losses_via_sub": "4",
+        "losses_via_dec": "8"
     }
 ]
