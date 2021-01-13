@@ -59,6 +59,7 @@ class Fighter(models.Model):
     losses_via_submission = models.IntegerField(validator_condition)
     losses_via_decision = models.IntegerField(validator_condition)
     notable_wins = models.ManyToManyField('Fight', blank=True)
+    highlights = models.CharField(max_length=100, blank=True)
 
     def __str__(self):
         return f"{self.first_name} {self.last_name}"

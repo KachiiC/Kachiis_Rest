@@ -54,18 +54,10 @@ round_choices = (
 
 
 class Fight(models.Model):
-    red_corner = models.OneToOneField(
-        Fighter,
-        related_name="red_corner",
-        blank=True,
-        on_delete=models.CASCADE
-    )
-    blue_corner = models.OneToOneField(
-        Fighter,
-        related_name="blue_corner",
-        blank=True,
-        on_delete=models.CASCADE
-    )
+    red_corner = models.CharField(max_length=50)
+    blue_corner = models.CharField(max_length=50)
+    red_pre_fight = models.CharField(max_length=15)
+    blue_pre_fight = models.CharField(max_length=15)
     winner = models.CharField(
         max_length=25,
         choices=winner_choices,
@@ -80,6 +72,7 @@ class Fight(models.Model):
     draw = models.BooleanField(default=False)
     weight_class = models.CharField(max_length=25, choices=weight_class_choices)
     title_fight = models.BooleanField(default=False)
+    description = models.TextField()
     video = models.CharField(max_length=25, blank=True, null=True)
     event = models.CharField(max_length=100)
     date = models.DateField()

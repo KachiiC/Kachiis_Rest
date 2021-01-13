@@ -5,22 +5,15 @@ from kach_backend_endpoints.backend_list.mma_fights.mma_fights_model import Figh
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        myData = [
-            {
-                "first_name": "Anthony",
-                "last_name": "Pettis",
-            },
-            {
-                "first_name": "Benson",
-                "last_name": "Henderson",
-            },
-            {
-                "first_name": "Dan",
-                "last_name": "Henderson",
-            },
 
-        ]
+        all_fighters = Fighter.objects.all()
+        all_fights = Fight.objects.all()
 
-        fighter = Fighter.objects.get(first_name=myData[0]["first_name"], last_name=myData[0]["last_name"])
+        for fighter in all_fighters:
+            full_name = fighter.first_name + " " + fighter.last_name
 
-        print(fighter)
+            for fight in all_fights:
+                if fight.blue_corner == full_name or Fight.red_corner == full_name and fight.notable_win == True:
+                    fighter.notable_wins.add(fight)
+
+        print("Done!")
