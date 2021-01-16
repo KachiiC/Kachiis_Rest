@@ -40,7 +40,9 @@ class Command(BaseCommand):
             full_name = fighter.first_name + " " + fighter.last_name
 
             for fight in all_fights:
-                if fight.blue_corner == full_name or Fight.red_corner == full_name:
+                if fight.blue_corner == full_name and fight.winner == "Blue Corner" or \
+                        fight.red_corner == full_name and fight.winner == "Red Corner":
+
                     if fight.notable_win is True:
                         fighter.notable_wins.add(fight)
 
