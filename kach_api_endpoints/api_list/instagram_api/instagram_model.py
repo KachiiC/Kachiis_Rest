@@ -7,13 +7,13 @@ type_choices = status_choices = (
 
 
 class Post(models.Model):
-    post_link = models.CharField(max_length=15)
+    post_link = models.CharField(max_length=100)
     caption = models.TextField()
     media = models.CharField(max_length=350)
-    type = models.CharField(choices=type_choices, max_length=25)
+    type = models.CharField(choices=type_choices, max_length=50)
     time_stamp = models.IntegerField()
     thumbnail = models.CharField(max_length=350)
     likes = models.IntegerField()
     views = models.IntegerField(null=True, blank=True)
-    user = models.CharField(max_length=50)
+    user = models.CharField(max_length=100)
     user_id = models.IntegerField()
