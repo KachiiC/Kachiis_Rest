@@ -15,4 +15,4 @@ class Post(models.Model):
     thumbnail = models.CharField(max_length=350)
     likes = models.IntegerField()
     user = models.CharField(max_length=100)
-    user_id = models.IntegerField()
+    user_id = models.BigIntegerField()
