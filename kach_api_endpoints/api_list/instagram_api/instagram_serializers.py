@@ -17,5 +17,3 @@ class InstaPostSerializer(serializers.ModelSerializer):
             "likes",
             "views"
         ]
-
-
