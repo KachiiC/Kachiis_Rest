@@ -15,5 +15,4 @@ class InstaPostSerializer(serializers.ModelSerializer):
             "time_stamp",
             "thumbnail",
             "likes",
-            "views"
         ]

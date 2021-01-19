@@ -9,10 +9,9 @@ def create_insta_data(data_location):
         for media in data["collector"]:
             if media["type"] == "GraphImage":
                 display_media = media["display_url"]
-                media_views = 0
             elif media["type"] == "GraphVideo":
                 display_media = media["video_url"]
-                media_views = media["views"]
+
             Post(
                 media=display_media,
                 user=media["owner"]["username"],
@@ -23,5 +22,4 @@ def create_insta_data(data_location):
                 time_stamp=media["taken_at_timestamp"],
                 thumbnail=media["thumbnail_src"],
                 likes=media["likes"],
-                views=media_views,
             ).save()

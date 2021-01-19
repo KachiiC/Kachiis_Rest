@@ -14,6 +14,5 @@ class Post(models.Model):
     time_stamp = models.IntegerField()
     thumbnail = models.CharField(max_length=350)
     likes = models.IntegerField()
-    views = models.IntegerField(null=True, blank=True)
     user = models.CharField(max_length=100)
     user_id = models.IntegerField()
