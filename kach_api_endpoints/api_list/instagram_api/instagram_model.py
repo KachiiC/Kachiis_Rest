@@ -11,7 +11,7 @@ class Post(models.Model):
     caption = models.TextField()
     media = models.CharField(max_length=350)
     type = models.CharField(choices=type_choices, max_length=50)
-    time_stamp = models.IntegerField()
+    time_stamp = models.BigIntegerField()
     thumbnail = models.CharField(max_length=350)
     likes = models.IntegerField()
     user = models.CharField(max_length=100)
