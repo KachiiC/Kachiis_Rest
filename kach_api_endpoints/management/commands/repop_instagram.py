@@ -14,17 +14,15 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         print("Pulling data from API...")
 
-        url = "https://instagram-data1.p.rapidapi.com/user/feed"
-
-        querystring = {"username": "basically_mma"}
+        url = "https://easy-instagramapi.p.rapidapi.com/v1/profile/basically_mma/media"
 
         headers = {
             'x-rapidapi-key': "985371e109mshb5666c0424d5dcfp1b7485jsndf2afe5a3591",
-            'x-rapidapi-host': "instagram-data1.p.rapidapi.com"
+            'x-rapidapi-host': "easy-instagramapi.p.rapidapi.com"
         }
 
         insta_response = requests.request(
-            "GET", url, headers=headers, params=querystring
+            "GET", url, headers=headers
         ).json()
 
         with open(OUTFILE_LOCATION, 'w', encoding='utf8') as json_file:
@@ -34,10 +32,10 @@ class Command(BaseCommand):
 
         print("Data successfully pulled from API...")
 
-        Post.objects.all().delete()
-
-        print("Repopping Insta Data...")
-
-        create_insta_data(OUTFILE_LOCATION)
-
-        print("Successfully prepped Insta!")
+        # Post.objects.all().delete()
+        #
+        # print("Repopping Insta Data...")
+        #
+        # create_insta_data(OUTFILE_LOCATION)
+        #
+        # print("Successfully prepped Insta!")
