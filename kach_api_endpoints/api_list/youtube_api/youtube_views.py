@@ -65,6 +65,16 @@ class YoutubeApiView(views.APIView):
 
 
 @api_view(['GET'])
+def youtube_videos_list(request):
+    if request.method == 'GET':
+        data = YoutubeVideo.objects.all()
+
+        serializer = YoutubeVideoSerializer(data, context={'request': request}, many=True)
+
+        return Response(serializer.data)
+
+
+@api_view(['GET'])
 def single_youtube_video(request, video_id):
     try:
         playlist = YoutubeVideo.objects.get(video_id=video_id)

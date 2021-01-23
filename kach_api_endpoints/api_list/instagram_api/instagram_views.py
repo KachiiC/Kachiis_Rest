@@ -50,3 +50,12 @@ class InstagramPostApiView(views.APIView):
         )
 
         return Response(serializer.data)
+
+
+@api_view(['GET'])
+def instagram_posts_list(request):
+    data = Post.objects.all()
+
+    serializer = InstaPostSerializer(data, context={'request': request}, many=True)
+
+    return Response(serializer.data)
