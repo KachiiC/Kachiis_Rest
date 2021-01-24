@@ -1,11 +1,11 @@
+import os
+import json
+import requests
 from rest_framework.response import Response
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
 from rest_framework.decorators import api_view
 from .instagram_serializers import InstaPostSerializer
-import requests
-import json
-import os
 from kach_api_endpoints.api_list.instagram_api.instagram_model import Post
 from kach_api_endpoints.management.repoppers.instagram_repoppers import create_insta_data
 from rest_framework import views
@@ -15,7 +15,7 @@ OUTFILE_LOCATION = os.getcwd() + "/kach_api_endpoints/data/instagram/instagramDa
 
 class InstagramPostApiView(views.APIView):
 
-    @method_decorator(cache_page(60 * 60 * 2))
+    @method_decorator(cache_page(60 * 60 * 24 * 7))
     def get(self, request):
         url = "https://instagram40.p.rapidapi.com/account-medias"
 
