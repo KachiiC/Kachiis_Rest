@@ -18,7 +18,7 @@ class Command(BaseCommand):
 
         querystring = {
             "userid": "32817560066",
-            "first": "36",
+            "first": "50",
             "after": "QVFDOGV6dGFtQnJXdnZ0a1FuMkFLSjRHYjdWMEdTTFltMkZpd1FvcUxuQXZ6bDJFVnpKRzFYU3RMSUoyNXluOXFZUVZ3dG1YM3NSTEJqMVI3TTBKM0ZTNg=="
         }
 

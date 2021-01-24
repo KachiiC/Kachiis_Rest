@@ -224,16 +224,29 @@
             },
             {
                 "event": 18,
-                "points": 0,
-                "total_points": 1029,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 199699,
+                "points": 43,
+                "total_points": 1064,
+                "rank": 1770504,
+                "rank_sort": 1772009,
+                "overall_rank": 264362,
                 "bank": 27,
                 "value": 1035,
                 "event_transfers": 4,
                 "event_transfers_cost": 8,
                 "points_on_bench": 0
+            },
+            {
+                "event": 19,
+                "points": 126,
+                "total_points": 1186,
+                "rank": 59101,
+                "rank_sort": 59850,
+                "overall_rank": 90724,
+                "bank": 3,
+                "value": 1034,
+                "event_transfers": 2,
+                "event_transfers_cost": 4,
+                "points_on_bench": 7
             }
         ],
         "past": [
@@ -267,11 +280,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 1029,
-        "summary_overall_rank": 199699,
-        "summary_event_points": 0,
-        "summary_event_rank": null,
-        "current_event": 18,
+        "summary_overall_points": 1186,
+        "summary_overall_rank": 90724,
+        "summary_event_points": 126,
+        "summary_event_rank": 59101,
+        "current_event": 19,
         "leagues": {
             "classic": [
                 {
@@ -286,11 +299,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 37375,
-                    "entry_last_rank": 47376,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 17569,
+                    "entry_last_rank": 48989
                 },
                 {
                     "id": 261,
@@ -304,11 +320,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 54257,
-                    "entry_last_rank": 68844,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 26736,
+                    "entry_last_rank": 72947
                 },
                 {
                     "id": 276,
@@ -322,11 +341,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 199142,
-                    "entry_last_rank": 260074,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 90603,
+                    "entry_last_rank": 263533
                 },
                 {
                     "id": 314,
@@ -340,11 +362,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 199699,
-                    "entry_last_rank": 260867,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": true,
+                    "cup_league": 315,
+                    "cup_qualified": true,
+                    "entry_rank": 90724,
+                    "entry_last_rank": 264362
                 },
                 {
                     "id": 497,
@@ -358,11 +383,14 @@
                     "scoring": "c",
                     "admin_entry": 598,
                     "start_event": 1,
-                    "entry_rank": 2984,
-                    "entry_last_rank": 3720,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1761,
+                    "entry_last_rank": 4020
                 },
                 {
                     "id": 357383,
@@ -376,11 +404,14 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 507658,
@@ -394,11 +425,14 @@
                     "scoring": "c",
                     "admin_entry": 2305407,
                     "start_event": 1,
-                    "entry_rank": 5,
-                    "entry_last_rank": 5,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 4
                 },
                 {
                     "id": 526287,
@@ -412,11 +446,14 @@
                     "scoring": "c",
                     "admin_entry": 2341747,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 }
             ],
             "h2h": [],
@@ -427,7 +464,7 @@
                         "entry_1_entry": 2341747,
                         "entry_1_name": "Don’t stop de Beek",
                         "entry_1_player_name": "Anthony Jiang",
-                        "entry_1_points": 0,
+                        "entry_1_points": 35,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -435,13 +472,13 @@
                         "entry_2_entry": 7061903,
                         "entry_2_name": "pääpynä",
                         "entry_2_player_name": "Jenni Suomela",
-                        "entry_2_points": 0,
+                        "entry_2_points": 46,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
                         "entry_2_total": 0,
                         "is_knockout": true,
-                        "winner": null,
+                        "winner": 7061903,
                         "seed_value": null,
                         "event": 18,
                         "tiebreak": null
@@ -476,13 +513,14 @@
                     "qualification_numbers": 4194304,
                     "qualification_rank": 121349,
                     "qualification_state": "QUALIFIED"
-                }
+                },
+                "cup_league": 315
             }
         },
         "name": "Don’t stop de Beek",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 27,
-        "last_deadline_value": 1035,
-        "last_deadline_total_transfers": 23
+        "last_deadline_bank": 3,
+        "last_deadline_value": 1034,
+        "last_deadline_total_transfers": 25
     }
 ]

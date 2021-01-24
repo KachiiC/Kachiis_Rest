@@ -224,16 +224,29 @@
             },
             {
                 "event": 18,
-                "points": 0,
-                "total_points": 1049,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 96509,
+                "points": 61,
+                "total_points": 1110,
+                "rank": 74194,
+                "rank_sort": 79537,
+                "overall_rank": 53534,
                 "bank": 27,
                 "value": 1036,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
-                "points_on_bench": 0
+                "points_on_bench": 3
+            },
+            {
+                "event": 19,
+                "points": 104,
+                "total_points": 1214,
+                "rank": 413463,
+                "rank_sort": 414374,
+                "overall_rank": 31698,
+                "bank": 0,
+                "value": 1032,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 7
             }
         ],
         "past": [
@@ -278,6 +291,11 @@
                 "name": "freehit",
                 "time": "2021-01-01T17:11:48.166720Z",
                 "event": 18
+            },
+            {
+                "name": "3xc",
+                "time": "2021-01-16T02:40:24.442410Z",
+                "event": 19
             }
         ]
     },
@@ -292,11 +310,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 1049,
-        "summary_overall_rank": 96509,
-        "summary_event_points": 0,
-        "summary_event_rank": null,
-        "current_event": 18,
+        "summary_overall_points": 1214,
+        "summary_overall_rank": 31698,
+        "summary_event_points": 104,
+        "summary_event_rank": 413463,
+        "current_event": 19,
         "leagues": {
             "classic": [
                 {
@@ -311,11 +329,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 25729,
-                    "entry_last_rank": 33489,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 9166,
+                    "entry_last_rank": 14283
                 },
                 {
                     "id": 276,
@@ -329,11 +350,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 96341,
-                    "entry_last_rank": 129292,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 31672,
+                    "entry_last_rank": 53483
                 },
                 {
                     "id": 314,
@@ -347,11 +371,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 96509,
-                    "entry_last_rank": 129547,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": true,
+                    "cup_league": 315,
+                    "cup_qualified": true,
+                    "entry_rank": 31698,
+                    "entry_last_rank": 53534
                 },
                 {
                     "id": 357383,
@@ -365,22 +392,25 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 }
             ],
             "h2h": [],
             "cup": {
                 "matches": [
                     {
-                        "id": 45872566,
-                        "entry_1_entry": 4851271,
-                        "entry_1_name": "F.C Majestic",
-                        "entry_1_player_name": "Abdessamad Ahlimine",
-                        "entry_1_points": 0,
+                        "id": 47234704,
+                        "entry_1_entry": 109960,
+                        "entry_1_name": "Ziggys Starman",
+                        "entry_1_player_name": "Bob Wallis",
+                        "entry_1_points": 102,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -388,7 +418,7 @@
                         "entry_2_entry": 684633,
                         "entry_2_name": "6th attempt to win",
                         "entry_2_player_name": "Kacheok Cheong",
-                        "entry_2_points": 0,
+                        "entry_2_points": 104,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
@@ -396,23 +426,23 @@
                         "is_knockout": true,
                         "winner": null,
                         "seed_value": null,
-                        "event": 18,
+                        "event": 19,
                         "tiebreak": null
                     },
                     {
-                        "id": 43485783,
-                        "entry_1_entry": 684633,
-                        "entry_1_name": "6th attempt to win",
-                        "entry_1_player_name": "Kacheok Cheong",
-                        "entry_1_points": 73,
+                        "id": 45872566,
+                        "entry_1_entry": 4851271,
+                        "entry_1_name": "F.C Majestic",
+                        "entry_1_player_name": "Abdessamad Ahlimine",
+                        "entry_1_points": 28,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
-                        "entry_2_entry": 5973040,
-                        "entry_2_name": "RedRuniaFC",
-                        "entry_2_player_name": "Nasrul Der",
-                        "entry_2_points": 59,
+                        "entry_2_entry": 684633,
+                        "entry_2_name": "6th attempt to win",
+                        "entry_2_player_name": "Kacheok Cheong",
+                        "entry_2_points": 61,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
@@ -420,7 +450,7 @@
                         "is_knockout": true,
                         "winner": 684633,
                         "seed_value": null,
-                        "event": 17,
+                        "event": 18,
                         "tiebreak": null
                     }
                 ],
@@ -429,13 +459,14 @@
                     "qualification_numbers": 4194304,
                     "qualification_rank": 900836,
                     "qualification_state": "QUALIFIED"
-                }
+                },
+                "cup_league": 315
             }
         },
         "name": "6th attempt to win",
         "kit": null,
-        "last_deadline_bank": 27,
-        "last_deadline_value": 1036,
-        "last_deadline_total_transfers": 17
+        "last_deadline_bank": 0,
+        "last_deadline_value": 1032,
+        "last_deadline_total_transfers": 18
     }
 ]

@@ -224,16 +224,29 @@
             },
             {
                 "event": 18,
-                "points": 0,
-                "total_points": 856,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 3465431,
+                "points": 42,
+                "total_points": 898,
+                "rank": 1875817,
+                "rank_sort": 1878441,
+                "overall_rank": 3178294,
                 "bank": 78,
                 "value": 1021,
                 "event_transfers": 2,
                 "event_transfers_cost": 0,
                 "points_on_bench": 0
+            },
+            {
+                "event": 19,
+                "points": 79,
+                "total_points": 977,
+                "rank": 1801065,
+                "rank_sort": 1804726,
+                "overall_rank": 2875921,
+                "bank": 67,
+                "value": 1021,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 16
             }
         ],
         "past": [
@@ -287,11 +300,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 856,
-        "summary_overall_rank": 3465431,
-        "summary_event_points": 0,
-        "summary_event_rank": null,
-        "current_event": 18,
+        "summary_overall_points": 977,
+        "summary_overall_rank": 2875921,
+        "summary_event_points": 79,
+        "summary_event_rank": 1801065,
+        "current_event": 19,
         "leagues": {
             "classic": [
                 {
@@ -306,11 +319,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1040738,
-                    "entry_last_rank": 938455,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 870625,
+                    "entry_last_rank": 953785
                 },
                 {
                     "id": 276,
@@ -324,11 +340,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 3283243,
-                    "entry_last_rank": 3009638,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2762150,
+                    "entry_last_rank": 3030779
                 },
                 {
                     "id": 314,
@@ -342,11 +361,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 3465431,
-                    "entry_last_rank": 3150816,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": true,
+                    "cup_league": 315,
+                    "cup_qualified": true,
+                    "entry_rank": 2875921,
+                    "entry_last_rank": 3178294
                 },
                 {
                     "id": 357383,
@@ -360,11 +382,14 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 9,
-                    "entry_last_rank": 9,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 6,
+                    "entry_last_rank": 9
                 }
             ],
             "h2h": [],
@@ -400,13 +425,14 @@
                     "qualification_numbers": 4194304,
                     "qualification_rank": 2657947,
                     "qualification_state": "QUALIFIED"
-                }
+                },
+                "cup_league": 315
             }
         },
         "name": "We Are Coders",
         "kit": null,
-        "last_deadline_bank": 78,
+        "last_deadline_bank": 67,
         "last_deadline_value": 1021,
-        "last_deadline_total_transfers": 14
+        "last_deadline_total_transfers": 15
     }
 ]

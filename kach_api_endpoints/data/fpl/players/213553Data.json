@@ -224,16 +224,29 @@
             },
             {
                 "event": 18,
-                "points": 0,
-                "total_points": 941,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 1486196,
+                "points": 43,
+                "total_points": 984,
+                "rank": 1653937,
+                "rank_sort": 1657632,
+                "overall_rank": 1345752,
                 "bank": 9,
                 "value": 1037,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
-                "points_on_bench": 0
+                "points_on_bench": 11
+            },
+            {
+                "event": 19,
+                "points": 80,
+                "total_points": 1056,
+                "rank": 1747237,
+                "rank_sort": 1747616,
+                "overall_rank": 1386670,
+                "bank": 1,
+                "value": 1035,
+                "event_transfers": 3,
+                "event_transfers_cost": 8,
+                "points_on_bench": 2
             }
         ],
         "past": [
@@ -307,11 +320,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 941,
-        "summary_overall_rank": 1486196,
-        "summary_event_points": 0,
-        "summary_event_rank": null,
-        "current_event": 18,
+        "summary_overall_points": 1056,
+        "summary_overall_rank": 1386670,
+        "summary_event_points": 80,
+        "summary_event_rank": 1747237,
+        "current_event": 19,
         "leagues": {
             "classic": [
                 {
@@ -326,11 +339,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 8156,
-                    "entry_last_rank": 10863,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 7725,
+                    "entry_last_rank": 7424
                 },
                 {
                     "id": 276,
@@ -344,11 +360,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1460640,
-                    "entry_last_rank": 2010601,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1365745,
+                    "entry_last_rank": 1325580
                 },
                 {
                     "id": 314,
@@ -362,11 +381,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 1486196,
-                    "entry_last_rank": 2062092,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": true,
+                    "cup_league": 315,
+                    "cup_qualified": true,
+                    "entry_rank": 1386670,
+                    "entry_last_rank": 1345752
                 },
                 {
                     "id": 341527,
@@ -380,11 +402,14 @@
                     "scoring": "c",
                     "admin_entry": 1573529,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 5,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 3,
+                    "entry_last_rank": 4
                 },
                 {
                     "id": 357383,
@@ -398,11 +423,14 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 5,
-                    "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 5,
+                    "entry_last_rank": 5
                 },
                 {
                     "id": 385421,
@@ -416,11 +444,14 @@
                     "scoring": "c",
                     "admin_entry": 1760209,
                     "start_event": 1,
-                    "entry_rank": 56,
-                    "entry_last_rank": 67,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 53,
+                    "entry_last_rank": 54
                 },
                 {
                     "id": 500241,
@@ -434,11 +465,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 779381,
@@ -452,11 +486,14 @@
                     "scoring": "c",
                     "admin_entry": 3406376,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 1
                 },
                 {
                     "id": 1185557,
@@ -470,11 +507,14 @@
                     "scoring": "c",
                     "admin_entry": 5217021,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 3,
+                    "entry_last_rank": 3
                 }
             ],
             "h2h": [
@@ -490,11 +530,14 @@
                     "scoring": "h",
                     "admin_entry": 1403103,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 }
             ],
             "cup": {
@@ -504,7 +547,7 @@
                         "entry_1_entry": 1353013,
                         "entry_1_name": "bacborta",
                         "entry_1_player_name": "david samir",
-                        "entry_1_points": 0,
+                        "entry_1_points": 48,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -512,13 +555,13 @@
                         "entry_2_entry": 213553,
                         "entry_2_name": "Alli or Nussing",
                         "entry_2_player_name": "Elijha Wong",
-                        "entry_2_points": 0,
+                        "entry_2_points": 43,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
                         "entry_2_total": 0,
                         "is_knockout": true,
-                        "winner": null,
+                        "winner": 1353013,
                         "seed_value": null,
                         "event": 18,
                         "tiebreak": null
@@ -553,13 +596,14 @@
                     "qualification_numbers": 4194304,
                     "qualification_rank": 3609540,
                     "qualification_state": "QUALIFIED"
-                }
+                },
+                "cup_league": 315
             }
         },
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 9,
-        "last_deadline_value": 1037,
-        "last_deadline_total_transfers": 22
+        "last_deadline_bank": 1,
+        "last_deadline_value": 1035,
+        "last_deadline_total_transfers": 25
     }
 ]

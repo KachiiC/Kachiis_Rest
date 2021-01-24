@@ -3,6 +3,9 @@ from kach_api_endpoints.api_list.youtube_api.youtube_model import YoutubeVideo, 
 
 
 class YoutubeVideoSerializer(serializers.ModelSerializer):
+
+    upload_date = serializers.DateTimeField("%d/%m/%Y")
+
     class Meta:
         model = YoutubeVideo
         fields = ("video_title", "video_id", "video_description", "upload_date",

@@ -6,8 +6,8 @@
                 "points": 85,
                 "total_points": 85,
                 "rank": 151833,
-                "rank_sort": 152955,
                 "overall_rank": 151833,
+                "rank_sort": 152955,
                 "bank": 0,
                 "value": 1000,
                 "event_transfers": 0,
@@ -224,16 +224,29 @@
             },
             {
                 "event": 18,
-                "points": 0,
-                "total_points": 970,
-                "rank": null,
-                "rank_sort": null,
-                "overall_rank": 907197,
+                "points": 51,
+                "total_points": 1021,
+                "rank": 711929,
+                "rank_sort": 716735,
+                "overall_rank": 723031,
                 "bank": 0,
                 "value": 1033,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
-                "points_on_bench": 0
+                "points_on_bench": 9
+            },
+            {
+                "event": 19,
+                "points": 88,
+                "total_points": 1101,
+                "rank": 1158791,
+                "rank_sort": 1159143,
+                "overall_rank": 718045,
+                "bank": 4,
+                "value": 1030,
+                "event_transfers": 3,
+                "event_transfers_cost": 8,
+                "points_on_bench": 9
             }
         ],
         "past": [
@@ -307,13 +320,34 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 970,
-        "summary_overall_rank": 907197,
-        "summary_event_points": 0,
-        "summary_event_rank": null,
-        "current_event": 18,
+        "summary_overall_points": 1101,
+        "summary_overall_rank": 718045,
+        "summary_event_points": 88,
+        "summary_event_rank": 1158791,
+        "current_event": 19,
         "leagues": {
             "classic": [
+                {
+                    "id": 314,
+                    "name": "Overall",
+                    "short_name": "overall",
+                    "created": "2020-08-15T09:00:54.021038Z",
+                    "closed": false,
+                    "rank": null,
+                    "max_entries": null,
+                    "league_type": "s",
+                    "scoring": "c",
+                    "admin_entry": null,
+                    "start_event": 1,
+                    "entry_can_leave": false,
+                    "entry_can_admin": false,
+                    "entry_can_invite": false,
+                    "has_cup": true,
+                    "cup_league": 315,
+                    "cup_qualified": true,
+                    "entry_rank": 718045,
+                    "entry_last_rank": 723031
+                },
                 {
                     "id": 11,
                     "name": "Liverpool",
@@ -326,11 +360,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 117743,
-                    "entry_last_rank": 139972,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 91743,
+                    "entry_last_rank": 93906
                 },
                 {
                     "id": 261,
@@ -344,11 +381,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 256576,
-                    "entry_last_rank": 285411,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 212449,
+                    "entry_last_rank": 204122
                 },
                 {
                     "id": 276,
@@ -362,29 +402,14 @@
                     "scoring": "c",
                     "admin_entry": null,
                     "start_event": 1,
-                    "entry_rank": 897919,
-                    "entry_last_rank": 1010265,
                     "entry_can_leave": false,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
-                },
-                {
-                    "id": 314,
-                    "name": "Overall",
-                    "short_name": "overall",
-                    "created": "2020-08-15T09:00:54.021038Z",
-                    "closed": false,
-                    "rank": null,
-                    "max_entries": null,
-                    "league_type": "s",
-                    "scoring": "c",
-                    "admin_entry": null,
-                    "start_event": 1,
-                    "entry_rank": 907197,
-                    "entry_last_rank": 1021593,
-                    "entry_can_leave": false,
-                    "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 712717,
+                    "entry_last_rank": 717489
                 },
                 {
                     "id": 124944,
@@ -398,11 +423,14 @@
                     "scoring": "c",
                     "admin_entry": 629493,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 3,
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 129376,
@@ -416,11 +444,14 @@
                     "scoring": "c",
                     "admin_entry": 12018,
                     "start_event": 1,
-                    "entry_rank": 5,
-                    "entry_last_rank": 6,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 7,
+                    "entry_last_rank": 5
                 },
                 {
                     "id": 357383,
@@ -434,11 +465,14 @@
                     "scoring": "c",
                     "admin_entry": 684633,
                     "start_event": 1,
-                    "entry_rank": 4,
-                    "entry_last_rank": 4,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 4,
+                    "entry_last_rank": 4
                 },
                 {
                     "id": 500241,
@@ -452,11 +486,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 },
                 {
                     "id": 500242,
@@ -470,11 +507,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 },
                 {
                     "id": 500244,
@@ -488,11 +528,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 },
                 {
                     "id": 500245,
@@ -506,11 +549,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 1
                 },
                 {
                     "id": 500246,
@@ -524,11 +570,14 @@
                     "scoring": "c",
                     "admin_entry": 158159,
                     "start_event": 1,
-                    "entry_rank": 2,
-                    "entry_last_rank": 2,
                     "entry_can_leave": false,
                     "entry_can_admin": true,
-                    "entry_can_invite": true
+                    "entry_can_invite": true,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 2,
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 796933,
@@ -542,11 +591,14 @@
                     "scoring": "c",
                     "admin_entry": 3513004,
                     "start_event": 1,
-                    "entry_rank": 3,
-                    "entry_last_rank": 3,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 3,
+                    "entry_last_rank": 3
                 },
                 {
                     "id": 852882,
@@ -560,46 +612,25 @@
                     "scoring": "c",
                     "admin_entry": 640425,
                     "start_event": 1,
-                    "entry_rank": 1,
-                    "entry_last_rank": 1,
                     "entry_can_leave": true,
                     "entry_can_admin": false,
-                    "entry_can_invite": false
+                    "entry_can_invite": false,
+                    "has_cup": false,
+                    "cup_league": null,
+                    "cup_qualified": null,
+                    "entry_rank": 1,
+                    "entry_last_rank": 1
                 }
             ],
             "h2h": [],
             "cup": {
                 "matches": [
                     {
-                        "id": 46355868,
-                        "entry_1_entry": 158159,
-                        "entry_1_name": "Li's Legendz",
-                        "entry_1_player_name": "Dan Li",
-                        "entry_1_points": 0,
-                        "entry_1_win": 0,
-                        "entry_1_draw": 0,
-                        "entry_1_loss": 0,
-                        "entry_1_total": 0,
-                        "entry_2_entry": 7635455,
-                        "entry_2_name": "Dimitris do",
-                        "entry_2_player_name": "dimitris do",
-                        "entry_2_points": 0,
-                        "entry_2_win": 0,
-                        "entry_2_draw": 0,
-                        "entry_2_loss": 0,
-                        "entry_2_total": 0,
-                        "is_knockout": true,
-                        "winner": null,
-                        "seed_value": null,
-                        "event": 18,
-                        "tiebreak": null
-                    },
-                    {
-                        "id": 44073133,
-                        "entry_1_entry": 2885194,
-                        "entry_1_name": "Lamfu",
-                        "entry_1_player_name": "Unique Lamsal",
-                        "entry_1_points": 40,
+                        "id": 47168212,
+                        "entry_1_entry": 5585891,
+                        "entry_1_name": "Saif",
+                        "entry_1_player_name": "Ishan Gautam",
+                        "entry_1_points": 51,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -607,7 +638,31 @@
                         "entry_2_entry": 158159,
                         "entry_2_name": "Li's Legendz",
                         "entry_2_player_name": "Dan Li",
-                        "entry_2_points": 69,
+                        "entry_2_points": 80,
+                        "entry_2_win": 0,
+                        "entry_2_draw": 0,
+                        "entry_2_loss": 0,
+                        "entry_2_total": 0,
+                        "is_knockout": true,
+                        "winner": null,
+                        "seed_value": null,
+                        "event": 19,
+                        "tiebreak": null
+                    },
+                    {
+                        "id": 46355868,
+                        "entry_1_entry": 158159,
+                        "entry_1_name": "Li's Legendz",
+                        "entry_1_player_name": "Dan Li",
+                        "entry_1_points": 51,
+                        "entry_1_win": 0,
+                        "entry_1_draw": 0,
+                        "entry_1_loss": 0,
+                        "entry_1_total": 0,
+                        "entry_2_entry": 7635455,
+                        "entry_2_name": "Dimitris do",
+                        "entry_2_player_name": "dimitris do",
+                        "entry_2_points": 18,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
@@ -615,7 +670,7 @@
                         "is_knockout": true,
                         "winner": 158159,
                         "seed_value": null,
-                        "event": 17,
+                        "event": 18,
                         "tiebreak": null
                     }
                 ],
@@ -624,13 +679,14 @@
                     "qualification_numbers": 4194304,
                     "qualification_rank": 2944127,
                     "qualification_state": "QUALIFIED"
-                }
+                },
+                "cup_league": 315
             }
         },
         "name": "Li's Legendz",
         "kit": "{\"kit_shirt_type\":\"stripes\",\"kit_shirt_base\":\"#7bc9af\",\"kit_shirt_sleeves\":\"#5b6363\",\"kit_shirt_secondary\":\"#ff8f8f\",\"kit_shirt_logo\":\"sky-ocean-rescue\",\"kit_shorts\":\"#f8cdcd\",\"kit_socks_type\":\"hoops\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#dda5a5\"}",
-        "last_deadline_bank": 0,
-        "last_deadline_value": 1033,
-        "last_deadline_total_transfers": 19
+        "last_deadline_bank": 4,
+        "last_deadline_value": 1030,
+        "last_deadline_total_transfers": 22
     }
 ]
