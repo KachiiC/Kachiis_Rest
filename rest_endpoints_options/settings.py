@@ -83,7 +83,11 @@ AUTH_PASSWORD_VALIDATORS = [
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
-        'LOCATION': '127.0.0.1:11211',
+        'LOCATION': os.environ.get('MEMCACHEDCLOUD_SERVERS').split(','),
+        'OPTIONS': {
+            'username': os.environ.get('MEMCACHEDCLOUD_USERNAME'),
+            'password': os.environ.get('MEMCACHEDCLOUD_PASSWORD')
+        }
     }
 }
 
