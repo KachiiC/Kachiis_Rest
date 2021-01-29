@@ -19,13 +19,12 @@ def create_fpl_data(data_location):
             ).save()
 
         for chip in data[0]["chips"]:
-
             if chip["name"] == "3xc":
                 output = "Triple Captain"
             elif chip["name"] == "bboost":
                 output = "Bench Boost"
             elif chip["name"] == "freehit":
-                output = "Free hit"
+                output = "Free Hit"
             elif chip["name"] == "wildcard":
                 output = "Wild Card"
 
