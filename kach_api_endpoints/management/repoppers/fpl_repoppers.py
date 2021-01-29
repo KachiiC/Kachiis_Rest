@@ -19,9 +19,19 @@ def create_fpl_data(data_location):
             ).save()
 
         for chip in data[0]["chips"]:
+
+            if chip["name"] == "3xc":
+                output = "Triple Captain"
+            elif chip["name"] == "bboost":
+                output = "Bench Boost"
+            elif chip["name"] == "freehit":
+                output = "Free hit"
+            elif chip["name"] == "wildcard":
+                output = "Wild Card"
+
             Chip(
                 chip_owner=data[1]["player_first_name"],
-                chip_name=chip["name"],
+                chip_name=output,
                 chip_date=chip["time"],
                 chip_matchday=chip["event"]
             ).save()
@@ -33,4 +43,3 @@ def create_fpl_data(data_location):
             transfers_total=data[1]["last_deadline_total_transfers"],
             current_gameweek=data[1]["current_event"]
         ).save()
-
