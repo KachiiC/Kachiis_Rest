@@ -1,5 +1,5 @@
 import json
-from kach_api_endpoints.api_list.fpl_api.fpl_model import MatchDay, Player
+from kach_api_endpoints.api_list.fpl_api.fpl_model import MatchDay, Player, Chip
 
 
 def create_fpl_data(data_location):
@@ -18,6 +18,14 @@ def create_fpl_data(data_location):
                 bench_points=match["points_on_bench"]
             ).save()
 
+        for chip in data[0]["chips"]:
+            Chip(
+                chip_owner=data[1]["player_first_name"],
+                chip_name=chip["name"],
+                chip_date=chip["time"],
+                chip_matchday=chip["event"]
+            ).save()
+
         Player(
             player_id=data[1]["id"],
             player_name=data[1]["player_first_name"],
@@ -25,3 +33,4 @@ def create_fpl_data(data_location):
             transfers_total=data[1]["last_deadline_total_transfers"],
             current_gameweek=data[1]["current_event"]
         ).save()
+

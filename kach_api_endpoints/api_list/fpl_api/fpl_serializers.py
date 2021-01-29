@@ -1,12 +1,11 @@
 from rest_framework import serializers
-from .fpl_model import MatchDay, Player
+from .fpl_model import MatchDay, Player, Chip
 
 
 class MatchDaySerializer(serializers.ModelSerializer):
     class Meta:
         model = MatchDay
         fields = [
-            'player_id',
             'gameweek',
             'game_week_points',
             'points_total',
@@ -17,8 +16,19 @@ class MatchDaySerializer(serializers.ModelSerializer):
         ]
 
 
+class ChipSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Chip
+        fields = [
+            "chip_name",
+            "chip_date",
+            "chip_matchday"
+        ]
+
+
 class PlayerSerializer(serializers.ModelSerializer):
     matches = MatchDaySerializer(many=True, read_only=True)
+    chips = ChipSerializer(many=True, read_only=True)
 
     class Meta:
         model = Player
@@ -28,5 +38,6 @@ class PlayerSerializer(serializers.ModelSerializer):
             'points_total',
             'transfers_total',
             'current_gameweek',
+            'chips',
             'matches'
         ]

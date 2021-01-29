@@ -239,14 +239,27 @@
                 "event": 19,
                 "points": 126,
                 "total_points": 1186,
-                "rank": 59101,
-                "rank_sort": 59850,
-                "overall_rank": 90724,
+                "rank": 116343,
+                "rank_sort": 117720,
+                "overall_rank": 116455,
                 "bank": 3,
                 "value": 1034,
                 "event_transfers": 2,
                 "event_transfers_cost": 4,
                 "points_on_bench": 7
+            },
+            {
+                "event": 20,
+                "points": 54,
+                "total_points": 1240,
+                "rank": 1463866,
+                "rank_sort": 1476522,
+                "overall_rank": 99107,
+                "bank": 65,
+                "value": 1037,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 18
             }
         ],
         "past": [
@@ -280,11 +293,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 1186,
-        "summary_overall_rank": 90724,
-        "summary_event_points": 126,
-        "summary_event_rank": 59101,
-        "current_event": 19,
+        "summary_overall_points": 1240,
+        "summary_overall_rank": 99107,
+        "summary_event_points": 54,
+        "summary_event_rank": 1463866,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -305,8 +318,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 17569,
-                    "entry_last_rank": 48989
+                    "entry_rank": 18850,
+                    "entry_last_rank": 22501
                 },
                 {
                     "id": 261,
@@ -326,8 +339,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 26736,
-                    "entry_last_rank": 72947
+                    "entry_rank": 29418,
+                    "entry_last_rank": 33933
                 },
                 {
                     "id": 276,
@@ -347,8 +360,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 90603,
-                    "entry_last_rank": 263533
+                    "entry_rank": 98937,
+                    "entry_last_rank": 116268
                 },
                 {
                     "id": 314,
@@ -368,8 +381,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": true,
-                    "entry_rank": 90724,
-                    "entry_last_rank": 264362
+                    "entry_rank": 99107,
+                    "entry_last_rank": 116455
                 },
                 {
                     "id": 497,
@@ -389,8 +402,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 1761,
-                    "entry_last_rank": 4020
+                    "entry_rank": 1955,
+                    "entry_last_rank": 2172
                 },
                 {
                     "id": 357383,
@@ -431,8 +444,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 2,
-                    "entry_last_rank": 4
+                    "entry_rank": 3,
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 526287,
@@ -494,7 +507,7 @@
                         "entry_1_loss": 0,
                         "entry_1_total": 0,
                         "entry_2_entry": 4017259,
-                        "entry_2_name": "Your Mas Zohore",
+                        "entry_2_name": "CHANGE NAME",
                         "entry_2_player_name": "James Hanlon",
                         "entry_2_points": 57,
                         "entry_2_win": 0,
@@ -519,8 +532,8 @@
         },
         "name": "Don’t stop de Beek",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 3,
-        "last_deadline_value": 1034,
-        "last_deadline_total_transfers": 25
+        "last_deadline_bank": 65,
+        "last_deadline_value": 1037,
+        "last_deadline_total_transfers": 26
     }
 ]

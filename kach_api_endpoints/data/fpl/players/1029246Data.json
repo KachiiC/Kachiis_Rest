@@ -237,16 +237,29 @@
             },
             {
                 "event": 19,
-                "points": 79,
-                "total_points": 977,
-                "rank": 1801065,
-                "rank_sort": 1804726,
-                "overall_rank": 2875921,
+                "points": 93,
+                "total_points": 991,
+                "rank": 1421889,
+                "rank_sort": 1425257,
+                "overall_rank": 2806102,
                 "bank": 67,
                 "value": 1021,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 16
+            },
+            {
+                "event": 20,
+                "points": 57,
+                "total_points": 1048,
+                "rank": 1095113,
+                "rank_sort": 1100552,
+                "overall_rank": 2500439,
+                "bank": 88,
+                "value": 1021,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 8
             }
         ],
         "past": [
@@ -300,11 +313,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 977,
-        "summary_overall_rank": 2875921,
-        "summary_event_points": 79,
-        "summary_event_rank": 1801065,
-        "current_event": 19,
+        "summary_overall_points": 1048,
+        "summary_overall_rank": 2500439,
+        "summary_event_points": 57,
+        "summary_event_rank": 1095113,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -325,8 +338,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 870625,
-                    "entry_last_rank": 953785
+                    "entry_rank": 757615,
+                    "entry_last_rank": 847498
                 },
                 {
                     "id": 276,
@@ -346,8 +359,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 2762150,
-                    "entry_last_rank": 3030779
+                    "entry_rank": 2420015,
+                    "entry_last_rank": 2698639
                 },
                 {
                     "id": 314,
@@ -367,8 +380,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": true,
-                    "entry_rank": 2875921,
-                    "entry_last_rank": 3178294
+                    "entry_rank": 2500439,
+                    "entry_last_rank": 2806102
                 },
                 {
                     "id": 357383,
@@ -389,7 +402,7 @@
                     "cup_league": null,
                     "cup_qualified": null,
                     "entry_rank": 6,
-                    "entry_last_rank": 9
+                    "entry_last_rank": 6
                 }
             ],
             "h2h": [],
@@ -431,8 +444,8 @@
         },
         "name": "We Are Coders",
         "kit": null,
-        "last_deadline_bank": 67,
+        "last_deadline_bank": 88,
         "last_deadline_value": 1021,
-        "last_deadline_total_transfers": 15
+        "last_deadline_total_transfers": 16
     }
 ]

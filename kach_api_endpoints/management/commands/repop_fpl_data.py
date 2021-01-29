@@ -2,7 +2,7 @@ import requests
 from django.core.management.base import BaseCommand
 import json
 import os
-from kach_api_endpoints.api_list.fpl_api.fpl_model import MatchDay, Player
+from kach_api_endpoints.api_list.fpl_api.fpl_model import MatchDay, Player, Chip
 from kach_api_endpoints.management.repoppers.fpl_repoppers import create_fpl_data
 
 league_id = 357383  # Insert League Id HERE
@@ -50,11 +50,18 @@ class Command(BaseCommand):
 
         match_days = MatchDay.objects.all()
         players_list = Player.objects.all()
+        all_chips = Chip.objects.all()
 
         for match in match_days:
             for player in players_list:
                 if match.player_id == player.player_id:
                     correct_player = Player.objects.get(player_id=match.player_id)
                     correct_player.matches.add(match)
+
+        for chip in all_chips:
+            for player in players_list:
+                if chip.chip_owner == player.player_name:
+                    correct_player = Player.objects.get(player_name=chip.chip_owner)
+                    correct_player.chips.add(chip)
 
         print("Repop successful!")

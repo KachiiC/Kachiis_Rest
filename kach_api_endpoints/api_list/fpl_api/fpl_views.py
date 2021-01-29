@@ -1,10 +1,8 @@
-from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from rest_framework import status
 from .fpl_model import Player, MatchDay
 from .fpl_serializers import PlayerSerializer, MatchDaySerializer
 import requests
-from django.core.management.base import BaseCommand
 import json
 import os
 from kach_api_endpoints.management.repoppers.fpl_repoppers import create_fpl_data
@@ -22,7 +20,7 @@ ENDPOINT_URL = "https://fantasy.premierleague.com/api"
 
 class FplApiView(views.APIView):
 
-    @method_decorator(cache_page(60 * 60 * 24 * 7))
+    @method_decorator(cache_page(60 * 60 * 6))
     def get(self, request):
         league_response = requests.get(f"{ENDPOINT_URL}/leagues-classic/{league_id}/standings/").json()
 
@@ -81,13 +79,13 @@ def players_list(request):
 
 
 @api_view(['GET'])
-def player_stats(request, player_id):
+def player_stats(request, player_name):
     try:
-        player = Player.objects.get(player_id=player_id)
+        player = Player.objects.get(player_name=player_name.capitalize())
     except Player.DoesNotExist:
         return Response(status=status.HTTP_404_NOT_FOUND)
 
-    serializer = MatchDaySerializer(player, context={'request': request})
+    serializer = PlayerSerializer(player, context={'request': request})
 
     return Response(serializer.data)
 

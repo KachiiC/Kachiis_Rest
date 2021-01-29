@@ -237,16 +237,29 @@
             },
             {
                 "event": 19,
-                "points": 66,
-                "total_points": 973,
-                "rank": 3252295,
-                "rank_sort": 3256241,
-                "overall_rank": 2962020,
+                "points": 76,
+                "total_points": 983,
+                "rank": 3425248,
+                "rank_sort": 3429425,
+                "overall_rank": 2972741,
                 "bank": 0,
                 "value": 1002,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 2
+            },
+            {
+                "event": 20,
+                "points": 46,
+                "total_points": 1029,
+                "rank": 2840957,
+                "rank_sort": 2848593,
+                "overall_rank": 2878064,
+                "bank": 1,
+                "value": 1001,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
             }
         ],
         "past": [
@@ -295,11 +308,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 973,
-        "summary_overall_rank": 2962020,
-        "summary_event_points": 66,
-        "summary_event_rank": 3252295,
-        "current_event": 19,
+        "summary_overall_points": 1029,
+        "summary_overall_rank": 2878064,
+        "summary_event_points": 46,
+        "summary_event_rank": 2840957,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -320,8 +333,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 897236,
-                    "entry_last_rank": 895743
+                    "entry_rank": 874777,
+                    "entry_last_rank": 899222
                 },
                 {
                     "id": 276,
@@ -341,8 +354,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 2839447,
-                    "entry_last_rank": 2865072
+                    "entry_rank": 2764786,
+                    "entry_last_rank": 2848422
                 },
                 {
                     "id": 314,
@@ -362,8 +375,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": true,
-                    "entry_rank": 2962020,
-                    "entry_last_rank": 2991728
+                    "entry_rank": 2878064,
+                    "entry_last_rank": 2972741
                 },
                 {
                     "id": 33924,
@@ -383,8 +396,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 35648,
-                    "entry_last_rank": 35441
+                    "entry_rank": 35047,
+                    "entry_last_rank": 35764
                 },
                 {
                     "id": 357309,
@@ -426,7 +439,7 @@
                     "cup_league": null,
                     "cup_qualified": null,
                     "entry_rank": 4,
-                    "entry_last_rank": 5
+                    "entry_last_rank": 4
                 },
                 {
                     "id": 357383,
@@ -446,7 +459,7 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 7,
+                    "entry_rank": 8,
                     "entry_last_rank": 8
                 },
                 {
@@ -510,8 +523,8 @@
         },
         "name": "RetirementHomeMyA$$",
         "kit": null,
-        "last_deadline_bank": 0,
-        "last_deadline_value": 1002,
-        "last_deadline_total_transfers": 23
+        "last_deadline_bank": 1,
+        "last_deadline_value": 1001,
+        "last_deadline_total_transfers": 24
     }
 ]

@@ -237,16 +237,29 @@
             },
             {
                 "event": 19,
-                "points": 80,
-                "total_points": 1056,
-                "rank": 1747237,
-                "rank_sort": 1747616,
-                "overall_rank": 1386670,
+                "points": 94,
+                "total_points": 1070,
+                "rank": 1370442,
+                "rank_sort": 1370889,
+                "overall_rank": 1307088,
                 "bank": 1,
                 "value": 1035,
                 "event_transfers": 3,
                 "event_transfers_cost": 8,
                 "points_on_bench": 2
+            },
+            {
+                "event": 20,
+                "points": 46,
+                "total_points": 1112,
+                "rank": 2878329,
+                "rank_sort": 2879850,
+                "overall_rank": 1338727,
+                "bank": 7,
+                "value": 1038,
+                "event_transfers": 2,
+                "event_transfers_cost": 4,
+                "points_on_bench": 1
             }
         ],
         "past": [
@@ -320,11 +333,11 @@
         "player_region_name": "Hong Kong",
         "player_region_iso_code_short": "HK",
         "player_region_iso_code_long": "HKG",
-        "summary_overall_points": 1056,
-        "summary_overall_rank": 1386670,
-        "summary_event_points": 80,
-        "summary_event_rank": 1747237,
-        "current_event": 19,
+        "summary_overall_points": 1112,
+        "summary_overall_rank": 1338727,
+        "summary_event_points": 46,
+        "summary_event_rank": 2878329,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -345,8 +358,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 7725,
-                    "entry_last_rank": 7424
+                    "entry_rank": 7415,
+                    "entry_last_rank": 7322
                 },
                 {
                     "id": 276,
@@ -366,8 +379,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 1365745,
-                    "entry_last_rank": 1325580
+                    "entry_rank": 1319098,
+                    "entry_last_rank": 1288598
                 },
                 {
                     "id": 314,
@@ -387,8 +400,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": true,
-                    "entry_rank": 1386670,
-                    "entry_last_rank": 1345752
+                    "entry_rank": 1338727,
+                    "entry_last_rank": 1307088
                 },
                 {
                     "id": 341527,
@@ -409,7 +422,7 @@
                     "cup_league": null,
                     "cup_qualified": null,
                     "entry_rank": 3,
-                    "entry_last_rank": 4
+                    "entry_last_rank": 3
                 },
                 {
                     "id": 357383,
@@ -451,7 +464,7 @@
                     "cup_league": null,
                     "cup_qualified": null,
                     "entry_rank": 53,
-                    "entry_last_rank": 54
+                    "entry_last_rank": 53
                 },
                 {
                     "id": 500241,
@@ -493,7 +506,7 @@
                     "cup_league": null,
                     "cup_qualified": null,
                     "entry_rank": 2,
-                    "entry_last_rank": 1
+                    "entry_last_rank": 2
                 },
                 {
                     "id": 1185557,
@@ -602,8 +615,8 @@
         },
         "name": "Alli or Nussing",
         "kit": "{\"kit_shirt_type\":\"plain\",\"kit_shirt_base\":\"#E1E1E1\",\"kit_shirt_sleeves\":\"#E1E1E1\",\"kit_shirt_secondary\":\"#E1E1E1\",\"kit_shirt_logo\":\"none\",\"kit_shorts\":\"#E1E1E1\",\"kit_socks_type\":\"plain\",\"kit_socks_base\":\"#E1E1E1\",\"kit_socks_secondary\":\"#E1E1E1\"}",
-        "last_deadline_bank": 1,
-        "last_deadline_value": 1035,
-        "last_deadline_total_transfers": 25
+        "last_deadline_bank": 7,
+        "last_deadline_value": 1038,
+        "last_deadline_total_transfers": 27
     }
 ]

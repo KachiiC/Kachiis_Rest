@@ -237,16 +237,29 @@
             },
             {
                 "event": 19,
-                "points": 41,
-                "total_points": 972,
-                "rank": 6756800,
-                "rank_sort": 6794831,
-                "overall_rank": 2970968,
+                "points": 57,
+                "total_points": 988,
+                "rank": 6278627,
+                "rank_sort": 6324845,
+                "overall_rank": 2862492,
                 "bank": 0,
                 "value": 1005,
                 "event_transfers": 0,
                 "event_transfers_cost": 0,
-                "points_on_bench": 7
+                "points_on_bench": 5
+            },
+            {
+                "event": 20,
+                "points": 51,
+                "total_points": 1039,
+                "rank": 1942222,
+                "rank_sort": 1962761,
+                "overall_rank": 2673247,
+                "bank": 27,
+                "value": 1004,
+                "event_transfers": 2,
+                "event_transfers_cost": 0,
+                "points_on_bench": 3
             }
         ],
         "past": [
@@ -275,11 +288,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 972,
-        "summary_overall_rank": 2970968,
-        "summary_event_points": 41,
-        "summary_event_rank": 6756800,
-        "current_event": 19,
+        "summary_overall_points": 1039,
+        "summary_overall_rank": 2673247,
+        "summary_event_points": 51,
+        "summary_event_rank": 1942222,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -300,8 +313,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 205174,
-                    "entry_last_rank": 168233
+                    "entry_rank": 188342,
+                    "entry_last_rank": 199025
                 },
                 {
                     "id": 261,
@@ -321,8 +334,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 899762,
-                    "entry_last_rank": 726907
+                    "entry_rank": 811002,
+                    "entry_last_rank": 864931
                 },
                 {
                     "id": 276,
@@ -342,8 +355,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 2847494,
-                    "entry_last_rank": 2372477
+                    "entry_rank": 2578821,
+                    "entry_last_rank": 2749627
                 },
                 {
                     "id": 314,
@@ -363,8 +376,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": false,
-                    "entry_rank": 2970968,
-                    "entry_last_rank": 2449912
+                    "entry_rank": 2673247,
+                    "entry_last_rank": 2862492
                 },
                 {
                     "id": 357383,
@@ -384,8 +397,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 8,
-                    "entry_last_rank": 6
+                    "entry_rank": 7,
+                    "entry_last_rank": 7
                 },
                 {
                     "id": 1173129,
@@ -487,8 +500,8 @@
         },
         "name": "SHIRLEY",
         "kit": null,
-        "last_deadline_bank": 0,
-        "last_deadline_value": 1005,
-        "last_deadline_total_transfers": 11
+        "last_deadline_bank": 27,
+        "last_deadline_value": 1004,
+        "last_deadline_total_transfers": 13
     }
 ]

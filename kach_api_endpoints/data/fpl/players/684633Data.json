@@ -237,16 +237,29 @@
             },
             {
                 "event": 19,
-                "points": 104,
-                "total_points": 1214,
-                "rank": 413463,
-                "rank_sort": 414374,
-                "overall_rank": 31698,
+                "points": 116,
+                "total_points": 1226,
+                "rank": 285452,
+                "rank_sort": 286209,
+                "overall_rank": 26203,
                 "bank": 0,
                 "value": 1032,
                 "event_transfers": 1,
                 "event_transfers_cost": 0,
                 "points_on_bench": 7
+            },
+            {
+                "event": 20,
+                "points": 39,
+                "total_points": 1265,
+                "rank": 4458447,
+                "rank_sort": 4463620,
+                "overall_rank": 41147,
+                "bank": 25,
+                "value": 1035,
+                "event_transfers": 1,
+                "event_transfers_cost": 0,
+                "points_on_bench": 28
             }
         ],
         "past": [
@@ -310,11 +323,11 @@
         "player_region_name": "England",
         "player_region_iso_code_short": "EN",
         "player_region_iso_code_long": "ENG",
-        "summary_overall_points": 1214,
-        "summary_overall_rank": 31698,
-        "summary_event_points": 104,
-        "summary_event_rank": 413463,
-        "current_event": 19,
+        "summary_overall_points": 1265,
+        "summary_overall_rank": 41147,
+        "summary_event_points": 39,
+        "summary_event_rank": 4458447,
+        "current_event": 20,
         "leagues": {
             "classic": [
                 {
@@ -335,8 +348,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 9166,
-                    "entry_last_rank": 14283
+                    "entry_rank": 12063,
+                    "entry_last_rank": 7486
                 },
                 {
                     "id": 276,
@@ -356,8 +369,8 @@
                     "has_cup": false,
                     "cup_league": null,
                     "cup_qualified": null,
-                    "entry_rank": 31672,
-                    "entry_last_rank": 53483
+                    "entry_rank": 41112,
+                    "entry_last_rank": 26186
                 },
                 {
                     "id": 314,
@@ -377,8 +390,8 @@
                     "has_cup": true,
                     "cup_league": 315,
                     "cup_qualified": true,
-                    "entry_rank": 31698,
-                    "entry_last_rank": 53534
+                    "entry_rank": 41147,
+                    "entry_last_rank": 26203
                 },
                 {
                     "id": 357383,
@@ -406,11 +419,11 @@
             "cup": {
                 "matches": [
                     {
-                        "id": 47234704,
-                        "entry_1_entry": 109960,
-                        "entry_1_name": "Ziggys Starman",
-                        "entry_1_player_name": "Bob Wallis",
-                        "entry_1_points": 102,
+                        "id": 47889766,
+                        "entry_1_entry": 1958723,
+                        "entry_1_name": "HardlyAthletic",
+                        "entry_1_player_name": "Hamza Azam",
+                        "entry_1_points": 44,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -418,23 +431,23 @@
                         "entry_2_entry": 684633,
                         "entry_2_name": "6th attempt to win",
                         "entry_2_player_name": "Kacheok Cheong",
-                        "entry_2_points": 104,
+                        "entry_2_points": 39,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
                         "entry_2_total": 0,
                         "is_knockout": true,
-                        "winner": null,
+                        "winner": 1958723,
                         "seed_value": null,
-                        "event": 19,
+                        "event": 20,
                         "tiebreak": null
                     },
                     {
-                        "id": 45872566,
-                        "entry_1_entry": 4851271,
-                        "entry_1_name": "F.C Majestic",
-                        "entry_1_player_name": "Abdessamad Ahlimine",
-                        "entry_1_points": 28,
+                        "id": 47234704,
+                        "entry_1_entry": 109960,
+                        "entry_1_name": "Ziggys Starman",
+                        "entry_1_player_name": "Bob Wallis",
+                        "entry_1_points": 108,
                         "entry_1_win": 0,
                         "entry_1_draw": 0,
                         "entry_1_loss": 0,
@@ -442,7 +455,7 @@
                         "entry_2_entry": 684633,
                         "entry_2_name": "6th attempt to win",
                         "entry_2_player_name": "Kacheok Cheong",
-                        "entry_2_points": 61,
+                        "entry_2_points": 116,
                         "entry_2_win": 0,
                         "entry_2_draw": 0,
                         "entry_2_loss": 0,
@@ -450,7 +463,7 @@
                         "is_knockout": true,
                         "winner": 684633,
                         "seed_value": null,
-                        "event": 18,
+                        "event": 19,
                         "tiebreak": null
                     }
                 ],
@@ -465,8 +478,8 @@
         },
         "name": "6th attempt to win",
         "kit": null,
-        "last_deadline_bank": 0,
-        "last_deadline_value": 1032,
-        "last_deadline_total_transfers": 18
+        "last_deadline_bank": 25,
+        "last_deadline_value": 1035,
+        "last_deadline_total_transfers": 19
     }
 ]

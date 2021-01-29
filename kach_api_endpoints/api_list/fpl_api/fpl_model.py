@@ -20,3 +20,11 @@ class Player(models.Model):
     transfers_total = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(570)])
     current_gameweek = models.IntegerField(validators=[MinValueValidator(1), MaxValueValidator(38)])
     matches = models.ManyToManyField('MatchDay', blank=True)
+    chips = models.ManyToManyField('Chip', blank=True)
+
+
+class Chip(models.Model):
+    chip_owner = models.CharField(max_length=150)
+    chip_name = models.CharField(max_length=150)
+    chip_date = models.DateTimeField()
+    chip_matchday = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(38)])
