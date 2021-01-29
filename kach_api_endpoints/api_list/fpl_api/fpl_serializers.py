@@ -17,6 +17,9 @@ class MatchDaySerializer(serializers.ModelSerializer):
 
 
 class ChipSerializer(serializers.ModelSerializer):
+
+    chip_date = serializers.DateTimeField("%d/%m/%Y")
+
     class Meta:
         model = Chip
         fields = [

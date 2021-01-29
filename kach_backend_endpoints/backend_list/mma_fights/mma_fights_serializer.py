@@ -2,7 +2,6 @@ from rest_framework import serializers
 from kach_backend_endpoints.backend_list.mma_fights.mma_fights_model import Fight
 
 
-
 class FightSerializer(serializers.ModelSerializer):
     class Meta:
         model = Fight

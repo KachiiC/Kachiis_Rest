@@ -1,6 +1,6 @@
 from rest_framework.decorators import api_view
 from rest_framework import status
-from .fpl_model import Player, MatchDay
+from .fpl_model import Player, MatchDay, Chip
 from .fpl_serializers import PlayerSerializer, MatchDaySerializer
 import requests
 import json
@@ -46,6 +46,7 @@ class FplApiView(views.APIView):
 
         MatchDay.objects.all().delete()
         Player.objects.all().delete()
+        Chip.objects.all().delete()
 
         print("Repopping player and match data...")
 
@@ -57,12 +58,19 @@ class FplApiView(views.APIView):
 
         match_days = MatchDay.objects.all()
         players_list = Player.objects.all()
+        all_chips = Chip.objects.all()
 
         for match in match_days:
             for player in players_list:
                 if match.player_id == player.player_id:
                     correct_player = Player.objects.get(player_id=match.player_id)
                     correct_player.matches.add(match)
+
+        for chip in all_chips:
+            for player in players_list:
+                if chip.chip_owner == player.player_name:
+                    correct_player = Player.objects.get(player_name=chip.chip_owner)
+                    correct_player.chips.add(chip)
 
         serializer = PlayerSerializer(players_list, context={'request': request}, many=True)
 

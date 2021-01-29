@@ -39,6 +39,7 @@ class Command(BaseCommand):
 
         MatchDay.objects.all().delete()
         Player.objects.all().delete()
+        Chip.objects.all().delete()
 
         print("Repopping player and match data...")
 
