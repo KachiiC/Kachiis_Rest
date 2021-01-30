@@ -12,9 +12,7 @@ from .youtube_model import YoutubeVideo, YoutubePlaylist
 
 OUTFILE_LOCATION = os.getcwd() + "/kach_api_endpoints/data/youtube/cache_playlist/playlistData.json"
 
-DATA_ENDPOINT_URL = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=" \
-                    "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5&key=AIzaSyAC-vA8irZClKOO8zVMv4wyF3URfTe6HMA&part=" \
-                    "snippet,id&order=date&maxResults=20 "
+DATA_ENDPOINT_URL = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5&key=AIzaSyAC-vA8irZClKOO8zVMv4wyF3URfTe6HMA&part=snippet,id&order=date&maxResults=20"
 
 
 class YoutubeApiView(views.APIView):
