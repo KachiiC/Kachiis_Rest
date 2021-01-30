@@ -5,7 +5,9 @@ from .api_list.youtube_api.youtube_views import \
     single_youtube_video, \
     youtube_playlist, \
     youtube_videos_list, \
-    single_youtube_playlist, YoutubeApiView
+    single_youtube_playlist, \
+    YoutubeApiView, \
+    YoutubeFeaturedVideoApiView
 from .api_list.instagram_api.instagram_views import instagram_posts_list, InstagramPostApiView
 
 urlpatterns = [
@@ -15,8 +17,9 @@ urlpatterns = [
     path("fpl_players_refresh/", FplApiView.as_view(), name="fpl_players_refresh"),
     path("fpl_players/<str:player_name>", player_stats, name="fpl_players_stats"),
     # Youtube API
-    path("youtube_videos_refresh/", YoutubeApiView.as_view(), name="youtube_videos_refresh"),
     path("youtube_videos/", youtube_videos_list, name="youtube_videos"),
+    path("youtube_videos_refresh/", YoutubeApiView.as_view(), name="youtube_videos_refresh"),
+    path("youtube_featured_video/", YoutubeFeaturedVideoApiView.as_view(), name="youtube_featured_video"),
     path("youtube_videos/<str:video_id>/", single_youtube_video, name="single_youtube_video"),
     path("youtube_playlists/", youtube_playlist, name="youtube_playlists"),
     path('youtube_playlists/<str:playlist_id>/', single_youtube_playlist, name="single_youtube_playlist"),

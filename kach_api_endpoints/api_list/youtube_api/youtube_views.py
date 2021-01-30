@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import random
 from kach_api_endpoints.management.repoppers.youtube_video_repoppers import create_new_youtube_videos
 from rest_framework import views
 from rest_framework import status
@@ -106,3 +107,14 @@ def single_youtube_playlist(request, playlist_id):
     serializer = YoutubePlaylistSerializer(playlist, context={'request': request})
 
     return Response(serializer.data)
+
+
+class YoutubeFeaturedVideoApiView(views.APIView):
+    @method_decorator(cache_page(60 * 60 * 24))
+    def get(self, request):
+        playlist_videos = YoutubeVideo.objects.all()
+        random_video = random.choice(playlist_videos)
+
+        serializer = YoutubeVideoSerializer(random_video, context={'request': request})
+
+        return Response(serializer.data)
