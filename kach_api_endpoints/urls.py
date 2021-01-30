@@ -5,9 +5,8 @@ from .api_list.youtube_api.youtube_views import \
     single_youtube_video, \
     youtube_playlist, \
     youtube_videos_list, \
-    single_youtube_playlist, \
-    YoutubeApiView, \
-    YoutubeFeaturedVideoApiView
+    single_youtube_playlist
+from .api_list.youtube_api.youtube_cache_view import YoutubeApiView, YoutubeFeaturedVideoApiView
 from .api_list.instagram_api.instagram_views import instagram_posts_list, InstagramPostApiView
 
 urlpatterns = [
