@@ -1,14 +1,6 @@
-import os
-import json
-import requests
-import random
-from kach_api_endpoints.management.repoppers.youtube_video_repoppers import create_new_youtube_videos
-from rest_framework import views
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from django.utils.decorators import method_decorator
-from django.views.decorators.cache import cache_page
 from .youtube_serializer import YoutubeVideoSerializer, YoutubePlaylistSerializer
 from .youtube_model import YoutubeVideo, YoutubePlaylist
 

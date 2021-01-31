@@ -1,10 +1,10 @@
+import requests
+import json
+import os
 from rest_framework.decorators import api_view
 from rest_framework import status
 from .fpl_model import Player, MatchDay, Chip
 from .fpl_serializers import PlayerSerializer, MatchDaySerializer
-import requests
-import json
-import os
 from kach_api_endpoints.management.repoppers.fpl_repoppers import create_fpl_data
 from rest_framework import views
 from rest_framework.response import Response
