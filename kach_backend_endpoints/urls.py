@@ -5,6 +5,7 @@ from .backend_list.mma_dictionary.mma_dictionary_view import mma_dictionary_list
 from .backend_list.mma_techniques.mma_techniques_view import mma_techniques_list
 from .backend_list.mma_fighters.mma_fighter_view import mma_fighter_list
 from .backend_list.mma_fights.mma_fights_view import mma_fights_list
+from .backend_list.mma_divisions.mma_divisions_view import mma_divisions_list
 
 urlpatterns = [
     # HSK
@@ -22,4 +23,6 @@ urlpatterns = [
     path('mma_fighters_list/', mma_fighter_list, name="mma_fighter_list"),
     # MMA Fights List
     path('mma_fights_list/', mma_fights_list, name="mma_fights_list"),
+    # MMA Divisions
+    path('mma_divisions_list/', mma_divisions_list, name="mma_divisions_list")
 ]

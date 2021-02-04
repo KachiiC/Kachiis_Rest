@@ -5,6 +5,7 @@ from .backend_list.mma_dictionary.mma_dictionary_model import Dictionary
 from .backend_list.mma_techniques.mma_techniques_model import Technique
 from .backend_list.mma_fighters.mma_fighter_model import Fighter
 from .backend_list.mma_fights.mma_fights_model import Fight
+from .backend_list.mma_divisions.mma_divisions_model import Division
 
 admin.site.register(Word)  # HSK Word
 admin.site.register(HSKLevel)  # HSK Level
@@ -13,3 +14,4 @@ admin.site.register(Dictionary)  # Dictionary
 admin.site.register(Technique)  # Technique
 admin.site.register(Fighter)  # Fighter
 admin.site.register(Fight)  # Fight
+admin.site.register(Division)  # Division
