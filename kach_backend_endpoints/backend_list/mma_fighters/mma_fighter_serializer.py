@@ -20,31 +20,33 @@ class WinSerializer(serializers.ModelSerializer):
 
 
 class FighterSerializer(serializers.ModelSerializer):
-    notable_wins = WinSerializer(many=True, read_only=True)
+    # notable_wins = WinSerializer(many=True, read_only=True)
 
     class Meta:
         model = Fighter
         fields = [
             "first_name",
             "last_name",
-            "nickname",
-            "status",
-            "date_of_birth",
-            "promotion",
             "rank",
-            "height",
-            "reach",
+            "is_champion",
             "weight_class",
-            "style",
-            "wins",
-            "losses",
-            "draws",
-            "no_contests",
-            "wins_via_knockout",
-            "wins_via_submission",
-            "wins_via_decision",
-            "losses_via_knockout",
-            "losses_via_submission",
-            "losses_via_decision",
-            "notable_wins",
+            # "nickname",
+            # "status",
+            # "date_of_birth",
+            # "promotion",
+            # "rank",
+            # "height",
+            # "reach",
+            # "style",
+            # "wins",
+            # "losses",
+            # "draws",
+            # "no_contests",
+            # "wins_via_knockout",
+            # "wins_via_submission",
+            # "wins_via_decision",
+            # "losses_via_knockout",
+            # "losses_via_submission",
+            # "losses_via_decision",
+            # "notable_wins",
         ]
