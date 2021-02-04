@@ -38,9 +38,9 @@ def youtube_playlist(request):
 
 
 @api_view(['GET'])
-def single_youtube_playlist(request, playlist_id):
+def single_youtube_playlist(request, playlist_name):
     try:
-        playlist = YoutubePlaylist.objects.get(playlist_id=playlist_id)
+        playlist = YoutubePlaylist.objects.get(playlist_name=playlist_name)
     except YoutubePlaylist.DoesNotExist:
         return Response(status=status.HTTP_404_NOT_FOUND)
 

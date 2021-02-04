@@ -8,7 +8,7 @@ from kach_api_endpoints.management.repoppers.youtube_video_repoppers import crea
 
 OUTFILE_LOCATION = os.getcwd() + "/kach_api_endpoints/data/youtube"
 
-DATA_ENDPOINT_URL = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId={}&key=AIzaSyAC-vA8irZClKOO8zVMv4wyF3URfTe6HMA&part=snippet,id&order=date&maxResults=20"
+DATA_ENDPOINT_URL = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId={}&key=AIzaSyAC-vA8irZClKOO8zVMv4wyF3URfTe6HMA&part=snippet,id&order=date&maxResults=55"
 
 
 class Command(BaseCommand):

@@ -7,7 +7,7 @@ from .api_list.youtube_api.youtube_views import \
     youtube_videos_list, \
     single_youtube_playlist
 from .api_list.youtube_api.youtube_cache_view import YoutubeApiView, YoutubeFeaturedVideoApiView
-from .api_list.instagram_api.instagram_views import instagram_posts_list, InstagramPostApiView
+from .api_list.instagram_api.instagram_views import InstagramPostApiView
 
 urlpatterns = [
     # FPL API
@@ -21,8 +21,7 @@ urlpatterns = [
     path("youtube_featured_video/", YoutubeFeaturedVideoApiView.as_view(), name="youtube_featured_video"),
     path("youtube_videos/<str:video_id>/", single_youtube_video, name="single_youtube_video"),
     path("youtube_playlists/", youtube_playlist, name="youtube_playlists"),
-    path('youtube_playlists/<str:playlist_id>/', single_youtube_playlist, name="single_youtube_playlist"),
+    path('youtube_playlists/<str:playlist_name>/', single_youtube_playlist, name="single_youtube_playlist"),
     # Instagram API
-    path("instagram_list_refresh/", InstagramPostApiView.as_view(), name="instagram_posts_refresh"),
-    path("instagram_list/", instagram_posts_list, name="instagram_posts")
+    path("instagram_list_refresh/", InstagramPostApiView.as_view(), name="instagram_posts_refresh")
 ]

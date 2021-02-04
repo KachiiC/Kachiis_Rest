@@ -1,7 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "A-EZpxfCWowOTQHtxm1nABGVFPo",
-    "nextPageToken": "CBQQAA",
+    "etag": "I7WQBQA-yq4lovUvua998cR6dhc",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -902,10 +901,1315 @@
                     "videoId": "tG5bopH5Pj8"
                 }
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xvKV4QbAxVMB9IFrMa1RjnMvF2M",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-11-10T15:11:03Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "The Best KO in UFC history? All 24 Knockouts in October 2020!",
+                "description": "Five UFC events, 24 Knockouts! We got some huge finishes in the UFC in October and maybe even the best ever!\n\nClick here to purchase a BT Sport Monthly Pass - http://bit.ly/BTSportMonthlyPass \n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oemO7lzL_eI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oemO7lzL_eI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oemO7lzL_eI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oemO7lzL_eI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oemO7lzL_eI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oemO7lzL_eI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Uz6_AngSqThemv0r7mKYTu5bRSI",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-11-10T15:11:13Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Bryce Mitchell v Andre Fili | UFC highlights",
+                "description": "Bryce Mitchell put in another impressive performance as he kept up his win streak in the UFC featherweight division.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7IXS91yB3D0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7IXS91yB3D0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7IXS91yB3D0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7IXS91yB3D0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7IXS91yB3D0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7IXS91yB3D0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wEsfckcUxEnu4YcMZlIorLv70Qo",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2020-11-10T15:11:18Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Anderson Silva last ever UFC fight! | Hall v Silva highlights",
+                "description": "Uriah Hall took on Anderson Silva as the Brazilian legend bowed out of the UFC after 14 years.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6h6Prt1C1Qw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6h6Prt1C1Qw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6h6Prt1C1Qw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6h6Prt1C1Qw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6h6Prt1C1Qw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6h6Prt1C1Qw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VmQdgtAy9yo11Aqo6cOJn6Ap8OM",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-10-27T01:07:30Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Robert Whittaker v Jared Cannonier | UFC 254 Highlights",
+                "description": "Robert Whittaker gets another impressive win on his second visit to UFC Fight Island as he beats Jared Cannonier at #UFC254.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kyhgMr0J36o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kyhgMr0J36o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kyhgMr0J36o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kyhgMr0J36o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kyhgMr0J36o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kyhgMr0J36o"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ELWg4IyfQK2XX25dG_8m1I3ThS4",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-10-27T01:07:37Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Khabib Nurmagomedov v Justin Gaethje | UFC 254 fight highlights",
+                "description": "Khabib Nurmagomedov bows out from the UFC following his legacy defining win against Justin Gaethje at #UFC254.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MyI8AsqLWPI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MyI8AsqLWPI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MyI8AsqLWPI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MyI8AsqLWPI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MyI8AsqLWPI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MyI8AsqLWPI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_ykRQ7w2ByMuoQ17iq1Ymvrp-N8",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-10-22T23:14:29Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Brian Ortega v Korean Zombie | UFC Fight Island highlights",
+                "description": "Brian Ortega won on his return to the #UFC after two years out. He dominated Chan Sung Jung AKA The Korean Zombie\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D1EzyfbArRQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D1EzyfbArRQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D1EzyfbArRQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D1EzyfbArRQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D1EzyfbArRQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "D1EzyfbArRQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "m67zN26j3YayC4fmFFrUdIdwo3U",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-10-22T23:14:11Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Marlon Moraes v Cory Sandhagen | UFC Full Fight replay",
+                "description": "Watch #UFC254: Khabib v Gaethje at 7pm on October 24th, live on BT Sport Box Office ➡️ https://www.bt.com/sport/box-office/\n\nCory Sandhagen staked a claim for the UFC bantamweight division with a shock win over Marlon Moraes on UFC Fight Island.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5aXscYK3fgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5aXscYK3fgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5aXscYK3fgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5aXscYK3fgY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5aXscYK3fgY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5aXscYK3fgY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iuLW1Z7s1sN0v4UAkzIYu3UQiIs",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-10-22T23:13:51Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Holly Holm v Irene Aldana fight highlights | UFC Fight Island",
+                "description": "Holly Holm put herself in with a shout at a UFC title shot with a dominant performance over Irene Aldana on #UFCFightIsland.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ofXx6J5EHL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ofXx6J5EHL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ofXx6J5EHL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ofXx6J5EHL4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ofXx6J5EHL4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ofXx6J5EHL4"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6mCNgpa8mk_9sGs3TgY1D3PkOS0",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-10-22T23:13:03Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Jan Blachowicz knocks out Dominick Reyes to become UFC light-heavyweight champion | UFC 253",
+                "description": "Jan Blachowicz is the first man not named Jon Jones or Daniel Cormier to hold the UFC light-heavyweight title since 2011.\n\nThat legendary Polish power is not a myth. #UFC253\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-4_QqWMIsnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-4_QqWMIsnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-4_QqWMIsnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-4_QqWMIsnE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-4_QqWMIsnE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-4_QqWMIsnE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fFkDWKgZRPXX5UeJer6t0vxxSXU",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-10-22T23:12:41Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Israel Adesanya knocks Paulo Costa out after dominating him early on | UFC 253",
+                "description": "Israel Adesanya showed Paulo Costa who's boss with a perfect display of striking at #UFC253. The UFC middleweight champ got the job done early and the fight was over within two rounds.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/muUotyCqWkk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/muUotyCqWkk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/muUotyCqWkk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/muUotyCqWkk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/muUotyCqWkk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "muUotyCqWkk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5mJ0g0pH-EgvLjW9g47jiD4VGp8",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-09-27T22:09:35Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Colby Covington v Tyron Woodley fight highlights | UFC Vegas 11",
+                "description": "Colby Covington and Tyron Woodley finally settled their long-running beef in a five-round main event at #UFCVegas11.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z4GjhImDvy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z4GjhImDvy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z4GjhImDvy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z4GjhImDvy0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z4GjhImDvy0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z4GjhImDvy0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r2PX8JoPsBJyBE0e7W8TXTDyzTo",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-09-27T22:09:56Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Insane fight! Michelle Waterson v Angela Hill fight highlights | UFC Vegas 10",
+                "description": "Michelle Waterson and Angela Hill put on one of the fights of the year at the UFC Apex, going five hard rounds with each other.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XemXmylekMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XemXmylekMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XemXmylekMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XemXmylekMI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XemXmylekMI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XemXmylekMI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "91E3uK97H--6jRauGGui4lD8bb4",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-09-06T15:54:19Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Alistair Overeem v Augusto Sakai | UFC Highlights",
+                "description": "Alistair Overeem and Augusto Sakai went at it for five rounds in a heavyweight battle between of the division's veterans and one of it's rising forces.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram: http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AP3xBXHTSEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AP3xBXHTSEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AP3xBXHTSEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AP3xBXHTSEk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AP3xBXHTSEk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AP3xBXHTSEk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "toILAJ_OTRoeo9dBoZz1BzMMvww",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-08-23T17:14:31Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Pedro Munhoz v Frankie Edgar | UFC Fight Highlights",
+                "description": "Frankie Edgar got the win in his debut in the bantamweight division over the fifth-ranked contender, Pedro Munhoz.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rpRnE8BAFpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rpRnE8BAFpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rpRnE8BAFpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rpRnE8BAFpY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rpRnE8BAFpY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rpRnE8BAFpY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0ARRjgksydCJK5gYyTFsGMV6qvE",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-08-18T02:23:53Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Stipe Miocic v Daniel Cormier 3 | #UFC252 Highlights",
+                "description": "Stipe Miocic came out on top in his third and final fight against Daniel Cormier to win their epic heavyweight trilogy.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TS1euc3DVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TS1euc3DVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TS1euc3DVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9TS1euc3DVw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9TS1euc3DVw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9TS1euc3DVw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BXRThJNKjwXeaMKzAVElMyUKQVk",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-08-18T02:25:02Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Omari Akhemedov v Chris Weidman | UFC Highlights",
+                "description": "Chris Weidman snapped his losing streak with a win at the UFC Apex Centre.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aLIKZS5kPs0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aLIKZS5kPs0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aLIKZS5kPs0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aLIKZS5kPs0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aLIKZS5kPs0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aLIKZS5kPs0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lMLnTQo8ZkcettzEZNzShU4Cg88",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-08-18T02:24:47Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Lewis sets UFC record! Derrick Lewis v Alexei Oleinik | UFC Highlights",
+                "description": "Derrick Lewis and Alexei Oleinik went at it with the American coming out on top at the UFC Apex centre in Las Vegas.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\n\nFacebook: http://www.facebook.com/btsport\n\nInstagram:http://instagram.com/btsport\n\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vysBEblWBoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vysBEblWBoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vysBEblWBoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vysBEblWBoQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vysBEblWBoQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vysBEblWBoQ"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EEe1de2RpCKZAs44Oi1cMfmy1qw",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-08-02T17:46:37Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Derek Brunson v Edmen Shahbazyan | UFC Fight Highlights",
+                "description": "The veteran Derek Brunson came in as the underdog but shocked the much-hyped Edmen Shahbazyan at the UFC returned to Las Vegas.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram: http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xO9kHGGVioY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xO9kHGGVioY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xO9kHGGVioY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xO9kHGGVioY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xO9kHGGVioY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xO9kHGGVioY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gObNbhAVTV0rABz7lrJKDbitF_g",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-07-27T13:06:27Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Shogun Rua v Antonio Rogerio Nogueira | UFC Fight Island highlights",
+                "description": "Mauricio Shogun Rua and Antonio Rogerio Nogueira AKA Lil Nog fought for a third and final time at #UFCFightIsland3. The two MMA legends first fought in 2005!\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iBE0ZeV7xyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iBE0ZeV7xyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iBE0ZeV7xyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iBE0ZeV7xyE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iBE0ZeV7xyE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iBE0ZeV7xyE"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QIOMupsAhRN6QWnT6hWO42EKkzA",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-07-27T13:06:11Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Robert Whittaker v Darren Till | UFC Fight Island highlights",
+                "description": "Robert Whittaker and Darren Till went head to head for five ferocious rounds as the former middleweight champion held off the Liverpool fighter.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OOY2rzONC1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OOY2rzONC1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OOY2rzONC1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OOY2rzONC1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OOY2rzONC1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OOY2rzONC1k"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RGORq5Nevdx4yrlaOprrHZQ090I",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-07-27T13:09:23Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Deiveson Figueiredo v Joseph Benavidez full fight replay",
+                "description": "Deiveson Figueiredo and Joseph Benavidez went toe-to-toe for the flyweight title.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram: http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lmr1gRq5d58/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lmr1gRq5d58/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lmr1gRq5d58/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lmr1gRq5d58/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lmr1gRq5d58/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lmr1gRq5d58"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "34C5EpwSp4U3FUwdk12-ACwGJgs",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-07-17T10:54:46Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Calvin Kattar v Dan Ige | UFC Fight Island highlights",
+                "description": "Calvin Kattar and Dan Ige went the distance in a war on Fight Island.\n\nWatch UFC Fight Island throughout July on BT Sport.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bR3ApHloySw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bR3ApHloySw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bR3ApHloySw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bR3ApHloySw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bR3ApHloySw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bR3ApHloySw"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p6e4rnBqC2igeRMc_MGJPZucpDc",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-07-12T19:31:26Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Petr Yan v Jose Aldo | UFC 251 Fight Highlights",
+                "description": "Petr Yan and Jose Aldo battled it for the vacant bantamweight title at #UFC251.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XcLntPuPpRY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MFaSr3TqkhWULEcE-FOytaep79w",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-07-12T19:30:58Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Kamaru Usman v Jorge Masvidal | UFC 251 Fight Highlights",
+                "description": "Kamaru Usman takes on Jorge Masvidal at #UFC251 with Gambred looking to add the welterweight gold to his BMF title.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram: http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/70qHvD34umM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/70qHvD34umM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/70qHvD34umM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/70qHvD34umM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/70qHvD34umM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "70qHvD34umM"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "blbimH68wbGLAap_1V2RYRfdOeU",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-07-12T19:31:14Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Alexander Volkanovski v Max Holloway | UFC 251 Fight Highlights",
+                "description": "Max Holloway was out for revenge against Alexander Volkanovski and a chance to reclaim the title he had lost to the Australian in December.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lQs374OrmG4"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4grkodM4ZB9NfUfC4gCzs8cSsyo",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-06-29T20:22:25Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Curtis Blaydes v Alexander Volkov | Fight Highlights",
+                "description": "Curtis Blaydes took on Alexander Volkov in a battle of the heavyweights as the main event at the UFC Apex.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OmHak8jxhhA"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z_aKsHVPk09BI9fs5hJwFRq420k",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-06-29T20:21:44Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Amanda Nunes v Felicia Spencer fight highlights | UFC 250",
+                "description": "Amanda Nunes produced a dominant performance to defend her bantamweight title for the first time against Felicia Spencer at #UFC250.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G46y9kavO-o"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uzqZynTDk7NaB5nQ3KmSk1AOysU",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-29T20:26:24Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Tyron Woodley v Gilbert Burns fight highlights | UFC Vegas",
+                "description": "Tyron Woodley returned the Octagon for the first time in 15 months to face up and coming Gilbert Burns who was on a five-fight win streak.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5HtXqx2MSvY"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tnZvUe85wdrn9QxijaCmx7ZKGXg",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-08-21T13:56:02Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Tony Ferguson v Justin Gaethje fight highlights | UFC 249",
+                "description": "Justin Gaethje and Tony Ferguson put on an incredible fight for the interim lightweight belt and the chance to fight Khabib Nurmagomedov at UFC 249.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xURILWCETkg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xURILWCETkg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xURILWCETkg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xURILWCETkg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xURILWCETkg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xURILWCETkg"
+                }
+            }
         }
     ],
     "pageInfo": {
         "totalResults": 49,
-        "resultsPerPage": 20
+        "resultsPerPage": 50
     }
 }
