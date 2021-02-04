@@ -8,8 +8,13 @@ class YoutubeVideoSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = YoutubeVideo
-        fields = ("video_title", "video_id", "video_description", "upload_date",
-                  "video_thumbnail", "playlist_id", "channel_id")
+        fields = [
+            "video_title",
+            "video_id",
+            "video_description",
+            "video_thumbnail",
+            "upload_date",
+        ]
 
 
 class YoutubePlaylistSerializer(serializers.ModelSerializer):
@@ -17,4 +22,8 @@ class YoutubePlaylistSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = YoutubePlaylist
-        fields = ('playlist_name', "playlist_id", "playlist_videos")
+        fields = [
+            'playlist_name',
+            "playlist_id",
+            "playlist_videos"
+        ]

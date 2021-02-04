@@ -1,15 +1,15 @@
+import os
 import requests
 import json
-import os
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from rest_framework.decorators import api_view
 from rest_framework import status
+from rest_framework import views
+from rest_framework.response import Response
 from .fpl_model import Player, MatchDay, Chip
 from .fpl_serializers import PlayerSerializer, MatchDaySerializer
 from kach_api_endpoints.management.repoppers.fpl_repoppers import create_fpl_data
-from rest_framework import views
-from rest_framework.response import Response
-from django.utils.decorators import method_decorator
-from django.views.decorators.cache import cache_page
 
 league_id = 357383  # Insert League Id HERE
 
@@ -20,7 +20,7 @@ ENDPOINT_URL = "https://fantasy.premierleague.com/api"
 
 class FplApiView(views.APIView):
 
-    @method_decorator(cache_page(60 * 60 * 6))
+    @method_decorator(cache_page(60 * 60 * 3))
     def get(self, request):
         league_response = requests.get(f"{ENDPOINT_URL}/leagues-classic/{league_id}/standings/").json()
 

@@ -4,7 +4,6 @@ import requests
 from rest_framework.response import Response
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
-from rest_framework.decorators import api_view
 from .instagram_serializers import InstaPostSerializer
 from kach_api_endpoints.api_list.instagram_api.instagram_model import Post
 from kach_api_endpoints.management.repoppers.instagram_repoppers import create_insta_data
@@ -40,22 +39,8 @@ class InstagramPostApiView(views.APIView):
         data = Post.objects.all()
 
         data.delete()
-
         create_insta_data(OUTFILE_LOCATION)
 
-        serializer = InstaPostSerializer(
-            data,
-            context={'request': request},
-            many=True
-        )
+        serializer = InstaPostSerializer(data, context={'request': request}, many=True)
 
         return Response(serializer.data)
-
-
-@api_view(['GET'])
-def instagram_posts_list(request):
-    data = Post.objects.all()
-
-    serializer = InstaPostSerializer(data, context={'request': request}, many=True)
-
-    return Response(serializer.data)
