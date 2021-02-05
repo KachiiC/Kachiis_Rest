@@ -9,8 +9,6 @@ class Migration(migrations.Migration):
         ('kach_api_endpoints', '0012_auto_20210129_1725'),
     ]
 
-    atomic = False
-
     operations = [
         migrations.AddField(
             model_name='chip',
