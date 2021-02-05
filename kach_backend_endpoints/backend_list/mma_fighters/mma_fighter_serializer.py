@@ -20,8 +20,6 @@ class WinSerializer(serializers.ModelSerializer):
 
 
 class FighterSerializer(serializers.ModelSerializer):
-    # notable_wins = WinSerializer(many=True, read_only=True)
-
     class Meta:
         model = Fighter
         fields = [
@@ -40,5 +38,4 @@ class FighterSerializer(serializers.ModelSerializer):
             "wins_via_sub",
             "wins_via_dec",
             "fighter_image",
-            # "notable_wins",
         ]
