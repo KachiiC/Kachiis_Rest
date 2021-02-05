@@ -41,7 +41,7 @@ class Fighter(models.Model):
     last_name = models.CharField(max_length=100)
     rank = models.IntegerField(rank_validator_condition, null=True, blank=True)
     is_champion = models.BooleanField(default=False)
-    weight_class = models.CharField(max_length=15, choices=weight_class_choices)
+    weight_class = models.CharField(max_length=30, choices=weight_class_choices)
     age = models.IntegerField(validators=[MinValueValidator(18), MaxValueValidator(60)])
     height = models.CharField(max_length=10)
     reach = models.DecimalField(max_digits=4, decimal_places=1)
