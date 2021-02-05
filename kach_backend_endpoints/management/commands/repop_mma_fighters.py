@@ -66,9 +66,9 @@ class Command(BaseCommand):
                     "div", "c-hero__headline-suffix tz-change-inner"
                 ).text.split()[-2].split("-")
 
-                champ_wins = mma_record[0]
-                champ_losses = mma_record[1]
-                champ_draws = mma_record[2]
+                champ_wins = int(mma_record[0])
+                champ_losses = int(mma_record[1])
+                champ_draws = int(mma_record[2])
 
                 # MMA Wins
                 champ_wins_method = champ_page.findAll(
@@ -77,9 +77,9 @@ class Command(BaseCommand):
                     "div", "c-stat-3bar__legend"
                 ).findAll("div", "c-stat-3bar__value")
 
-                champ_ko_wins = champ_wins_method[0].text.split()[0]
-                champ_decision_wins = champ_wins_method[1].text.split()[0]
-                champ_sub_wins = champ_wins_method[2].text.split()[0]
+                champ_ko_wins = int(champ_wins_method[0].text.split()[0])
+                champ_decision_wins = int(champ_wins_method[1].text.split()[0])
+                champ_sub_wins = int(champ_wins_method[2].text.split()[0])
 
                 # STATS
                 # champ_accuracy = champ_page.findAll("text", {"e-chart-circle__percent"})
