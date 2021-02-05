@@ -1,11 +1,6 @@
 from django.db import models
 from django.core.validators import MaxValueValidator, MinValueValidator
 
-status_choices = (
-    ('Active', 'active'),
-    ('Retired', 'retired')
-)
-
 Atom = 105
 Straw = 115
 Fly = 125
@@ -30,14 +25,14 @@ weight_class_choices = (
     (Heavy, 'heavy'),
 )
 
-validator_condition = validators = [
-    MinValueValidator(50),
-    MaxValueValidator(100)
-]
-
 rank_validator_condition = validators = [
     MinValueValidator(1),
     MaxValueValidator(15)
+]
+
+validator_condition = validators = [
+    MinValueValidator(0),
+    MaxValueValidator(100)
 ]
 
 
@@ -47,26 +42,19 @@ class Fighter(models.Model):
     rank = models.IntegerField(rank_validator_condition, null=True, blank=True)
     is_champion = models.BooleanField(default=False)
     weight_class = models.CharField(max_length=15, choices=weight_class_choices)
-    # nickname = models.CharField(max_length=100)
-    # status = models.CharField(max_length=15, choices=status_choices)
-    # date_of_birth = models.DateField()
-    # height = models.CharField(max_length=10)
-    # reach = models.DecimalField(max_digits=3, decimal_places=1)
-    # promotion = models.CharField(max_length=50)
-    # rank = models.CharField(max_length=100)
-    # style = models.CharField(max_length=100)
-    # wins = models.IntegerField(validator_condition)
-    # losses = models.IntegerField(validator_condition)
-    # draws = models.IntegerField(validator_condition, default=0)
-    # no_contests = models.IntegerField(validator_condition, default=0)
-    # wins_via_knockout = models.IntegerField(validator_condition)
-    # wins_via_submission = models.IntegerField(validator_condition)
-    # wins_via_decision = models.IntegerField(validator_condition)
-    # losses_via_knockout = models.IntegerField(validator_condition)
-    # losses_via_submission = models.IntegerField(validator_condition)
-    # losses_via_decision = models.IntegerField(validator_condition)
-    # notable_wins = models.ManyToManyField('Fight', blank=True)
+    age = models.IntegerField(validators=[MinValueValidator(18), MaxValueValidator(60)])
+    height = models.CharField(max_length=10)
+    reach = models.DecimalField(max_digits=4, decimal_places=1)
+    wins = models.IntegerField(validator_condition)
+    losses = models.IntegerField(validator_condition)
+    draws = models.IntegerField(validator_condition, default=0)
+    wins_via_ko = models.IntegerField(validator_condition)
+    wins_via_sub = models.IntegerField(validator_condition)
+    wins_via_dec = models.IntegerField(validator_condition)
+    fighter_image = models.CharField(max_length=250)
+
     # highlights = models.CharField(max_length=100, blank=True)
+    # notable_wins = models.ManyToManyField('Fight', blank=True)
 
     def __str__(self):
         return f"{self.first_name} {self.last_name}"
