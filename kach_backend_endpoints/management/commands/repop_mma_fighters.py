@@ -15,7 +15,9 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         # Delete all divisions and Fighters
         Division.objects.all().delete()
+        print("Divisions deleted...")
         Fighter.objects.all().delete()
+        print("Fighters deleted...")
 
         # grabbing page
         u_client = urlopen(my_url)
@@ -23,17 +25,19 @@ class Command(BaseCommand):
         ufc_rankings_page = urlopen(my_url).read()
         # close urlopen
         u_client.close()
+        print("URL read..")
 
         # html parsing
         page = Soup(ufc_rankings_page, "html.parser")
+        print("opened page")
 
         # grabs each product
         rankings = page.findAll("table")[:-1]
-
-        # rank = rankings[1]
+        print("table found...")
 
         for rank in rankings:
             division_name = rank.h4.text.strip()
+            print("division name found...")
 
             if division_name.split()[0] == "Women's":
                 division_gender = "Women"
@@ -42,6 +46,8 @@ class Command(BaseCommand):
 
             if division_name != "Men's Pound-for-Pound Top Rank" \
                     and division_name != "Women's Pound-for-Pound Top Rank":
+
+                print("division name")
 
                 division_champion = rank.h5.text.strip().split()
                 division_rankings = rank.findAll("tr")
@@ -60,6 +66,7 @@ class Command(BaseCommand):
                     champ_last_name = division_champion[1]
 
                 champ_image_link = champ_page.find("div", {"c-bio__image"}).img["src"]
+                print("division champion")
 
                 # MMA Record
                 mma_record = champ_page.find(
@@ -97,6 +104,8 @@ class Command(BaseCommand):
 
                 champ_display_height = str(math.floor((champ_height_inches / 12))) + "ft" + str(
                     round(champ_height_inches % 12))
+
+                print("data correctly pulled...")
 
                 Fighter(
                     first_name=champ_first_name,
