@@ -25,10 +25,6 @@ weight_class_choices = (
     (Heavy, 'heavy'),
 )
 
-rank_validator_condition = validators = [
-    MinValueValidator(1),
-    MaxValueValidator(15)
-]
 
 validator_condition = validators = [
     MinValueValidator(0),
@@ -39,7 +35,7 @@ validator_condition = validators = [
 class Fighter(models.Model):
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
-    rank = models.IntegerField(rank_validator_condition, null=True, blank=True)
+    rank = models.IntegerField(null=True, blank=True)
     is_champion = models.BooleanField(default=False)
     weight_class = models.CharField(max_length=30, choices=weight_class_choices)
     age = models.IntegerField(validators=[MinValueValidator(18), MaxValueValidator(60)])
