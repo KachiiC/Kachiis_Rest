@@ -19,7 +19,7 @@ gender_choices = (
 
 
 class Division(models.Model):
-    weight_class = models.CharField(max_length=15, choices=weight_class_choices)
+    weight_class = models.CharField(max_length=35, choices=weight_class_choices)
     fighters = models.ManyToManyField('Fighter', blank=True)
     gender = models.CharField(max_length=15, choices=gender_choices, default="Men")
     pound_for_pound = models.BooleanField(default=False,)

@@ -111,7 +111,7 @@ class Migration(migrations.Migration):
             name='Division',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('weight_class', models.CharField(choices=[('Fly', 'Flyweight'), ('Bantam', 'Bantamweight'), ('Feather', 'Featherweight'), ('Light', 'Lightweight'), ('Welter', 'Welterweight'), ('Middle', 'Middleweight'), ('Light Heavy', 'Light Heavyweight'), ('Heavy', 'Heavyweight')], max_length=15)),
+                ('weight_class', models.CharField(choices=[('Fly', 'Flyweight'), ('Bantam', 'Bantamweight'), ('Feather', 'Featherweight'), ('Light', 'Lightweight'), ('Welter', 'Welterweight'), ('Middle', 'Middleweight'), ('Light Heavy', 'Light Heavyweight'), ('Heavy', 'Heavyweight')], max_length=50)),
                 ('gender', models.CharField(choices=[('Men', 'Men'), ('Women', 'Women')], default='Men', max_length=15)),
                 ('pound_for_pound', models.BooleanField(default=False)),
                 ('fighters', models.ManyToManyField(blank=True, to='kach_backend_endpoints.Fighter')),
