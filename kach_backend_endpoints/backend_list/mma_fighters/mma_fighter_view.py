@@ -18,9 +18,11 @@ def mma_fighter_list(request):
 
 
 class FeaturedFighterApiView(views.APIView):
+
     @method_decorator(cache_page(60 * 60 * 24))
     def get(self, request):
         all_fighters = Fighter.objects.all()
+
         random_fighter = random.choice(all_fighters)
 
         serializer = FighterSerializer(random_fighter, context={'request': request})
