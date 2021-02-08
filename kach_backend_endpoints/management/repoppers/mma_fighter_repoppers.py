@@ -2,8 +2,10 @@ import math
 from kach_backend_endpoints.management.url_webscrapper import url_webscraper
 from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
 
+excluded_fighter = "Kai Kara France"
 
-def create_mma_fighter(fighter, rank, division, excluded_fighter):
+
+def create_mma_fighter(fighter, rank, division):
     fighter_name_letters = list(" ".join(fighter))
 
     for letter in fighter_name_letters:
@@ -17,6 +19,7 @@ def create_mma_fighter(fighter, rank, division, excluded_fighter):
         fighter_page = url_webscraper(fighter_url)
 
         # Code Set Ups
+
         # Fighter record set up
         fighter_record = fighter_page.find(
             "div", {"c-hero__headline-suffix tz-change-inner"}

@@ -1,12 +1,10 @@
 from django.core.management.base import BaseCommand
 from kach_backend_endpoints.management.url_webscrapper import url_webscraper
-from ..repoppers.mma_fighter_repoppers import create_mma_fighter
 from kach_backend_endpoints.backend_list.mma_divisions.mma_divisions_model import Division
 from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
+from kach_backend_endpoints.management.repoppers.mma_fighter_repoppers import create_mma_fighter
 
 my_url = "https://www.ufc.com/rankings"
-
-excluded_fighter = "Kai Kara France"
 
 
 class Command(BaseCommand):
@@ -32,7 +30,7 @@ class Command(BaseCommand):
                     and division_name != "Women's Pound-for-Pound Top Rank":
 
                 division_champion = rank.h5.text.strip().split()
-                create_mma_fighter(division_champion, "champion", division_name, excluded_fighter)
+                create_mma_fighter(division_champion, "champion", division_name)
 
                 division_rankings = rank.findAll("tr")
 
@@ -43,13 +41,14 @@ class Command(BaseCommand):
 
                     fighter_rank = fighter_info[0].text
 
-                    create_mma_fighter(fighter_name, fighter_rank, division_name, excluded_fighter)
+                    create_mma_fighter(fighter_name, fighter_rank, division_name)
 
             Division(
                 weight_class=division_name,
                 gender=division_gender,
                 pound_for_pound=False
             ).save()
+
             print(f"{division_name} added...")
 
         else:
@@ -64,6 +63,7 @@ class Command(BaseCommand):
         all_divisions = Division.objects.all()
 
         print("Adding fighters to correct divisions...")
+
         for division in all_divisions:
             for fighter in all_fighters:
                 if fighter.weight_class == division.weight_class:
