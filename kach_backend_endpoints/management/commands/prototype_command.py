@@ -8,6 +8,22 @@ my_url = "https://www.ufc.com/rankings"
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        Division.objects.all().delete()
-        Fighter.objects.all().delete()
+        # grabbing page
+        page = url_webscraper(my_url)
+        # grabs each division
+        rankings = page.findAll("table")[:-1]
 
+        # Mens Pound for Pound Set Up
+        mens_pfp_title = rankings[0].h4.text.strip()
+        ranked_first = rankings[0].h5.text.strip().split()
+
+
+        # Womens Pound for Pound Set Up
+
+        womens_pfp_title = rankings[9].h4.text.strip()
+
+        mens_pfp = Division.objects.get(weight_class=mens_pfp_title)
+        ranked_first_fighter = Fighter.objects.get(first_name=ranked_first[0], last_name=ranked_first[1])
+        mens_pfp.fighters.add(ranked_first_fighter)
+
+        print("complete!")

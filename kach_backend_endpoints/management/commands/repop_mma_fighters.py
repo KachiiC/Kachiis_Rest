@@ -53,7 +53,7 @@ class Command(BaseCommand):
 
         else:
             Division(
-                weight_class=division_name,
+                weight_class=division_name[:-9],
                 gender=division_gender,
                 pound_for_pound=True
             ).save()
