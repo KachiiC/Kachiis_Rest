@@ -14,6 +14,7 @@ class Fighter(models.Model):
     fighter_image = models.CharField(max_length=500)
     height = models.CharField(max_length=10)
     rank = models.IntegerField(null=True, blank=True)
+    p4p_ranking = models.IntegerField(null=True, blank=True)
     is_champion = models.BooleanField(default=False)
     age = models.IntegerField(validators=[MinValueValidator(18), MaxValueValidator(60)])
     reach = models.DecimalField(max_digits=4, decimal_places=1)

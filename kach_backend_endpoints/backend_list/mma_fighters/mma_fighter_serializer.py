@@ -25,6 +25,7 @@ class FighterSerializer(serializers.ModelSerializer):
         fields = [
             "first_name",
             "last_name",
+            'p4p_ranking',
             "rank",
             "is_champion",
             "weight_class",

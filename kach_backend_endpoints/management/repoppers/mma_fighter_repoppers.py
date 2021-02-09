@@ -46,6 +46,9 @@ def create_mma_fighter(fighter, rank, division):
         if rank == "champion":
             fighter_rank = None
             is_champion = True
+        elif rank == "Not ranked":
+            fighter_rank = None
+            is_champion = False
         else:
             fighter_rank = rank
             is_champion = False
