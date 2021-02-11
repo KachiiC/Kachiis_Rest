@@ -24,12 +24,12 @@ def create_new_youtube_videos(data_location):
                     my_title.insert(2, "vs")
                     display_title = " ".join(my_title)
 
-            YoutubeVideo(
-                video_title=display_title,
-                video_id=clip["resourceId"]["videoId"],
-                video_description=description_crop,
-                upload_date=clip["publishedAt"],
-                video_thumbnail=clip["thumbnails"]["maxres"]["url"],
-                playlist_id=clip["playlistId"],
-                channel_id=clip["channelId"]
-            ).save()
+                    YoutubeVideo(
+                        video_title=display_title,
+                        video_id=clip["resourceId"]["videoId"],
+                        video_description=description_crop,
+                        upload_date=clip["publishedAt"],
+                        video_thumbnail=clip["thumbnails"]["maxres"]["url"],
+                        playlist_id=clip["playlistId"],
+                        channel_id=clip["channelId"]
+                    ).save()
