@@ -44,7 +44,7 @@ class YoutubeApiView(views.APIView):
 class YoutubeFeaturedVideoApiView(views.APIView):
     @method_decorator(cache_page(60 * 60 * 24))
     def get(self, request):
-        playlist_videos = YoutubeVideo.objects.filter(playlist_name="PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC")
+        playlist_videos = YoutubeVideo.objects.filter(playlist_id="PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC")
         random_video = random.choice(playlist_videos)
 
         serializer = YoutubeVideoSerializer(random_video, context={'request': request})
