@@ -1,3 +1,4 @@
+import random
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
@@ -23,6 +24,16 @@ def single_youtube_video(request, video_id):
         return Response(status=status.HTTP_404_NOT_FOUND)
 
     serializer = YoutubeVideoSerializer(playlist, context={'request': request})
+
+    return Response(serializer.data)
+
+
+@api_view(['GET'])
+def single_random_youtube_video(request):
+    playlist_videos = YoutubeVideo.objects.filter(playlist_id="PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC")
+    random_video = random.choice(playlist_videos)
+
+    serializer = YoutubeVideoSerializer(random_video, context={'request': request})
 
     return Response(serializer.data)
 
