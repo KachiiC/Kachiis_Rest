@@ -3,9 +3,11 @@ from .backend_list.hsk_api.hsk_view import hsk_words_list, hsk_single_word, all_
 from .backend_list.cards_api.card_view import cards_list
 from kach_backend_endpoints.backend_list.mma_backend.mma_dictionary.mma_dictionary_view import mma_dictionary_list
 from kach_backend_endpoints.backend_list.mma_backend.mma_techniques.mma_techniques_view import mma_techniques_list
-from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_view import mma_fighter_list, FeaturedFighterApiView
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_view import mma_fighter_list, \
+    FeaturedFighterApiView
 from kach_backend_endpoints.backend_list.mma_backend.mma_fights.mma_fights_view import mma_fights_list
 from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_view import mma_divisions_list
+from kach_backend_endpoints.backend_list.mma_backend.mma_articles.mma_articles_view import mma_articles_list
 
 urlpatterns = [
     # HSK
@@ -15,6 +17,8 @@ urlpatterns = [
     path("hsk_level/<int:level>", single_hsk_level, name="hsk_level"),
     # Cards
     path("cards_list/", cards_list, name="cards_list"),
+    # MMA Article List
+    path("mma_articles_list/", mma_articles_list, name="mma_articles_list"),
     # MMA Dictionary List
     path("mma_dictionary_list/", mma_dictionary_list, name="mma_dictionary_list"),
     # MMA Technique List
