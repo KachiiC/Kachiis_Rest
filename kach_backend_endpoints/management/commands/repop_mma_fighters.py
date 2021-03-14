@@ -1,9 +1,8 @@
 from django.core.management.base import BaseCommand
-
-from kach_backend_endpoints.management.repoppers.mma_p4p_repopper import create_mma_p4p
 from kach_backend_endpoints.management.url_webscrapper import url_webscraper
-from kach_backend_endpoints.backend_list.mma_divisions.mma_divisions_model import Division
-from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
+from kach_backend_endpoints.management.repoppers.mma_p4p_repopper import create_mma_p4p
+from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_model import Division
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
 from kach_backend_endpoints.management.repoppers.mma_fighter_repoppers import create_mma_fighter
 
 my_url = "https://www.ufc.com/rankings"

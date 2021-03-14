@@ -1,11 +1,11 @@
 from django.contrib import admin
 from .backend_list.hsk_api.hsk_model import Word, HSKLevel
 from .backend_list.cards_api.card_model import Card
-from .backend_list.mma_dictionary.mma_dictionary_model import Dictionary
-from .backend_list.mma_techniques.mma_techniques_model import Technique
-from .backend_list.mma_fighters.mma_fighter_model import Fighter
-from .backend_list.mma_fights.mma_fights_model import Fight
-from .backend_list.mma_divisions.mma_divisions_model import Division
+from kach_backend_endpoints.backend_list.mma_backend.mma_dictionary.mma_dictionary_model import Dictionary
+from kach_backend_endpoints.backend_list.mma_backend.mma_techniques.mma_techniques_model import Technique
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
+from kach_backend_endpoints.backend_list.mma_backend.mma_fights.mma_fights_model import Fight
+from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_model import Division
 
 admin.site.register(Word)  # HSK Word
 admin.site.register(HSKLevel)  # HSK Level

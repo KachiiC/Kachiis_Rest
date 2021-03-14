@@ -2,8 +2,8 @@ import os
 import csv
 import json
 from django.core.management.base import BaseCommand
-from kach_backend_endpoints.backend_list.mma_fights.mma_fights_model import Fight
-from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
+from kach_backend_endpoints.backend_list.mma_backend.mma_fights.mma_fights_model import Fight
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
 from kach_backend_endpoints.management.repoppers.mma_fights_repoppers import create_mma_fights
 
 File_Location = os.getcwd() + "/kach_backend_endpoints/data/mma_fights/"

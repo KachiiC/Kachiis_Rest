@@ -2,7 +2,7 @@ import os
 import csv
 import json
 from django.core.management.base import BaseCommand
-from kach_backend_endpoints.backend_list.mma_techniques.mma_techniques_model import Technique
+from kach_backend_endpoints.backend_list.mma_backend.mma_techniques.mma_techniques_model import Technique
 from kach_backend_endpoints.management.repoppers.mma_techniques_repoppers import create_mma_techniques
 
 CSV_FILE = os.getcwd() + "/kach_backend_endpoints/data/mma_techniques/mma_techniques.csv"

@@ -1,5 +1,5 @@
 import json
-from kach_backend_endpoints.backend_list.mma_dictionary.mma_dictionary_model import Dictionary
+from kach_backend_endpoints.backend_list.mma_backend.mma_dictionary.mma_dictionary_model import Dictionary
 
 
 def create_mma_dictionary(data_location):

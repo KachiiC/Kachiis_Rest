@@ -1,5 +1,5 @@
 import json
-from kach_backend_endpoints.backend_list.mma_techniques.mma_techniques_model import Technique
+from kach_backend_endpoints.backend_list.mma_backend.mma_techniques.mma_techniques_model import Technique
 
 
 def create_mma_techniques(data_location):

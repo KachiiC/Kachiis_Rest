@@ -1,6 +1,6 @@
 import math
 from kach_backend_endpoints.management.url_webscrapper import url_webscraper
-from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
 
 excluded_fighter = "Kai Kara France"
 

@@ -1,5 +1,5 @@
 import json
-from kach_backend_endpoints.backend_list.mma_fights.mma_fights_model import Fight
+from kach_backend_endpoints.backend_list.mma_backend.mma_fights.mma_fights_model import Fight
 
 
 def create_mma_fights(data_location):

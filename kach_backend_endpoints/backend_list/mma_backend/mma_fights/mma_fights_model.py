@@ -1,5 +1,4 @@
 from django.db import models
-from kach_backend_endpoints.backend_list.mma_fighters.mma_fighter_model import Fighter
 
 winner_choices = (
     ('Red Corner', 'red'),
