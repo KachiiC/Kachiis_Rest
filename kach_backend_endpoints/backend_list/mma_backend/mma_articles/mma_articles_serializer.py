@@ -8,5 +8,6 @@ class ArticleSerializer(serializers.ModelSerializer):
         fields = [
             "title",
             "thumbnail_url",
-            "post_time_stamp"
+            "post_time_stamp",
+            "post_description"
         ]
