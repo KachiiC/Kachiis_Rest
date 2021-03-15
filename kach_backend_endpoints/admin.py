@@ -7,6 +7,7 @@ from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_mo
 from kach_backend_endpoints.backend_list.mma_backend.mma_fights.mma_fights_model import Fight
 from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_model import Division
 from kach_backend_endpoints.backend_list.mma_backend.mma_articles.mma_articles_model import Article
+from kach_backend_endpoints.backend_list.mma_backend.mma_store.mma_store_model import StoreItem
 
 admin.site.register(Word)  # HSK Word
 admin.site.register(HSKLevel)  # HSK Level
@@ -18,3 +19,4 @@ admin.site.register(Fighter)  # Fighter
 admin.site.register(Fight)  # Fight
 admin.site.register(Division)  # Division
 admin.site.register(Article)  # Article
+admin.site.register(StoreItem)  # Store Item
