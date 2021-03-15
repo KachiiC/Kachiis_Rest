@@ -9,4 +9,5 @@ class StoreSerializer(serializers.ModelSerializer):
             "name",
             "price",
             "product_thumbnail",
+            "product_link"
         ]

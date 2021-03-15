@@ -1,12 +1,10 @@
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as Soup
 
 
 def url_webscraper(url):
-    u_client = urlopen(url)
+    request = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 
-    page = urlopen(url).read()
-
-    u_client.close()
+    page = urlopen(request).read()
 
     return Soup(page, "html.parser")
