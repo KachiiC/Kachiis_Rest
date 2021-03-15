@@ -20,9 +20,9 @@ class Command(BaseCommand):
         for article in latest_articles:
             Article(
                 title=article.h3.text.strip(),
-                thumbnail_url=article.img["src"],
                 post_time_stamp=article.find("span", "time").text,
                 post_description=article.p.text.strip(),
+                thumbnail_url=article.img["src"],
                 post_link=article.h3.a["href"]
             ).save()
 
