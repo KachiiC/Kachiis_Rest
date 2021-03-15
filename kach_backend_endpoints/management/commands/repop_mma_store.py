@@ -20,9 +20,9 @@ class Command(BaseCommand):
 
         for item in latest_items:
             StoreItem(
-                name=item.img["src"],
+                name=item.find("a", "product-item-link").text.strip(),
                 price=item.find("span", "price").text.strip()[1:],
-                product_thumbnail=item.find("a", "product-item-link").text.strip(),
+                product_thumbnail=item.img["src"],
                 product_link=item.find("a", "product-item-link")["href"],
             ).save()
 
