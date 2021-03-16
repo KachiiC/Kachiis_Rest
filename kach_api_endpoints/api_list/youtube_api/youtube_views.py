@@ -29,16 +29,6 @@ def single_youtube_video(request, video_id):
 
 
 @api_view(['GET'])
-def single_random_youtube_video(request):
-    playlist_videos = YoutubeVideo.objects.filter(playlist_id="PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC")
-    random_video = random.choice(playlist_videos)
-
-    serializer = YoutubeVideoSerializer(random_video, context={'request': request})
-
-    return Response(serializer.data)
-
-
-@api_view(['GET'])
 def youtube_playlist(request):
     if request.method == 'GET':
         data = YoutubePlaylist.objects.all()
