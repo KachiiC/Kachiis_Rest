@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "MH-5YeExXNJPW5Hh9qvOTONwdG8",
+    "etag": "lUqz-iOf2eKHJ53Bp7ygsRzqo68",
     "nextPageToken": "CDIQAA",
     "items": [
         {
@@ -52,7 +52,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ETKyIQInOxwVSQB3P2zvTihV1Qg",
+            "etag": "rptZ-6b_-V6WhPV4XOdD6xSjEpE",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2020-06-27T16:15:14Z",
@@ -99,7 +99,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "O8CPXbvc4VkWOGxvdHvhzfj39UM",
+            "etag": "aKzIBQyXHRTiakYGNHs8YpjDlNo",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2020-06-27T16:19:23Z",
@@ -146,7 +146,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rIdhiOaf8vhN_uqFXZ7_EoLZffs",
+            "etag": "1X4LaEBmM6kDuI6JcL4nkHTUSK8",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2020-06-27T16:24:07Z",
@@ -193,7 +193,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Jbz7zVo5BBaQ8eQNn66WELr_rog",
+            "etag": "2wH78JfAbom4JgovCoVbE6bHd1s",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2020-07-17T10:53:59Z",
@@ -240,7 +240,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Oz8jVDSNr5xnm1j5tKrB8E_c6rI",
+            "etag": "C95dKE4A6Mj0-6GSMmgoRBS-__U",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-07-17T10:54:18Z",
@@ -334,7 +334,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bR9MdC5WveeTISlXR0yfcf41_vs",
+            "etag": "csBzYGc2N2JHyAT8zTx9SLh095Q",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-08-19T21:01:01Z",
@@ -381,7 +381,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9GJnUfooGIi3iZ4rhOclORR2a68",
+            "etag": "_0QBGBPHGyAZtMhiQtQWHdTy1ls",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2020-08-19T21:01:18Z",
@@ -428,7 +428,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "atS0_oFk0t99JiwVgxEHpXHuC-U",
+            "etag": "c39URItuJS6VP7rmx1aQOuLQkEk",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2020-08-19T21:01:25Z",
@@ -475,7 +475,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IHMFrenfkjy3Ph3n8XVNnZN2DN0",
+            "etag": "T6vVUxFTSvsMCIVTiu35l-NuqLg",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2020-08-19T21:01:42Z",
@@ -522,7 +522,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2SOSyF09UNx4QypAobQWH-Hw80s",
+            "etag": "ZMJLnso8raLnHif8JcM13D60XoM",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-08-19T21:02:04Z",
@@ -569,7 +569,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "77EDC9FCu5KkYyPa22UF5jfn2Sc",
+            "etag": "IqR9L_-aP71dl9DncNkXuM72wp4",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2020-08-19T21:03:27Z",
@@ -663,7 +663,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "M55lGc0E5nUJvvZ89PhTB5RW38E",
+            "etag": "LqDq1ujl3Z_sUvrYK8O15UtMb2Q",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2020-10-01T23:57:02Z",
@@ -710,7 +710,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "y9CZosxXOT7cyFtxpwZFaEschDA",
+            "etag": "jkqAmjfEFApTt0nm0GnIaF8jXZI",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2020-10-01T23:57:31Z",
@@ -757,7 +757,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PROYQXS-GXYPYvtLf-HiDIqYX0E",
+            "etag": "EvOKTUOfA9QMETYHTBfkIDubH5U",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
                 "publishedAt": "2021-01-28T15:10:53Z",
@@ -851,7 +851,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TleDWELvI8guh-0LdsWCehMWkNU",
+            "etag": "BW44o4B4mTX27ECYrNGKRs6L1-Y",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
                 "publishedAt": "2021-01-28T15:11:56Z",
@@ -1086,7 +1086,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "b72YoOpLaGNljCBX_bYqIVDurB4",
+            "etag": "gp66uKW0CKPeP4V1Bqb0ITXA6QI",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2021-01-28T15:15:41Z",
@@ -1180,7 +1180,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8OxDk87HEZZlvUq1Cieo67KsMIo",
+            "etag": "HmCETZrKjycTA9NnFW-nAsa8RZs",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2021-01-28T15:16:23Z",
@@ -1227,7 +1227,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6GjrJ9jiZt8s32JjQM24IA8yTeI",
+            "etag": "X-s5LTtw4wpd9HjTYU2qA90i_60",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2021-01-28T15:16:37Z",
@@ -1274,7 +1274,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "U6bMCMJYLwzTnG20VYAtkC-6Pxs",
+            "etag": "Cd2_e9k2GNtXwX5ZTaOAQY5MVSw",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2021-01-28T15:16:54Z",
@@ -1321,7 +1321,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HfPBqAI8EbE7Poxlf-qXXG89sSY",
+            "etag": "wuNtOJwW49xCKu3AWucf0qY-aPk",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy41NTZEOThBNThFOUVGQkVB",
             "snippet": {
                 "publishedAt": "2021-01-28T15:17:15Z",
@@ -1368,7 +1368,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gVXbe3Wms-YSsaLLQ-C8uo71XU0",
+            "etag": "InEx5IWmT5Pm87U2NlImjkLjXr0",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2021-01-28T15:17:35Z",
@@ -1415,7 +1415,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "n6ZWuUZNa51Gx_t28zzE7P3evQk",
+            "etag": "OdC9z_2wfwpfX8mAOXuWCDQO2fY",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
                 "publishedAt": "2021-01-28T15:17:46Z",
@@ -1462,7 +1462,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vdYWh1eI1uJjdP8etgD74Z_ciFk",
+            "etag": "WathDZm5M0TJGoLw9CHFjA8kwwc",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
                 "publishedAt": "2021-01-28T15:18:02Z",
@@ -1509,7 +1509,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cNexkCFbIhKvrcNdQjm2MqZQksc",
+            "etag": "pF1NYTTJSShWID-WssDhycdySIs",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
                 "publishedAt": "2021-01-28T15:18:16Z",
@@ -1556,7 +1556,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RJ3_AW6TsQODyUUZDf1cHK_vJBE",
+            "etag": "Ha_qd3kFpogh8G1UIx52WGiEQZs",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
                 "publishedAt": "2021-01-28T15:18:28Z",
@@ -1603,7 +1603,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ksOW288LkliAo9LuQfYRH2-FD8s",
+            "etag": "NJ_XyeQGTHWFw11wj589kt6Ay6U",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy42QzdBMzlBQzQzRjQ0QkQy",
             "snippet": {
                 "publishedAt": "2021-01-28T15:18:42Z",
@@ -1744,7 +1744,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iASd_sD5uHK2Loxr-P32kVpVzSA",
+            "etag": "_AOgJ7tf9CzKAPVx_AWWQP3U8Sw",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
                 "publishedAt": "2021-01-28T15:19:44Z",
@@ -1791,7 +1791,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vctlnDIU9SVv13IELDM2I-C-To8",
+            "etag": "nQOKBoqiDlabAlGhLtfjmG3mWno",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy42MjYzMTMyQjA0QURCN0JF",
             "snippet": {
                 "publishedAt": "2021-01-28T15:21:48Z",
@@ -1838,7 +1838,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XxTR3FW2yLhaSQxvZqZ7PECrvGc",
+            "etag": "mjqZqlaBnewKfgXmHWyxsQWL0kc",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy43QzNCNkZENzIyMDY2MjZB",
             "snippet": {
                 "publishedAt": "2021-01-28T15:22:12Z",
@@ -1885,7 +1885,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eNS2vUkc4yX_q7iiPIBlbB8Tf5g",
+            "etag": "4ULqDadm1_EycnHelrC5wreZffo",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5EQkE3RTJCQTJEQkFBQTcz",
             "snippet": {
                 "publishedAt": "2021-01-28T15:22:19Z",
@@ -1932,7 +1932,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qfgiy_TqdSRBXC0LF-flyqXaLxM",
+            "etag": "1N9dsTg3wZ7WKVmU95uNoXLrdN8",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
                 "publishedAt": "2021-01-28T15:19:22Z",
@@ -1979,101 +1979,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ltZZLwZ39m7vFkFpIEwMtwHXomM",
-            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4yQzk4QTA5QjkzMTFFOEI1",
-            "snippet": {
-                "publishedAt": "2021-01-28T15:22:58Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Free Fight: Stipe Miocic vs Daniel Cormier 3",
-                "description": "Watch the conclusion of the trilogy between heavyweights Stipe Miocic and Daniel Cormier that headlined UFC 252 in August.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bKWLqje2TJg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bKWLqje2TJg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bKWLqje2TJg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bKWLqje2TJg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/bKWLqje2TJg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 42,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "bKWLqje2TJg"
-                },
-                "videoOwnerChannelTitle": "UFC - Ultimate Fighting Championship",
-                "videoOwnerChannelId": "UCvgfXK4nTYKudb0rFR6noLA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DKfEcWKc9huJh-5j_jHjXl3ATy8",
-            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy45NDlDQUFFOThDMTAxQjUw",
-            "snippet": {
-                "publishedAt": "2021-01-28T15:24:00Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Free Fight: Jimmy Crute vs Michał Oleksiejczuk",
-                "description": "Rising Australian star Jimmy Crute put together two Performances of the Night in 2020, including this impressive showing against Michal Oleksiejczuk in February.\n\nSubscribe to get all the latest UFC content: http://bit.ly/2uJRzRR\r\n\r\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\r\n\r\nTo order UFC Pay-Per-Views on ESPN+, visit https://bit.ly/2vNIBE8 (U.S. only)\r\n\r\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\r\n\r\nConnect with UFC online and on Social:\r\nWebsite: http://www.ufc.com\r\nTwitter: http://www.twitter.com/ufc\r\nFacebook: http://www.facebook.com/ufc\r\nInstagram: http://www.instagram.com/ufc\r\nSnapchat: UFC\r\nPeriscope: http://Periscope.tv/ufc\r\n\r\nConnect with UFC FIGHT PASS on Social:\r\nTwitter: http://www.twitter.com/ufcfightpass\r\nFacebook: http://www.facebook.com/ufcfightpass\r\nInstagram: http://www.instagram.com/ufcfightpass",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GUgd2ebbHpc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GUgd2ebbHpc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GUgd2ebbHpc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/GUgd2ebbHpc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/GUgd2ebbHpc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 43,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "GUgd2ebbHpc"
-                },
-                "videoOwnerChannelTitle": "UFC - Ultimate Fighting Championship",
-                "videoOwnerChannelId": "UCvgfXK4nTYKudb0rFR6noLA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eRvAn1dCXKkZbEdFwkr63g67C6I",
+            "etag": "wdkwQ4xSWaX0SfjCIgEafSvQt3Y",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4xN0Y2QjVBOEI2MzQ5OUM5",
             "snippet": {
                 "publishedAt": "2021-01-28T17:49:56Z",
@@ -2109,7 +2015,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 44,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cINJim4gWN4"
@@ -2120,7 +2026,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "j9QRk-L52G6vXIBuT3S5Y73QPp8",
+            "etag": "yCfweI_Fgof3HpPeBWK9oEe2bc8",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
                 "publishedAt": "2021-01-28T17:50:21Z",
@@ -2156,7 +2062,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 45,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9h9gw_qtIr8"
@@ -2167,7 +2073,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HCI8E9iboLo-aSFz7-Sn4DkxgPI",
+            "etag": "_G-dAD6HqUlOnE_GZDgyPshyucs",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy44QTY2MEEzNzBFQUJCMUQ2",
             "snippet": {
                 "publishedAt": "2021-02-03T15:29:54Z",
@@ -2203,7 +2109,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 46,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XrBkcpnrpk0"
@@ -2214,7 +2120,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QzkjppkLNoRKczeSn0PjH8odBrI",
+            "etag": "o5vGSEkjnXe0nFJo_CA9jwCaJZY",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4zQTkzRjgxRTY0OEU0MkM3",
             "snippet": {
                 "publishedAt": "2021-02-04T01:53:24Z",
@@ -2250,7 +2156,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 47,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "fKDpupMnD84"
@@ -2261,7 +2167,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TDOVFAOYXJ4xtbLuclms_PFxDn4",
+            "etag": "yJK5ax_1N5avVqCt5TIn6hxBtFg",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4xNTZBNUQxMDZBQzFGMjkw",
             "snippet": {
                 "publishedAt": "2021-02-04T01:53:34Z",
@@ -2297,7 +2203,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 48,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xQ78oPjm_gA"
@@ -2308,7 +2214,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6Kx3ChezjnOGyTFQ96LI7wyJtcE",
+            "etag": "_KUCfKk8z2Vw4zTNfrheWQJ3ji8",
             "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy4wMDFGNzBEOTU4Q0Y1Q0RG",
             "snippet": {
                 "publishedAt": "2021-02-04T01:53:40Z",
@@ -2344,7 +2250,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
-                "position": 49,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "DpFl6GFOtRk"
@@ -2352,10 +2258,99 @@
                 "videoOwnerChannelTitle": "UFC Japan",
                 "videoOwnerChannelId": "UCpeLGvz0uICdk9ILfHKiJOg"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CgACcrXkiigM3kygxbI1WMQ4rt0",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2021-02-04T01:53:50Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "【今日は何の日】10月14日編：アンデウソン・シウバ vs. ステファン・ボナー（過去試合映像）",
+                "description": "2012年10月13日（日本時間14日）に実現したアンデウソン・シウバとステファン・ボナーの一戦！\n\nその他、過去の名試合を見るならUFC Fight Pass → https://bit.ly/3hpe6XI\n★新たに日本語サービスを開始いたしました！\n☆UFCファイトナイトもPPVイベントも全部見られるオトクなプレミアムプランは日本限定！\n★試合のライブ配信は日本語実況解説付もお選びいただけます。\n\n*****************\n\nUFC公式サイト（日本語版）：http://jp.ufc.com/\n\n*****************\n\nUFC Japan Twitter：https://twitter.com/UFC_JP\nUFC Japan Facebook：https://www.facebook.com/UFCJP/\nUFC Japan LINE：http://jp.ufc.com/news/3757 ｜ https://linliv.ee/d46c9Gz/co/ot/sh/ce\n\n【UFCについて】\nUFCは世界トップクラスのグローバルスポーツブランドであり、世界最大のペイ・パー・ビューイベントを主催する総合格闘技団体です。世界中に3億人以上のファンを誇るUFCのソーシャルメディアのフォロワー数は全プラットフォームを合わせて7,000万人を超え、UFC関連番組を世界170以上の国と地域で10億以上の世帯に40カ国語で放送しています。また、UFCは年間40回以上の興行を主催するとともに世界の名だたるアリーナを満員にし続けています。2001年以降、UFCはラスベガスを拠点に世界展開しており、各国の従業員ネットワークがそれを支えています。現在のロースターには男女合わせて570名以上のファイターが名を連ね、その出身国は55カ国以上です。コンバットスポーツにおいて世界をリードするデジタル有料配信サービスの“UFC FIGHT PASS（UFCファイトパス）”では興行の独占配信や試合のオンデマンド配信、オリジナルコンテンツを世界中のファンに提供しています。2016年、『Silver Lake Partners（シルバー・レイク・パートナーズ）』および『KKR』を戦略パートナーに、スポーツ、エンターテイメント、ファッションの国際的なリーディングカンパニーである『Endeavor（エンデバー）』が経営権を取得したことはスポーツ史において最大規模の取引となりました。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S8w_dtWrcig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S8w_dtWrcig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S8w_dtWrcig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S8w_dtWrcig/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S8w_dtWrcig"
+                },
+                "videoOwnerChannelTitle": "UFC Japan",
+                "videoOwnerChannelId": "UCpeLGvz0uICdk9ILfHKiJOg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zsJz-NRJOTa-41B7mG3nqYgkXfE",
+            "id": "UExhYUVlRnRObElKMVFDU1drQnZ4SXRiS1lFcEdFTkFTQy5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2021-02-04T03:14:48Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "【今日は何の日】1月4日編：ジョン・ジョーンズ vs. ダニエル・コーミエ（過去試合映像）",
+                "description": "2015年1月3日（日本時間4日）、UFCライトヘビー級王座をかけてジョン・ジョーンズとダニエル・コーミエが激突！\n\nその他、過去の名試合を見るならUFC Fight Pass → https://bit.ly/3hpe6XI\n★新たに日本語サービスを開始いたしました！\n☆UFCファイトナイトもPPVイベントも全部見られるオトクなプレミアムプランは日本限定！\n★試合のライブ配信は日本語実況解説付もお選びいただけます。\n\n*****************\n\nUFC公式サイト（日本語版）：http://jp.ufc.com/\n\n*****************\n\nUFC Japan Twitter：https://twitter.com/UFC_JP\nUFC Japan Facebook：https://www.facebook.com/UFCJP/\nUFC Japan LINE：http://jp.ufc.com/news/3757 ｜ https://linliv.ee/d46c9Gz/co/ot/sh/ce\n\n【UFCについて】\nUFCは世界トップクラスのグローバルスポーツブランドであり、世界最大のペイ・パー・ビューイベントを主催する総合格闘技団体です。世界中に3億人以上のファンを誇るUFCのソーシャルメディアのフォロワー数は全プラットフォームを合わせて7,000万人を超え、UFC関連番組を世界170以上の国と地域で10億以上の世帯に40カ国語で放送しています。また、UFCは年間40回以上の興行を主催するとともに世界の名だたるアリーナを満員にし続けています。2001年以降、UFCはラスベガスを拠点に世界展開しており、各国の従業員ネットワークがそれを支えています。現在のロースターには男女合わせて570名以上のファイターが名を連ね、その出身国は55カ国以上です。コンバットスポーツにおいて世界をリードするデジタル有料配信サービスの“UFC FIGHT PASS（UFCファイトパス）”では興行の独占配信や試合のオンデマンド配信、オリジナルコンテンツを世界中のファンに提供しています。2016年、『Silver Lake Partners（シルバー・レイク・パートナーズ）』および『KKR』を戦略パートナーに、スポーツ、エンターテイメント、ファッションの国際的なリーディングカンパニーである『Endeavor（エンデバー）』が経営権を取得したことはスポーツ史において最大規模の取引となりました。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FQevd7pXLaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FQevd7pXLaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FQevd7pXLaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FQevd7pXLaA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FQevd7pXLaA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ1QCSWkBvxItbKYEpGENASC",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FQevd7pXLaA"
+                },
+                "videoOwnerChannelTitle": "UFC Japan",
+                "videoOwnerChannelId": "UCpeLGvz0uICdk9ILfHKiJOg"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 63,
+        "totalResults": 59,
         "resultsPerPage": 50
     }
 }

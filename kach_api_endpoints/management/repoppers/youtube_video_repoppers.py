@@ -8,10 +8,16 @@ def create_new_youtube_videos(data_location):
 
         for item in data["items"]:
             clip = item["snippet"]
+            thumbnails = clip["thumbnails"]
 
             description_crop = clip["description"].split("\n\n")[0]
 
             clip_words = clip["title"].split(" ")
+
+            if "maxres" in thumbnails:
+                youtube_thumbnail = thumbnails["maxres"]["url"]
+            elif "standard" in thumbnails:
+                youtube_thumbnail = thumbnails["standard"]["url"]
 
             for word in clip_words:
                 if word == "vs" or word == "v":
@@ -24,12 +30,12 @@ def create_new_youtube_videos(data_location):
                     my_title.insert(2, "vs")
                     display_title = " ".join(my_title)
 
-                    YoutubeVideo(
-                        video_title=display_title,
-                        video_id=clip["resourceId"]["videoId"],
-                        video_description=description_crop,
-                        upload_date=clip["publishedAt"],
-                        video_thumbnail=clip["thumbnails"]["maxres"]["url"],
-                        playlist_id=clip["playlistId"],
-                        channel_id=clip["channelId"]
-                    ).save()
+            YoutubeVideo(
+                video_title=display_title,
+                video_id=clip["resourceId"]["videoId"],
+                video_description=description_crop,
+                upload_date=clip["publishedAt"],
+                video_thumbnail=youtube_thumbnail,
+                playlist_id=clip["playlistId"],
+                channel_id=clip["channelId"]
+            ).save()

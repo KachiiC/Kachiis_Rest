@@ -1,10 +1,335 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "SdGF9ZP4yOQu0oEUMQbkYl9wZo4",
+    "etag": "-zI3OAw7jG5yxqpFZrrCWybKi38",
+    "nextPageToken": "CDIQAA",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "y9r_SSQEZUb_F27POcOFEaTI9m8",
+            "etag": "gcVaKSD0L94Q06DbhD6LixB5m9c",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:06:37Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "The next Khabib? Islam Makhachev v Drew Dober | UFC 259 Fight Highlights",
+                "description": "Islam Makachev continued his impressive start to life in the UFC with a dominant win at #UFC259. He was watched over by mentor and friend Khabib Nurmagomedov as he beat Drew Dober via submission.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/77QpPfbX41c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/77QpPfbX41c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/77QpPfbX41c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/77QpPfbX41c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "77QpPfbX41c"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kBv965hrZfg98Sp97mcFNkHiwtw",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:06:17Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Petr Yan v Aljamain Sterling | UFC 259 Fight Highlights",
+                "description": "Petr Yan lost his belt to Aljamain Sterling in a controversial fashion as the Russian was disqualified at #UFC259.\n\nWatch UFC on BT Sport.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k3Mq29NV_Fc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k3Mq29NV_Fc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k3Mq29NV_Fc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k3Mq29NV_Fc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k3Mq29NV_Fc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k3Mq29NV_Fc"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0bVkAO1x8HWpOypzkFRlkmH2pAc",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:06:10Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Jan Blachowicz v Israel Adesanya | UFC 259 Fight Highlights",
+                "description": "Israel Adesanya suffers his first-ever defeat in MMA as Jan Blachowicz beats him by unanimous decision at #UFC259.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASqY13hL4n0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASqY13hL4n0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASqY13hL4n0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ASqY13hL4n0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ASqY13hL4n0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ASqY13hL4n0"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KKCWmUfYvwX9kt7ivz28diNGoTw",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:07:09Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Gane stays perfect! Jairzinho Rozenstruik v Ciryl Gane UFC Fight Highlights",
+                "description": "Ciryl Gane stays perfect in the UFC with the biggest win of his career against Jairzinho Rozenstruik.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nGet a BT Sport Monthly Pass now! - http://bit.ly/BTSportMonthlyPass​ \n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing​\n\nTwitter: http://twitter.com/btsport​\nFacebook: http://www.facebook.com/btsport​\nInstagram:http://instagram.com/btsport​\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jsFk6Al5_ZE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jsFk6Al5_ZE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jsFk6Al5_ZE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jsFk6Al5_ZE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jsFk6Al5_ZE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jsFk6Al5_ZE"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1L8uo1YlvWjXnyDAPRquKMMpIEg",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:07:16Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Non-stop action! Pedro Munhoz v Jimmie Rivera UFC Fight Highlights",
+                "description": "Pedro Munhoz and Jimmie Rivera fought a brilliant back and forth brawl in the UFC.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nGet a BT Sport Monthly Pass now! - http://bit.ly/BTSportMonthlyPass​ \n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing​\n\nTwitter: http://twitter.com/btsport​\nFacebook: http://www.facebook.com/btsport​\nInstagram:http://instagram.com/btsport​\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-0XyU_8LV7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-0XyU_8LV7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-0XyU_8LV7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-0XyU_8LV7A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-0XyU_8LV7A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-0XyU_8LV7A"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "v0iOZkNjJvHIrryNJI9YUHcpwCQ",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:06:23Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Stunning one-shot KO! Curtis Blaydes v Derrick Lewis UFC Fight Highlights",
+                "description": "Derrick Lewis stunned Curtis Blaydes with his serious knockout power to pick up another fine win!\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nGet a BT Sport Monthly Pass now! - http://bit.ly/BTSportMonthlyPass​​​​​ \n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport​​​​​\nFacebook: http://www.facebook.com/btsport​​​​​\nInstagram:http://instagram.com/btsport​​​​​\nWebsite: http://sport.bt.com​",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VR1NXVmlIYM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VR1NXVmlIYM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VR1NXVmlIYM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VR1NXVmlIYM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VR1NXVmlIYM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VR1NXVmlIYM"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "otxPITiO8SId6TNvgRZQVh9d3Ek",
+            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2021-03-12T17:07:02Z",
+                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
+                "title": "Kamaru Usman v Gilbert Burns UFC 258 Highlights",
+                "description": "Kamaru Usman dominates Gilbert Burns in Las Vegas as he claimed the win 34 seconds in to Round 3.\n\nThe Nigerian Nightmare defends his title for the third time for a record-breaking 13th straight win in the UFC welterweight division.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nGet a BT Sport Monthly Pass now! - http://bit.ly/BTSportMonthlyPass​​ \n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing​​\n\nTwitter: http://twitter.com/btsport​​\nFacebook: http://www.facebook.com/btsport​​\nInstagram:http://instagram.com/btsport​​\nWebsite: http://sport.bt.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2lmr-gXTejc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2lmr-gXTejc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2lmr-gXTejc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2lmr-gXTejc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2lmr-gXTejc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Basically MMA",
+                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2lmr-gXTejc"
+                },
+                "videoOwnerChannelTitle": "BT Sport",
+                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-LIfrekBkUnWb6Ytwz5gSbb6paU",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2021-02-08T00:04:58Z",
@@ -40,7 +365,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 0,
+                "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ugD0bxLTCUg"
@@ -51,7 +376,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "46DX3LuyND9gUphJnGBnoFTEJj8",
+            "etag": "jKUtdJBLvfuBy-IPE6Fa1DuqrJA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2021-01-28T15:41:33Z",
@@ -87,7 +412,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 1,
+                "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "C2xMT-mC6ag"
@@ -98,7 +423,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IBulVCnlrZ8skwhXHKsg6OHdjBc",
+            "etag": "o510lEM4H-yFVXthDyknDReVVB4",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2021-01-27T13:22:12Z",
@@ -134,7 +459,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 2,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nluKu83FUig"
@@ -145,7 +470,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "84L6MD3qPz5WOlv1MBapNKCWI9s",
+            "etag": "1aNZSTOnKaRBUWAMebE0qI-LK0c",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
                 "publishedAt": "2021-01-27T13:22:34Z",
@@ -181,7 +506,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 3,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9xr-FtUKPCo"
@@ -192,7 +517,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_GvrhzJ7YsxG3pW3AOnU4xq71Ds",
+            "etag": "Usq22K45J082Re-ZS_W7448XAmA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2021-01-27T13:22:28Z",
@@ -228,7 +553,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 4,
+                "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "u58gdiWGQks"
@@ -239,7 +564,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "lkv4sV9BbcMkJPl7z6Kwoh5DlNE",
+            "etag": "R2vbvI2Tm0UjY-HD904-7A10DhA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2021-01-28T15:13:00Z",
@@ -275,7 +600,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 5,
+                "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "INHgz2Vy-U0"
@@ -286,7 +611,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vjj37QKlxkCLFGOnOjifHbK6L1c",
+            "etag": "KnXJOSgIdj9km44CBSLX6WoTBdA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2021-01-18T22:30:25Z",
@@ -322,7 +647,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 6,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "M1TIjASyczQ"
@@ -333,7 +658,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "M2YrIkkNtYZ8UPbQJR7S458ZvWU",
+            "etag": "d91rei8Juy3LHajA4kP5pSOmQ3A",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
                 "publishedAt": "2021-01-18T22:29:26Z",
@@ -369,7 +694,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 7,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "07OdRHabTDI"
@@ -380,7 +705,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "c6cvB6jCcUiTa24y_o56yd0hjzs",
+            "etag": "glGpqdXc2YheO4EbYHNV9inCLIY",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2021-01-15T17:04:47Z",
@@ -416,7 +741,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 8,
+                "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qcoyqN8Shxs"
@@ -427,7 +752,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0g1ABXk0JmsrfSSiJPcxJHvexNk",
+            "etag": "WMXD3oPjnWsslOvVxhIgMZtNaDM",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
                 "publishedAt": "2021-01-15T17:04:53Z",
@@ -463,7 +788,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 9,
+                "position": 16,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "_jd9NjUoq-M"
@@ -474,7 +799,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NS14tZukLwltx8l6Slxi0wa5Ce0",
+            "etag": "pPMbmNPjY8SjLX4aEijFjet4gkQ",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45NkVENTkxRDdCQUFBMDY4",
             "snippet": {
                 "publishedAt": "2021-01-15T17:05:10Z",
@@ -510,7 +835,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 10,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FUClmKaGM2I"
@@ -521,7 +846,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sV4swXdH-wkLcnRGa2soEUHZHqc",
+            "etag": "z0kx3jnge88KZFPNbYJeaYPmB44",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2021-01-15T17:04:38Z",
@@ -557,7 +882,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 11,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vYjuiWEs8LE"
@@ -568,7 +893,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "T8hs1X7uLjK1DbX9xtRrdH1PDc4",
+            "etag": "G65_uIQvENIkL6dKbfoYY97c21M",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41MzY4MzcwOUFFRUU3QzEx",
             "snippet": {
                 "publishedAt": "2021-01-15T17:09:44Z",
@@ -604,7 +929,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 12,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "myh0X6uXUfs"
@@ -615,7 +940,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "VwxqHj2ONHSLgMIIAPSPQOiwS2I",
+            "etag": "u-D59gKD67EDnL4RS_SbDA7jclc",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
                 "publishedAt": "2021-01-15T17:07:38Z",
@@ -651,7 +976,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 13,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MSWa86GiFXU"
@@ -662,7 +987,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GaHkLYzKn09NCsZIAMvDHkoxtV4",
+            "etag": "ljAgiVAPyaPuhseGkEUAlCBpgUc",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2021-01-15T17:07:55Z",
@@ -698,7 +1023,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 14,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nS7t4jZnwBg"
@@ -709,7 +1034,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hTefGFXO2Zd4Qn3Orx3NkESXusw",
+            "etag": "4Jh6_9t2TlNh4LfHlNRab8qbiLs",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
                 "publishedAt": "2021-01-15T17:10:06Z",
@@ -745,7 +1070,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 15,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nFwUtk3xo28"
@@ -756,7 +1081,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "evfXxbczqOiOoUl1iV7_p7Fm87k",
+            "etag": "Xr1ozg-zQhb_L5izTLusGIFZUIM",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
                 "publishedAt": "2020-11-22T18:46:48Z",
@@ -792,7 +1117,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 16,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9ibZ4j6B7KE"
@@ -803,7 +1128,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9k18s_bn9DLMMarS6k5KW1iELQg",
+            "etag": "zVjz-4VsSxUhpno8JnJ5DOd6ir4",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2020-11-22T18:46:29Z",
@@ -839,7 +1164,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 17,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PtwKdvJTZH8"
@@ -850,7 +1175,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Vui4Tk3J7G8l1k87cqMNaRwD2Mo",
+            "etag": "R55Gol16MZZ4IWbjE36MX-QWWPs",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
                 "publishedAt": "2020-11-15T22:44:42Z",
@@ -886,7 +1211,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 18,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-98ZO5GKBdg"
@@ -897,7 +1222,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "YLR5ofakWLgyQst204FNBCbRs_0",
+            "etag": "X9ChIse2IPColsfyvUCJXgyCPwA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2020-11-15T22:44:50Z",
@@ -933,7 +1258,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 19,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "shVs1xTUEko"
@@ -944,7 +1269,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "poonaXao2SW4sznP8F7_2rJjWRo",
+            "etag": "xBYeY0MlC5736nk5Fm0eo_Q6foA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2020-11-10T15:10:40Z",
@@ -980,7 +1305,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 20,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tG5bopH5Pj8"
@@ -991,7 +1316,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "D2LzuP6qJ0wnKJuLg1Npil4RNmY",
+            "etag": "aBrHVAj6KbUvr1WnzIAVkEjZezE",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2020-11-10T15:11:03Z",
@@ -1027,7 +1352,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 21,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "oemO7lzL_eI"
@@ -1038,7 +1363,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9BEoDmBQvk_QRwBFrlWvhMJOIJk",
+            "etag": "gWCX0EuV_43xULzOMm9SjH0XgYo",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2020-11-10T15:11:13Z",
@@ -1074,7 +1399,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 22,
+                "position": 29,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7IXS91yB3D0"
@@ -1085,7 +1410,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NkFWapks8ts4e_V3FI0gA0J5EQg",
+            "etag": "JP4qw_tvnOvOtla0taDuyg2dIeo",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-11-10T15:11:18Z",
@@ -1121,7 +1446,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 23,
+                "position": 30,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "6h6Prt1C1Qw"
@@ -1132,7 +1457,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ItlGwlZqKfcVC5E3XwCBLYF29Nk",
+            "etag": "yjcQo4L_3LT6IbpBHBytW2F3yYU",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-10-27T01:07:30Z",
@@ -1168,7 +1493,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 24,
+                "position": 31,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "kyhgMr0J36o"
@@ -1179,7 +1504,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3Yue_aPMHAt7ux1KLfwUknJCEVs",
+            "etag": "5fZSimtlE8908mx35VnwGI4K0ow",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2020-10-27T01:07:37Z",
@@ -1215,7 +1540,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 25,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MyI8AsqLWPI"
@@ -1226,7 +1551,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cfz5Dc8jcbiWyPdgH7A7SRbpfBg",
+            "etag": "V_QGiNYkORPp7XfiX-R5FatJaB4",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2020-10-22T23:14:29Z",
@@ -1262,7 +1587,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 26,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "D1EzyfbArRQ"
@@ -1273,7 +1598,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ZWoDeQ6lpth1p25GHRyVXSDxR7U",
+            "etag": "DnTJwz3S6FZ-puBtRkAgBz_QZ2M",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-10-22T23:14:11Z",
@@ -1309,7 +1634,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 27,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5aXscYK3fgY"
@@ -1320,7 +1645,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3dHjfgkhXPjJXuBLSeur2nnKm_A",
+            "etag": "DHnK9-Ll6jSeIWXC3Bxigs68GHE",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2020-10-22T23:13:51Z",
@@ -1356,7 +1681,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 28,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ofXx6J5EHL4"
@@ -1367,7 +1692,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8v8QwtcwuxcClyFnIQT692_7G6o",
+            "etag": "ikhRkBZdyyOZZ2GHAyDuqoPyb5Q",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2020-10-22T23:13:03Z",
@@ -1403,7 +1728,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 29,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-4_QqWMIsnE"
@@ -1414,7 +1739,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SA2zT5LF9uuf70HmAHAWvPP4Qq0",
+            "etag": "ongx4fNZGsIoqK4q0_uh5-6brpU",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2020-10-22T23:12:41Z",
@@ -1450,7 +1775,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 30,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "muUotyCqWkk"
@@ -1461,7 +1786,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0zcWBaCpLMhp4Nzm524hVObC170",
+            "etag": "B2uSYG3YA9U46KGS1rA8uT2YM2Y",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2020-09-27T22:09:35Z",
@@ -1497,7 +1822,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 31,
+                "position": 38,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "z4GjhImDvy0"
@@ -1508,7 +1833,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4u9HOJSTRWZNxWJoG7gqtplB7Mk",
+            "etag": "RzaAhhlRdgnMu_RRH6fQUF_LobE",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2020-09-27T22:09:56Z",
@@ -1544,7 +1869,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 32,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XemXmylekMI"
@@ -1555,7 +1880,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "U0AHBszZZirWZhI0zic_tpX1P38",
+            "etag": "3wReVPlbp27h1r-cYt_bvzdOXeY",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2020-09-06T15:54:19Z",
@@ -1591,7 +1916,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 33,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "AP3xBXHTSEk"
@@ -1602,7 +1927,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HSVVuJODH-jZTancF4tY3ZxLqc8",
+            "etag": "2X2IdLuCTx4DXCvs_JZO4fJyBjA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2020-08-23T17:14:31Z",
@@ -1638,7 +1963,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 34,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rpRnE8BAFpY"
@@ -1649,7 +1974,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3cm783G33jyegjYVPyck_ep3734",
+            "etag": "LHvMvuAHnEDKHUbpt6jrsdZJwgU",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2020-08-18T02:23:53Z",
@@ -1685,7 +2010,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 35,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9TS1euc3DVw"
@@ -1696,7 +2021,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "esMnHiX3TYH4VV6AJjul2c0xNx4",
+            "etag": "_9WlAsZYihEvm0AGNds2tFpjoVg",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2020-08-18T02:25:02Z",
@@ -1732,7 +2057,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 36,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aLIKZS5kPs0"
@@ -1743,7 +2068,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Hu7acHUbVo7UhSe8PAEvWIJD1kI",
+            "etag": "7bY1TTYaAP7WD21NZYCOSjYnzQA",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2020-08-18T02:24:47Z",
@@ -1779,7 +2104,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 37,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vysBEblWBoQ"
@@ -1790,7 +2115,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IvqFfWS5r4KWArIukpmetmoKd9o",
+            "etag": "kDC9GYH1PLhjugazH9QCi3vu64A",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2020-08-02T17:46:37Z",
@@ -1826,7 +2151,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 38,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xO9kHGGVioY"
@@ -1837,7 +2162,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HsB0dNTmd_eYlZVx9oOyQkN8OQg",
+            "etag": "V1bxfa--SB_UqEh_P8LMzC6A1J0",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-07-27T13:06:27Z",
@@ -1873,7 +2198,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 39,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "iBE0ZeV7xyE"
@@ -1884,7 +2209,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RpFEr6PHM_F-VFWssX5pIjUmsjY",
+            "etag": "JKNTmvD2bCh4fnhpE3uoPfIeYDw",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2020-07-27T13:06:11Z",
@@ -1920,7 +2245,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 40,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OOY2rzONC1k"
@@ -1931,7 +2256,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JnLM3kN4Yds2XQw8GUnWWqPZAUk",
+            "etag": "psjBiEZhvm1nXvXR_DL6GFvB6TI",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2020-07-27T13:09:23Z",
@@ -1967,7 +2292,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 41,
+                "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lmr1gRq5d58"
@@ -1978,7 +2303,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "t-5D_A_e_WioRcLQQFdWKaFkx8U",
+            "etag": "tNo-XIXkPTqaKHYsNxJk2UCWO_4",
             "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-07-17T10:54:46Z",
@@ -2014,7 +2339,7 @@
                 },
                 "channelTitle": "Basically MMA",
                 "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 42,
+                "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "bR3ApHloySw"
@@ -2022,339 +2347,10 @@
                 "videoOwnerChannelTitle": "BT Sport",
                 "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
             }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "XxOSzED6-UiGkb2cqKoqFwHn6eQ",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS5DQUNERDQ2NkIzRUQxNTY1",
-            "snippet": {
-                "publishedAt": "2020-07-12T19:31:26Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Petr Yan v Jose Aldo | UFC 251 Fight Highlights",
-                "description": "Petr Yan and Jose Aldo battled it for the vacant bantamweight title at #UFC251.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/XcLntPuPpRY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 43,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "XcLntPuPpRY"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "qTbe7ssj5ovhmyS9pjQ-Svx6KN4",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4xMkVGQjNCMUM1N0RFNEUx",
-            "snippet": {
-                "publishedAt": "2020-07-12T19:30:58Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Kamaru Usman v Jorge Masvidal | UFC 251 Fight Highlights",
-                "description": "Kamaru Usman takes on Jorge Masvidal at #UFC251 with Gambred looking to add the welterweight gold to his BMF title.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram: http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/70qHvD34umM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/70qHvD34umM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/70qHvD34umM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/70qHvD34umM/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/70qHvD34umM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 44,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "70qHvD34umM"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "4tdx9HRQyt89RAl63ADbrTTmp68",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41MzJCQjBCNDIyRkJDN0VD",
-            "snippet": {
-                "publishedAt": "2020-07-12T19:31:14Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Alexander Volkanovski v Max Holloway | UFC 251 Fight Highlights",
-                "description": "Max Holloway was out for revenge against Alexander Volkanovski and a chance to reclaim the title he had lost to the Australian in December.\n\nSubscribe to our YouTube channel for the best videos from BT Sport  ➡️ http://bit.ly/17YTeL5\n\nSubscribe to our Boxing YouTube channel ➡️ http://po.st/NoFilterYT\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/lQs374OrmG4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 45,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "lQs374OrmG4"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ZtK18joKXDk_mSUyj5Z4VwU7K2A",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4wMTcyMDhGQUE4NTIzM0Y5",
-            "snippet": {
-                "publishedAt": "2020-06-29T20:22:25Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Curtis Blaydes v Alexander Volkov | Fight Highlights",
-                "description": "Curtis Blaydes took on Alexander Volkov in a battle of the heavyweights as the main event at the UFC Apex.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/OmHak8jxhhA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OmHak8jxhhA"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "l43v5RCirKc8c6vO24FyEzfik0Q",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS4yODlGNEE0NkRGMEEzMEQy",
-            "snippet": {
-                "publishedAt": "2020-06-29T20:21:44Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Amanda Nunes v Felicia Spencer fight highlights | UFC 250",
-                "description": "Amanda Nunes produced a dominant performance to defend her bantamweight title for the first time against Felicia Spencer at #UFC250.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/G46y9kavO-o/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 47,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "G46y9kavO-o"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "laYhC_PP3IPIODA5T3fzGeqRldE",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41MjE1MkI0OTQ2QzJGNzNG",
-            "snippet": {
-                "publishedAt": "2020-06-29T20:26:24Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Tyron Woodley v Gilbert Burns fight highlights | UFC Vegas",
-                "description": "Tyron Woodley returned the Octagon for the first time in 15 months to face up and coming Gilbert Burns who was on a five-fight win streak.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/5HtXqx2MSvY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 48,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "5HtXqx2MSvY"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "LEySiyx3fAbeEd4Izut3aP38Bm4",
-            "id": "UExhYUVlRnRObElKMllpZ3k0d0hDUWxjdVJaZzROS2JpNS41QTY1Q0UxMTVCODczNThE",
-            "snippet": {
-                "publishedAt": "2020-08-21T13:56:02Z",
-                "channelId": "UCGFG6QjQru4YRlBfZ1HqNFA",
-                "title": "Tony Ferguson v Justin Gaethje fight highlights | UFC 249",
-                "description": "Justin Gaethje and Tony Ferguson put on an incredible fight for the interim lightweight belt and the chance to fight Khabib Nurmagomedov at UFC 249.\n\nHit 'Subscribe' above to ensure you never miss a video from the BT Sport YouTube channel.\n\nVisit and subscribe to our 'BT Sport Boxing' YouTube channel ➡️ http://www.youtube.com/c/btsportboxing\n\nTwitter: http://twitter.com/btsport\nFacebook: http://www.facebook.com/btsport\nInstagram:http://instagram.com/btsport\nWebsite: http://sport.bt.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xURILWCETkg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xURILWCETkg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xURILWCETkg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/xURILWCETkg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/xURILWCETkg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Basically MMA",
-                "playlistId": "PLaaEeFtNlIJ2Yigy4wHCQlcuRZg4NKbi5",
-                "position": 49,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "xURILWCETkg"
-                },
-                "videoOwnerChannelTitle": "BT Sport",
-                "videoOwnerChannelId": "UC4i_9WvfPRTuRWEaWyfKuFw"
-            }
         }
     ],
     "pageInfo": {
-        "totalResults": 50,
+        "totalResults": 57,
         "resultsPerPage": 50
     }
 }
