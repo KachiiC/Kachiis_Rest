@@ -6,7 +6,7 @@ from .backend_list.mma_backend.mma_dictionary.mma_dictionary_view import mma_dic
 from .backend_list.mma_backend.mma_techniques.mma_techniques_view import mma_techniques_list
 from .backend_list.mma_backend.mma_fighters.mma_fighter_view import mma_fighter_list, FeaturedFighterApiView
 from .backend_list.mma_backend.mma_fights.mma_fights_view import mma_fights_list
-from .backend_list.mma_backend.mma_divisions.mma_divisions_view import mma_divisions_list
+from .backend_list.mma_backend.mma_divisions.mma_divisions_view import mma_divisions_list, mma_mens_p4p, mma_womens_p4p
 from .backend_list.mma_backend.mma_articles.mma_articles_view import mma_articles_list
 from .backend_list.mma_backend.mma_store.mma_store_view import mma_store_list
 
@@ -32,6 +32,8 @@ urlpatterns = [
     path('mma_fights_list/', mma_fights_list, name="mma_fights_list"),
     # MMA Divisions
     path('mma_divisions_list/', mma_divisions_list, name="mma_divisions_list"),
+    path('mma_divisions_list/mma_mens_p4p/', mma_mens_p4p, name="mma_mens_p4p"),
+    path('mma_divisions_list/mma_womens_p4p/', mma_womens_p4p, name="mma_womens_p4p"),
     # MMA Store
     path("mma_store_list/", mma_store_list, name="mma_store_list")
 ]

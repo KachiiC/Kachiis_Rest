@@ -11,3 +11,21 @@ def mma_divisions_list(request):
     serializer = MMADivisionSerializer(data, context={'request': request}, many=True)
 
     return Response(serializer.data)
+
+
+@api_view(['GET'])
+def mma_mens_p4p(request):
+    data = Division.objects.get(weight_class="Men's Pound-for-Pound Top Rank")
+
+    serializer = MMADivisionSerializer(data, context={'request': request})
+
+    return Response(serializer.data)
+
+
+@api_view(['GET'])
+def mma_womens_p4p(request):
+    data = Division.objects.get(weight_class="Women's Pound-for-Pound Top Rank")
+
+    serializer = MMADivisionSerializer(data, context={'request': request})
+
+    return Response(serializer.data)
