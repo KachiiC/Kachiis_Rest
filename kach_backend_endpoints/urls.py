@@ -7,7 +7,6 @@ from .backend_list.mma_backend.mma_techniques.mma_techniques_view import mma_tec
 from .backend_list.mma_backend.mma_fighters.mma_fighter_view import mma_fighter_list, FeaturedFighterApiView
 from .backend_list.mma_backend.mma_fights.mma_fights_view import mma_fights_list
 from .backend_list.mma_backend.mma_divisions.mma_divisions_view import mma_divisions_list, mma_mens_p4p, mma_womens_p4p
-from .backend_list.mma_backend.mma_articles.mma_articles_view import mma_articles_list
 from .backend_list.mma_backend.mma_store.mma_store_view import mma_store_list
 
 urlpatterns = [
@@ -19,7 +18,6 @@ urlpatterns = [
     # Cards
     path("cards_list/", cards_list, name="cards_list"),
     # MMA Article List
-    # path("mma_articles_list/", mma_articles_list, name="mma_articles_list"),
     path("mma_articles_list", MMAArticlesView.as_view(), name="mma_articles_refresh"),
     # MMA Dictionary List
     path("mma_dictionary_list/", mma_dictionary_list, name="mma_dictionary_list"),

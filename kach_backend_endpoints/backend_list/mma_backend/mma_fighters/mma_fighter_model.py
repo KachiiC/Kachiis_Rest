@@ -24,6 +24,7 @@ class Fighter(models.Model):
     wins_via_ko = models.IntegerField()
     wins_via_sub = models.IntegerField()
     wins_via_dec = models.IntegerField()
+    status = models.CharField(max_length=100)
 
     def __str__(self):
         return f"{self.first_name} {self.last_name}"

@@ -11,7 +11,7 @@ my_url = "https://www.mmaweekly.com/category/news"
 
 class MMAArticlesView(views.APIView):
 
-    @method_decorator(cache_page(60 * 60 * 24 * 7))
+    @method_decorator(cache_page(60 * 60 * 24))
     def get(self, request):
         # Delete all objects
         Article.objects.all().delete()
