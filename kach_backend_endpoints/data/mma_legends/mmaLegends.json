@@ -1,0 +1,82 @@
+[
+    {
+        "first_name": "Anthony",
+        "last_name": "Pettis",
+        "weight_class": "Lightweight"
+    },
+    {
+        "first_name": "Demetrious",
+        "last_name": "Johnson",
+        "weight_class": "Flyweight"
+    },
+    {
+        "first_name": "Georges",
+        "last_name": "St-Pierre",
+        "weight_class": "Welterweight"
+    },
+    {
+        "first_name": "Royce",
+        "last_name": "Gracie",
+        "weight_class": "Welterweight"
+    },
+    {
+        "first_name": "Matt",
+        "last_name": "Hughes",
+        "weight_class": "Welterweight"
+    },
+    {
+        "first_name": "Anderson",
+        "last_name": "Silva",
+        "weight_class": "Middleweight"
+    },
+    {
+        "first_name": "Dan",
+        "last_name": "Henderson",
+        "weight_class": "Middleweight"
+    },
+    {
+        "first_name": "Wanderlei",
+        "last_name": "Silva",
+        "weight_class": "Middleweight"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Bisping",
+        "weight_class": "Middleweight"
+    },
+    {
+        "first_name": "Randy",
+        "last_name": "Couture",
+        "weight_class": "Light Heavyweight"
+    },
+    {
+        "first_name": "Chuck",
+        "last_name": "Liddell",
+        "weight_class": "Light Heavyweight"
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Cormier",
+        "weight_class": "Heavyweight"
+    },
+    {
+        "first_name": "Cain",
+        "last_name": "Velasquez",
+        "weight_class": "Heavyweight"
+    },
+    {
+        "first_name": "Fabricio",
+        "last_name": "Werdum",
+        "weight_class": "Heavyweight"
+    },
+    {
+        "first_name": "Junior",
+        "last_name": "dos Santos",
+        "weight_class": "Heavyweight"
+    },
+    {
+        "first_name": "Alistar",
+        "last_name": "Overeem",
+        "weight_class": "Heavyweight"
+    }
+]

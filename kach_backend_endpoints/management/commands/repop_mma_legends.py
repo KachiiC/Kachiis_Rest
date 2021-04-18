@@ -1,80 +1,71 @@
+import os
+import json
+import csv
 from django.core.management.base import BaseCommand
 from kach_backend_endpoints.management.url_webscrapper import url_webscraper
 from kach_backend_endpoints.management.repoppers.mma_p4p_repopper import create_mma_p4p
 from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_model import Division
 from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
 from kach_backend_endpoints.management.repoppers.mma_fighter_repoppers import create_mma_fighter
+from kach_backend_endpoints.backend_list.mma_backend.mma_dictionary.mma_dictionary_model import Dictionary
+from kach_backend_endpoints.management.repoppers.mma_dictionary_repoppers import create_mma_dictionary
 
-my_url = "https://www.ufc.com/rankings"
+file_location = os.getcwd() + "/kach_backend_endpoints/data/mma_legends/"
+CSV_FILE = file_location + "mma_legends.csv"
+JSON_OUTPUT = file_location + "mmaLegends.json"
+
+my_url = "https://www.ufc.com/athlete/"
 
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        # Delete all divisions and Fighters
-        Division.objects.all().delete()
-        Fighter.objects.all().delete()
+        file_array = []
 
-        # grabbing page
-        page = url_webscraper(my_url)
-        # grabs each division
-        rankings = page.findAll("table")[:-1]
+        with open(CSV_FILE, encoding='utf-8') as csvf:
+            csvreader = csv.DictReader(csvf)
 
-        for rank in rankings:
-            division_name = rank.h4.text.strip()
+            print("converting csv to json..")
 
-            if division_name.split()[0] == "Women's":
-                division_gender = "Women"
-            else:
-                division_gender = "Men"
+            for row in csvreader:
+                file_array.append(row)
 
-            if division_name != "Men's Pound-for-Pound Top Rank" \
-                    and division_name != "Women's Pound-for-Pound Top Rank":
+            with open(JSON_OUTPUT, 'w', encoding='utf-8') as jsonf:
+                json_string = json.dumps(file_array, indent=4)
+                jsonf.write(json_string)
 
-                division_champion = rank.h5.text.strip().split()
-                create_mma_fighter(division_champion, "champion", division_name)
+        print("conversion complete!")
 
-                division_rankings = rank.findAll("tr")
+        with open(JSON_OUTPUT, 'r') as json_file:
+            fighter_data = json.load(json_file)
 
-                for division_fighter in division_rankings:
-                    fighter_info = division_fighter.findAll("td")
+        for fighter in fighter_data:
 
-                    fighter_name = fighter_info[1].text.strip().split()
+            # grabbing page
 
-                    fighter_rank = fighter_info[0].text
+            fighter_name = fighter["first_name"] + " " + fighter["last_name"]
+            fighter_rank = 0
+            division_name = fighter["weight_class"]
 
-                    create_mma_fighter(fighter_name, fighter_rank, division_name)
+            create_mma_fighter(fighter_name, fighter_rank, division_name)
 
-            Division(
-                weight_class=division_name,
-                gender=division_gender,
-                pound_for_pound=False
-            ).save()
+            print("Legend Created!")
 
-            print(f"{division_name} added...")
-
-        else:
-            Division(
-                weight_class=division_name[:-9],
-                gender=division_gender,
-                pound_for_pound=True
-            ).save()
-
-        # Adds fighters to divisions
-        all_fighters = Fighter.objects.all()
-        all_divisions = Division.objects.all()
-
-        print("Adding fighters to correct divisions...")
-        for division in all_divisions:
-            for fighter in all_fighters:
-                if fighter.weight_class == division.weight_class:
-                    division.fighters.add(fighter)
-        print("All divisions added!")
-
-        print("Adding fighters to p4p_list...")
-        pound_for_pound_tables = [0, 9]
-
-        for division in pound_for_pound_tables:
-            create_mma_p4p(rankings[division])
-        print("p4p division added!")
-
-        print("Repop Complete!")
+        # # Adds fighters to divisions
+        # all_fighters = Fighter.objects.all()
+        # all_divisions = Division.objects.all()
+        #
+        # print("Adding fighters to correct divisions...")
+        # for division in all_divisions:
+        #     for fighter in all_fighters:
+        #         if fighter.weight_class == division.weight_class:
+        #             division.fighters.add(fighter)
+        # print("All divisions added!")
+        #
+        # print("Adding fighters to p4p_list...")
+        # pound_for_pound_tables = [0, 9]
+        #
+        # for division in pound_for_pound_tables:
+        #     create_mma_p4p(rankings[division])
+        # print("p4p division added!")
+        #
+        # print("Repop Complete!")
