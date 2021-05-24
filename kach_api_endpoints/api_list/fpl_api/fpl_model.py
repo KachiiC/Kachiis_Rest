@@ -15,12 +15,14 @@ class MatchDay(models.Model):
 
 class Player(models.Model):
     player_name = models.CharField(max_length=150)
+    team_name = models.CharField(max_length=1000)
     player_id = models.IntegerField()
     points_total = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(100)])
     points_on_transfers = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(1000)])
     transfers_total = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(570)])
     team_value = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(2000)])
     current_gameweek = models.IntegerField(validators=[MinValueValidator(1), MaxValueValidator(38)])
+    last_gameweek_points = models.IntegerField(validators=[MinValueValidator(0), MaxValueValidator(2000)])
     matches = models.ManyToManyField('MatchDay', blank=True)
     chips = models.ManyToManyField('Chip', blank=True)
 

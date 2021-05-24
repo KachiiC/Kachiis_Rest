@@ -42,11 +42,13 @@ def create_fpl_data(data_location):
             transfer_points.append(single_data["event_transfers_cost"])
 
         Player(
-            player_name=data[1]["player_first_name"],
             player_id=data[1]["id"],
+            player_name=data[1]["player_first_name"],
+            team_name=data[1]["name"],
+            current_gameweek=data[1]["current_event"],
+            last_gameweek_points=data[1]["summary_event_points"],
             points_total=data[1]["summary_overall_points"],
             transfers_total=data[1]["last_deadline_total_transfers"],
-            current_gameweek=data[1]["current_event"],
             team_value=data[1]['last_deadline_value'],
             points_on_transfers=functools.reduce(lambda a, b: a + b, transfer_points),
         ).save()
