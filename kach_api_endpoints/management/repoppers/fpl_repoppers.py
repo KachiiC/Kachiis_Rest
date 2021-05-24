@@ -1,3 +1,4 @@
+import functools
 import json
 from kach_api_endpoints.api_list.fpl_api.fpl_model import MatchDay, Player, Chip
 
@@ -35,10 +36,17 @@ def create_fpl_data(data_location):
                 chip_matchday=chip["event"]
             ).save()
 
+        transfer_points = []
+
+        for single_data in data[0]["current"]:
+            transfer_points.append(single_data["event_transfers_cost"])
+
         Player(
-            player_id=data[1]["id"],
             player_name=data[1]["player_first_name"],
+            player_id=data[1]["id"],
             points_total=data[1]["summary_overall_points"],
             transfers_total=data[1]["last_deadline_total_transfers"],
-            current_gameweek=data[1]["current_event"]
+            current_gameweek=data[1]["current_event"],
+            team_value=data[1]['last_deadline_value'],
+            points_on_transfers=functools.reduce(lambda a, b: a + b, transfer_points),
         ).save()

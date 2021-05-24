@@ -3,6 +3,8 @@ import json
 from kach_backend_endpoints.management.csv_converter import csv_converter
 from django.core.management.base import BaseCommand
 from kach_backend_endpoints.management.repoppers.mma_fighter_repoppers import create_mma_fighter
+from kach_backend_endpoints.backend_list.mma_backend.mma_divisions.mma_divisions_model import Division
+from kach_backend_endpoints.backend_list.mma_backend.mma_fighters.mma_fighter_model import Fighter
 
 file_location = os.getcwd() + "/kach_backend_endpoints/data/mma_legends/"
 CSV_FILE = file_location + "mma_legends.csv"
@@ -29,24 +31,19 @@ class Command(BaseCommand):
             division_name = fighter["weight_class"]
 
             # create_mma_fighter(fighter_name, fighter_rank, division_name)
+
+            print(f"{fighter_name} created!")
             print(f"{fighter_name} created!")
 
-        # # Adds fighters to divisions
+        # Adds fighters to divisions
         # all_fighters = Fighter.objects.all()
         # all_divisions = Division.objects.all()
-        #
+        # #
         # print("Adding fighters to correct divisions...")
         # for division in all_divisions:
         #     for fighter in all_fighters:
         #         if fighter.weight_class == division.weight_class:
         #             division.fighters.add(fighter)
         # print("All divisions added!")
-        #
-        # print("Adding fighters to p4p_list...")
-        # pound_for_pound_tables = [0, 9]
-        #
-        # for division in pound_for_pound_tables:
-        #     create_mma_p4p(rankings[division])
-        # print("p4p division added!")
         #
         # print("Repop Complete!")

@@ -12,7 +12,7 @@ class MatchDaySerializer(serializers.ModelSerializer):
             'team_value',
             'game_week_transfers',
             'game_week_transfers_cost',
-            'bench_points'
+            'bench_points',
         ]
 
 
@@ -35,7 +35,9 @@ class PlayerSerializer(serializers.ModelSerializer):
             'player_id',
             'points_total',
             'transfers_total',
+            'points_on_transfers',
+            'team_value',
             'current_gameweek',
             'chips',
-            'matches'
+            'matches',
         ]
