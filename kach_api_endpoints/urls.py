@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .api_list.fpl_api.fpl_views import match_day_list, players_list, player_stats, FplApiView
+from .api_list.fpl_api.fpl_views import match_day_list, players_list, player_stats, FplApiView, FplSearchApiView
 from .api_list.youtube_api.youtube_views import \
     single_youtube_video, \
     youtube_playlist, \
@@ -14,6 +14,7 @@ urlpatterns = [
     path("fpl_matches/", match_day_list, name="fpl_matches"),
     path("fpl_players/", players_list, name="fpl_players"),
     path("fpl_players_refresh/", FplApiView.as_view(), name="fpl_players_refresh"),
+    path("fpl_league_search/<int:input_league_id>", FplSearchApiView.as_view(), name="fpl_league"),
     path("fpl_players/<str:player_name>", player_stats, name="fpl_players_stats"),
     # Youtube Videos
     path("youtube_videos/", youtube_videos_list, name="youtube_videos"),

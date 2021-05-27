@@ -15,12 +15,18 @@ class MatchDaySerializer(serializers.ModelSerializer):
             'bench_points',
         ]
 
+
 class ChipSerializer(serializers.ModelSerializer):
     chip_date = serializers.DateTimeField("%d/%m/%Y")
 
     class Meta:
         model = Chip
-        fields = ["chip_name", "chip_date", "chip_matchday"]
+        fields = [
+            "chip_owner",
+            "chip_name",
+            "chip_date",
+            "chip_matchday"
+        ]
 
 
 class PlayerSerializer(serializers.ModelSerializer):
