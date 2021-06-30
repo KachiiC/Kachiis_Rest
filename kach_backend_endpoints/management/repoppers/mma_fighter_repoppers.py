@@ -12,7 +12,13 @@ def create_mma_fighter(fighter, rank, division):
 
     fighter_name = "".join(fighter_name_letters).split()
 
-    fighter_url = f"https://www.ufc.com/athlete/{'-'.join(fighter_name)}"
+    if len(fighter_name) > 1:
+        fighter_url = f"https://www.ufc.com/athlete/{'-'.join(fighter_name)}"
+    elif fighter_name[0] == 'Sumudaerji':
+        fighter_url = 'https://www.ufc.com/athlete/Su-mudaerji'
+    else:
+        fighter_url = f"https://www.ufc.com/athlete/{''.join(fighter_name)}"
+
     fighter_page = url_webscraper(fighter_url)
 
     # Code Set Ups
@@ -33,12 +39,15 @@ def create_mma_fighter(fighter, rank, division):
     fighter_height_inches = float(fighter_info[0].findAll("div", "c-bio__text")[1].text)
 
     # Saved Info
-    if len(fighter_name) > 2:
-        fighter_first_name = fighter_name[0]
-        fighter_last_name = " ".join([fighter_name[1], fighter_name[2]])
-    else:
-        fighter_first_name = fighter_name[0]
-        fighter_last_name = fighter_name[1]
+    # if len(fighter_name) > 2:
+    #     fighter_first_name = fighter_name[0]
+    #     fighter_last_name = " ".join([fighter_name[1], fighter_name[2]])
+    # elif len(fighter_name) == 1:
+    #     fighter_first_name = fighter_name[0]
+    #     fighter_last_name = ""
+    # else:
+    #     fighter_first_name = fighter_name[0]
+    #     fighter_last_name = fighter_name[1]
 
     if rank == "champion":
         fighter_rank = None
@@ -49,6 +58,9 @@ def create_mma_fighter(fighter, rank, division):
     else:
         fighter_rank = rank
         is_champion = False
+
+    # Full Name
+    # full_name = fighter_first_name + " " + fighter_last_name
 
     # Fighter Image
     fighter_image_link = fighter_page.find("div", {"c-bio__image"}).img["src"]
@@ -73,8 +85,7 @@ def create_mma_fighter(fighter, rank, division):
         round(fighter_height_inches % 12))
 
     Fighter(
-        first_name=fighter_first_name,
-        last_name=fighter_last_name,
+        full_name=' '.join(fighter_name),
         is_champion=is_champion,
         rank=fighter_rank,
         weight_class=division,

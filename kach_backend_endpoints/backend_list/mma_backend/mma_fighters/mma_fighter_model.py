@@ -8,8 +8,9 @@ validator_condition = validators = [
 
 
 class Fighter(models.Model):
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(max_length=100)
+    full_name = models.CharField(max_length=100)
+    first_name = models.CharField(max_length=100, null=True)
+    last_name = models.CharField(max_length=100, null=True)
     weight_class = models.CharField(max_length=100)
     fighter_image = models.CharField(max_length=500)
     height = models.CharField(max_length=10)

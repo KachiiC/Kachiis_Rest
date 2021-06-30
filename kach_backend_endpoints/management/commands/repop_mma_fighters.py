@@ -11,53 +11,54 @@ my_url = "https://www.ufc.com/rankings"
 class Command(BaseCommand):
     def handle(self, *args, **options):
         # Delete all divisions and Fighters
-        Division.objects.all().delete()
-        Fighter.objects.all().delete()
+        # Division.objects.all().delete()
+        # Fighter.objects.all().delete()
 
         # grabbing page
         page = url_webscraper(my_url)
         # grabs each division
         rankings = page.findAll("table")[:-1]
 
-        for rank in rankings:
-            division_name = rank.h4.text.strip()
+        # for rank in rankings:
+        #     division_name = rank.h4.text.strip()
+        #     print(division_name)
+        #
+        #     if division_name.split()[0] == "Women's":
+        #         division_gender = "Women"
+        #     else:
+        #         division_gender = "Men"
+        #
+        #     if division_name != "Men's Pound-for-Pound Top Rank" \
+        #             and division_name != "Women's Pound-for-Pound Top Rank":
+        #
+        #         division_champion = rank.h5.text.strip().split()
+        #         create_mma_fighter(division_champion, "champion", division_name)
+        #
+        #         division_rankings = rank.findAll("tr")
+        #
+        #         for division_fighter in division_rankings:
+        #             fighter_info = division_fighter.findAll("td")
+        #
+        #             fighter_name = fighter_info[1].text.strip().split()
+        #
+        #             fighter_rank = fighter_info[0].text
+        #
+        #             create_mma_fighter(fighter_name, fighter_rank, division_name)
+        #
+        #     Division(
+        #         weight_class=division_name,
+        #         gender=division_gender,
+        #         pound_for_pound=False
+        #     ).save()
+        #
+        #     print(f"{division_name} added...")
 
-            if division_name.split()[0] == "Women's":
-                division_gender = "Women"
-            else:
-                division_gender = "Men"
-
-            if division_name != "Men's Pound-for-Pound Top Rank" \
-                    and division_name != "Women's Pound-for-Pound Top Rank":
-
-                division_champion = rank.h5.text.strip().split()
-                create_mma_fighter(division_champion, "champion", division_name)
-
-                division_rankings = rank.findAll("tr")
-
-                for division_fighter in division_rankings:
-                    fighter_info = division_fighter.findAll("td")
-
-                    fighter_name = fighter_info[1].text.strip().split()
-
-                    fighter_rank = fighter_info[0].text
-
-                    create_mma_fighter(fighter_name, fighter_rank, division_name)
-
-            Division(
-                weight_class=division_name,
-                gender=division_gender,
-                pound_for_pound=False
-            ).save()
-
-            print(f"{division_name} added...")
-
-        else:
-            Division(
-                weight_class=division_name[:-9],
-                gender=division_gender,
-                pound_for_pound=True
-            ).save()
+        # else:
+        #     Division(
+        #         weight_class=division_name[:-9],
+        #         gender=division_gender,
+        #         pound_for_pound=True
+        #     ).save()
 
         # Adds fighters to divisions
         all_fighters = Fighter.objects.all()
@@ -70,11 +71,12 @@ class Command(BaseCommand):
                     division.fighters.add(fighter)
         print("All divisions added!")
 
-        print("Adding fighters to p4p_list...")
+        # print("Adding fighters to p4p_list...")
         pound_for_pound_tables = [0, 9]
+        print(pound_for_pound_tables)
 
-        for division in pound_for_pound_tables:
-            create_mma_p4p(rankings[division])
-        print("p4p division added!")
+        # for division in pound_for_pound_tables:
+        #     create_mma_p4p(rankings[division])
+        # print("p4p division added!")
 
         print("Repop Complete!")

@@ -23,8 +23,7 @@ class FighterSerializer(serializers.ModelSerializer):
     class Meta:
         model = Fighter
         fields = [
-            "first_name",
-            "last_name",
+            "full_name",
             'p4p_ranking',
             "rank",
             "is_champion",

@@ -6,6 +6,7 @@ excluded_fighter = "Jon Jones"
 
 
 def create_mma_p4p(division):
+
     def get_fighter(first_name, last_name):
         find_fighter = Fighter.objects.get(
             first_name=first_name,
